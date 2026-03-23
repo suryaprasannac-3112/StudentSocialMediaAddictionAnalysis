@@ -1,0 +1,706 @@
+Student_ID,Name,Age_teen,Gender_teen,Country_teen,School_Grade,Avg_Daily_Usage_Hours_teen,Sleep_Hours_Per_Night_teen,Affects_Academic_Performance_teen,Social_Interactions,Exercise_Hours,Anxiety_Level,Depression_Level,Self_Esteem,Parental_Control,Screen_Time_Before_Bed,Phone_Checks_Per_Day,Apps_Used_Daily,Time_on_Social_Media,Time_on_Gaming,Time_on_Education,Phone_Usage_Purpose,Family_Communication,Weekend_Usage_Hours,Addicted_Score_teen,Age_social,Gender_social,Academic_Level,Country_social,Avg_Daily_Usage_Hours_social,Most_Used_Platform,Affects_Academic_Performance_social,Sleep_Hours_Per_Night_social,Mental_Health_Score,Relationship_Status,Conflicts_Over_Social_Media,Addicted_Score_social
+1,Shannon Francis,13,Female,Hansonfort,9th,4.0,6.1,78,5,0.1,10,3,8,0,1.4,86,19,3.6,1.7,1.2,Browsing,4,8.7,10.0,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,High
+2,Scott Rodriguez,17,Female,Theodorefort,7th,5.5,6.5,70,5,0.0,3,7,3,0,0.9,96,9,1.1,4.0,1.8,Browsing,2,5.3,10.0,22,Male,Graduate,India,2.1,Twitter,No,7.5,8,Single,0,Low
+3,Adrian Knox,13,Other,Lindseystad,11th,5.8,5.5,93,8,0.8,2,3,10,0,0.5,137,8,0.3,1.5,0.4,Education,6,5.7,9.2,20,Female,Undergraduate,USA,6.0,TikTok,Yes,5.0,5,Complicated,4,High
+4,Brittany Hamilton,18,Female,West Anthony,12th,3.1,3.9,78,8,1.6,9,10,3,0,1.4,128,7,3.1,1.6,0.8,Social Media,8,3.0,9.8,18,Male,High School,UK,3.0,YouTube,No,7.0,7,Single,1,Medium
+5,Steven Smith,14,Other,Port Lindsaystad,9th,2.5,6.7,56,4,1.1,1,5,1,0,1.0,96,20,2.6,0.9,1.1,Gaming,10,3.7,8.6,21,Male,Graduate,Canada,4.5,Facebook,Yes,6.0,6,In Relationship,2,High
+6,Mary Adams,13,Female,East Angelachester,10th,3.9,6.3,89,3,0.7,7,1,3,0,1.1,135,8,3.8,0.0,1.4,Social Media,7,6.0,8.8,19,Female,Undergraduate,Australia,7.2,Instagram,Yes,4.5,4,Complicated,5,High
+7,Hailey Moses,16,Male,North Jeffrey,11th,6.3,6.7,89,3,0.9,6,7,9,0,0.8,129,9,1.8,2.7,1.0,Education,7,7.8,10.0,23,Male,Graduate,Germany,1.5,LinkedIn,No,8.0,9,Single,0,Low
+8,Veronica Marshall,13,Other,Jenniferport,10th,5.1,6.1,70,2,2.2,5,6,8,0,1.0,34,7,2.3,1.6,0.5,Browsing,9,8.0,8.0,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6.0,6,In Relationship,2,High
+9,Edward Avila,13,Male,Leebury,8th,3.0,9.1,79,0,1.8,1,7,6,0,0.9,70,13,2.7,2.2,1.3,Education,10,9.1,7.3,18,Male,High School,Japan,4.0,TikTok,No,6.5,7,Single,1,Medium
+10,James Carter,18,Other,Prestonview,11th,3.9,5.8,89,8,1.1,9,1,9,0,0.9,121,13,2.7,0.4,1.0,Other,9,2.9,9.1,21,Female,Graduate,South Korea,3.3,Instagram,No,7.0,7,In Relationship,1,Medium
+11,Bobby Sparks,18,Female,Cherylburgh,12th,4.9,7.0,74,5,0.6,4,3,2,0,0.6,84,20,3.1,0.6,0.8,Other,6,3.5,10.0,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5,Complicated,3,High
+12,Ruben Walters,14,Male,Lake Mary,11th,1.6,5.9,70,10,1.5,10,8,8,0,0.9,147,18,1.9,2.7,1.0,Browsing,7,3.2,9.8,20,Female,Undergraduate,Spain,5.5,TikTok,Yes,5.8,6,In Relationship,2,High
+13,Sarah Nguyen,19,Female,South Heatherton,10th,7.4,5.8,70,4,0.6,4,9,3,0,1.1,59,19,4.3,0.4,0.4,Gaming,8,9.1,10.0,22,Male,Graduate,Italy,2.8,LinkedIn,No,7.2,8,Single,1,Medium
+14,Melanie Phillips,17,Female,Port Angelaburgh,9th,8.7,5.5,95,6,1.9,2,8,2,1,0.7,76,8,4.2,1.3,1.5,Education,5,4.6,10.0,18,Female,High School,Mexico,6.5,Instagram,Yes,5.5,5,Single,4,High
+15,Edwin Lambert,15,Other,New Emilyberg,12th,6.4,8.5,79,3,0.0,2,8,9,1,0.5,50,14,5.0,1.2,0.0,Social Media,5,5.6,10.0,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7,In Relationship,2,Medium
+16,Gregory Hughes,19,Other,Port Charles,11th,4.4,6.6,97,6,1.6,8,10,4,1,1.2,134,17,2.2,1.5,1.8,Education,4,6.8,10.0,20,Female,Undergraduate,China,4.2,TikTok,Yes,6.0,6,Complicated,3,High
+17,Matthew Webb,15,Female,Lake Chase,8th,5.4,7.8,87,4,2.3,6,6,9,0,0.9,36,20,2.6,1.3,1.1,Gaming,9,1.4,10.0,24,Male,Graduate,Sweden,2.0,LinkedIn,No,7.8,8,Single,0,Low
+18,John Cooper,15,Other,Paulstad,10th,3.0,6.1,80,5,1.4,1,4,2,1,1.2,95,16,3.0,1.9,0.2,Other,7,7.5,10.0,19,Female,High School,Norway,5.0,Instagram,Yes,5.7,5,In Relationship,3,High
+19,Amy Greene,19,Female,Port Nicholasberg,9th,7.9,8.5,96,6,0.1,5,2,4,1,1.0,58,9,2.2,1.9,1.3,Education,5,3.5,10.0,21,Male,Undergraduate,Denmark,3.5,Facebook,No,6.7,7,Single,1,Medium
+20,Kathryn Perez,18,Male,South Thomas,12th,5.4,5.9,69,4,1.3,2,7,8,0,0.6,83,19,1.6,1.0,0.4,Browsing,7,6.1,10.0,20,Female,Undergraduate,Netherlands,4.7,Snapchat,Yes,5.9,6,Complicated,3,High
+21,Michael Williams,15,Female,Margaretmouth,12th,3.0,5.1,83,4,1.1,1,9,4,1,1.5,58,6,1.7,1.7,2.0,Social Media,8,6.7,6.2,18,Male,High School,Belgium,5.3,TikTok,Yes,5.5,5,Single,4,High
+22,Patricia Johnson,16,Female,North Scott,12th,2.7,6.3,92,3,1.4,2,9,3,1,1.7,112,17,2.1,2.6,0.9,Gaming,10,5.7,9.9,23,Female,Graduate,Switzerland,2.5,LinkedIn,No,7.3,8,In Relationship,1,Medium
+23,Jennifer Davis,14,Other,Port Angelabury,11th,2.7,5.1,60,9,0.0,4,6,2,0,1.7,117,16,2.5,1.3,0.2,Education,5,4.8,9.5,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6,Complicated,3,High
+24,Desiree Brady,19,Male,East Amanda,9th,6.9,3.6,79,5,1.0,5,5,10,1,0.8,32,7,2.0,1.3,1.2,Education,7,6.6,10.0,20,Female,Undergraduate,Portugal,5.7,TikTok,Yes,5.4,5,Single,4,High
+25,Mark Crawford,19,Other,Port Alan,12th,4.6,7.2,85,7,1.3,7,6,4,0,1.1,71,5,1.8,0.8,1.1,Social Media,8,6.2,6.0,22,Male,Graduate,Greece,3.2,Facebook,No,6.9,7,In Relationship,2,Medium
+26,Samantha Sanchez,16,Male,Port Bianca,11th,5.5,5.9,78,5,1.2,1,7,3,0,0.7,44,14,0.9,1.3,1.3,Gaming,3,3.9,8.4,19,Female,High School,Ireland,6.1,Instagram,Yes,5.2,5,Complicated,4,High
+27,Kelly Giles,19,Male,West Kimberlyfurt,11th,6.2,4.5,65,3,1.3,5,7,1,0,1.1,115,10,2.1,1.6,1.0,Social Media,7,6.6,10.0,21,Male,Undergraduate,New Zealand,3.8,YouTube,No,6.6,7,Single,1,Medium
+28,Jeffrey Crawford,19,Male,Shawburgh,8th,4.9,9.3,50,4,0.0,7,4,1,0,0.3,117,5,3.5,4.0,0.9,Education,3,7.0,10.0,20,Female,Undergraduate,Singapore,4.4,TikTok,Yes,5.9,6,In Relationship,3,High
+29,Tammy Gallegos,17,Female,West Cynthia,10th,6.6,8.1,77,7,1.0,6,1,3,1,1.5,147,14,2.0,1.7,1.6,Education,8,9.2,10.0,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8,Single,0,Low
+30,Jared Bridges,19,Other,Jessicaberg,11th,8.6,5.2,63,0,1.1,6,4,8,0,1.3,72,15,0.2,1.8,0.7,Browsing,9,6.6,10.0,19,Female,High School,Thailand,5.9,Instagram,Yes,5.3,5,Complicated,4,High
+31,Bailey Flores,15,Other,Lake Martha,12th,4.1,4.5,59,8,0.8,10,1,8,0,0.6,32,10,2.2,1.0,0.5,Education,9,9.3,7.7,21,Male,Undergraduate,Vietnam,3.6,Facebook,No,6.7,7,Single,1,Medium
+32,Jennifer Hudson,19,Male,Vickifurt,10th,4.2,6.9,86,8,1.7,5,1,9,1,1.0,100,15,2.6,2.2,0.9,Browsing,4,6.9,10.0,20,Female,Undergraduate,Philippines,4.8,Snapchat,Yes,5.7,6,In Relationship,3,High
+33,Kathleen Friedman,19,Male,Port Ryan,10th,8.0,5.5,87,7,2.2,1,8,5,0,1.0,26,16,3.3,1.3,2.6,Gaming,6,5.2,10.0,18,Male,High School,Indonesia,5.4,TikTok,Yes,5.4,5,Complicated,4,High
+34,Cynthia Fisher,16,Male,Lake Jamiebury,9th,3.3,5.3,50,4,0.0,7,1,6,0,0.3,141,14,0.7,3.2,0.0,Gaming,5,5.1,10.0,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8,Single,1,Medium
+35,Amy Carroll,16,Male,South Williamfort,12th,4.7,6.6,59,6,1.5,10,4,7,1,0.6,123,18,1.0,1.1,1.2,Social Media,2,0.3,9.6,19,Male,Undergraduate,Hong Kong,4.7,Instagram,Yes,5.8,6,In Relationship,3,High
+36,Monica Roberts,15,Male,West Kristinaview,8th,3.9,6.3,64,9,1.3,6,7,8,1,0.9,135,11,1.2,1.5,1.5,Social Media,7,2.2,8.4,20,Female,Undergraduate,Turkey,5.6,TikTok,Yes,5.5,5,Complicated,4,High
+37,Laura Steele,13,Female,Burketown,8th,4.4,6.8,62,8,1.4,2,1,10,0,1.7,66,7,0.9,0.0,0.0,Browsing,1,6.9,4.6,22,Male,Graduate,Israel,3.1,Facebook,No,6.8,7,Single,1,Medium
+38,Lauren Matthews,13,Male,Christineton,9th,8.3,6.2,65,9,1.3,5,6,8,1,1.3,144,5,2.3,0.0,1.5,Other,1,2.9,10.0,19,Female,High School,UAE,6.2,Instagram,Yes,5.1,5,In Relationship,4,High
+39,Marcus Stephens,16,Other,Schmitthaven,9th,7.4,6.9,67,0,1.7,6,6,8,0,1.6,117,16,1.6,0.7,0.7,Social Media,8,4.6,10.0,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7,Complicated,2,Medium
+40,Cameron Hansen,16,Female,North Christina,12th,1.7,6.8,68,9,0.8,5,9,1,1,0.7,107,18,2.4,0.6,0.0,Education,6,6.2,7.0,20,Female,Undergraduate,Morocco,4.5,TikTok,Yes,5.8,6,Single,3,High
+41,Richard Choi,13,Other,Jasonmouth,8th,6.2,8.3,77,1,0.4,7,2,4,0,1.1,141,5,3.8,1.4,0.9,Browsing,8,6.2,10.0,24,Male,Graduate,South Africa,2.3,LinkedIn,No,7.3,8,In Relationship,1,Medium
+42,Nicholas Gomez,19,Other,Roberttown,12th,5.2,7.2,96,5,0.1,4,10,3,0,0.7,119,16,3.0,1.7,0.6,Gaming,3,6.1,10.0,19,Female,High School,Nigeria,5.8,Instagram,Yes,5.4,5,Complicated,4,High
+43,Jessica Smith,15,Other,Andreville,11th,3.3,5.3,89,7,0.0,9,6,9,0,0.3,77,18,1.1,1.0,0.0,Gaming,9,10.4,7.9,21,Male,Undergraduate,Kenya,3.7,Facebook,No,6.6,7,Single,2,Medium
+44,Brittany Myers,13,Male,Nguyenfort,11th,6.9,6.2,89,4,1.1,3,2,7,1,0.3,140,13,3.0,1.9,0.7,Gaming,9,4.1,10.0,20,Female,Undergraduate,Ghana,4.6,Snapchat,Yes,5.7,6,In Relationship,3,High
+45,Alicia White,13,Male,Millerton,9th,6.6,5.0,88,8,2.1,10,7,10,0,2.0,56,20,2.1,1.4,0.4,Education,9,6.2,10.0,18,Male,High School,Argentina,5.5,TikTok,Yes,5.3,5,Single,4,High
+46,Brandi King,18,Female,Evanschester,8th,1.0,6.2,60,5,1.4,6,3,10,0,0.4,25,16,3.1,0.0,2.0,Gaming,4,5.8,4.7,23,Female,Graduate,Chile,2.7,LinkedIn,No,7.1,8,Complicated,1,Medium
+47,Kenneth Travis,17,Male,Castilloside,8th,6.7,4.7,67,3,1.3,10,1,3,0,0.8,129,6,2.8,0.8,1.7,Gaming,7,9.9,10.0,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6,In Relationship,3,High
+48,James Sanchez,19,Other,Adamsside,11th,7.1,7.1,67,2,0.4,1,1,4,0,2.6,119,16,2.8,2.4,0.0,Gaming,4,5.3,10.0,20,Female,Undergraduate,Peru,5.5,TikTok,Yes,5.6,5,Single,4,High
+49,Tyrone Cabrera,18,Male,New Ericview,7th,4.7,6.5,69,6,1.5,10,3,1,0,1.3,119,5,3.4,1.0,0.0,Gaming,10,4.7,9.2,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7,In Relationship,2,Medium
+50,Curtis Castro,14,Male,East Amber,11th,8.1,7.2,91,6,1.4,8,7,8,1,0.3,120,13,1.4,2.2,1.9,Education,9,6.0,10.0,19,Female,High School,Ecuador,6.3,Instagram,Yes,5.2,5,Complicated,4,High
+51,Steven Chavez,14,Male,Yuport,9th,4.3,5.9,75,4,2.5,5,1,8,1,2.2,105,17,1.9,1.4,1.4,Other,1,3.1,10.0,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,Medium
+52,Cody Young,17,Male,Savagetown,11th,3.9,8.4,97,3,0.5,1,7,8,0,1.2,66,13,4.3,1.6,1.0,Education,6,4.9,9.5,20,Female,Undergraduate,Paraguay,4.7,TikTok,Yes,5.8,6,In Relationship,3,High
+53,Victoria Clark,13,Other,Collinston,9th,9.0,7.3,79,6,1.1,1,1,7,1,0.8,127,17,3.1,1.5,0.0,Education,1,6.9,10.0,24,Male,Graduate,Bolivia,2.4,LinkedIn,No,7.2,8,Complicated,1,Medium
+54,Peggy Bond,15,Other,East Laurieview,8th,4.5,7.8,93,5,1.0,7,7,2,1,1.3,83,17,2.6,1.2,2.4,Education,8,6.0,9.5,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5,Single,4,High
+55,Candace Anderson,14,Other,Kimberlyburgh,11th,4.4,4.1,56,9,1.7,7,7,1,1,0.8,129,16,4.9,1.4,0.6,Other,10,6.1,10.0,21,Male,Undergraduate,Panama,3.6,Facebook,No,6.5,7,In Relationship,2,Medium
+56,Tammy Payne,19,Other,South Thomas,12th,5.9,8.5,87,2,0.0,4,10,9,0,1.5,48,6,3.0,1.5,0.7,Social Media,2,6.5,8.3,20,Female,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,6,Complicated,3,High
+57,Mrs. Lauren Ayala,17,Other,Port Dustin,10th,3.3,6.1,78,2,3.6,2,9,9,1,1.2,141,17,1.9,1.0,0.2,Education,8,5.1,9.4,18,Male,High School,Trinidad,5.6,TikTok,Yes,5.2,5,Single,4,High
+58,Edward Jackson,15,Female,Davidberg,12th,2.9,5.5,71,1,1.1,9,2,1,1,0.9,117,10,2.0,1.6,1.3,Gaming,7,4.6,8.1,23,Female,Graduate,Bahamas,2.8,LinkedIn,No,7.0,8,In Relationship,1,Medium
+59,Kathleen Hoffman,17,Male,Walkerburgh,11th,3.4,4.7,79,10,0.9,8,4,5,0,0.6,123,6,3.0,1.7,0.7,Other,5,7.6,9.4,19,Male,Undergraduate,Iceland,4.6,Instagram,Yes,5.9,6,Complicated,3,High
+60,Kelly Carrillo,17,Female,West Tracey,7th,6.3,7.4,77,8,1.6,4,4,10,0,1.4,110,8,3.7,1.5,1.9,Gaming,1,3.1,10.0,20,Female,Undergraduate,Finland,5.4,TikTok,Yes,5.7,5,Single,4,High
+61,Derek York,19,Male,Shafferville,10th,3.7,7.9,89,9,0.7,8,7,7,0,0.3,92,7,0.9,2.1,0.9,Education,7,2.0,6.0,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7,Single,1,Medium
+62,Ashley Velasquez,18,Male,Johnsonstad,7th,4.7,6.9,77,7,0.9,6,10,1,0,1.0,105,12,0.7,1.3,0.0,Education,8,8.3,7.8,19,Female,Undergraduate,Romania,5.6,Instagram,Yes,5.6,5,In Relationship,3,High
+63,Sara Williams,17,Other,Traceymouth,8th,6.7,7.9,54,8,1.3,7,10,7,0,0.2,84,9,2.2,1.3,1.4,Education,9,7.9,9.7,20,Male,Undergraduate,Hungary,4.2,TikTok,Yes,6.0,6,Complicated,3,High
+64,Linda Fletcher,18,Female,Lake Samanthabury,12th,5.3,7.7,63,1,2.2,10,6,4,1,0.7,135,6,1.7,2.4,1.6,Other,9,5.7,9.4,18,Female,High School,Czech Republic,6.1,Snapchat,Yes,5.2,4,Single,4,High
+65,Jaclyn Salazar,17,Male,Alejandraburgh,12th,8.7,5.2,87,5,0.0,4,8,2,1,1.2,146,10,4.0,0.6,0.4,Gaming,6,5.9,10.0,23,Male,Graduate,Slovakia,2.3,LinkedIn,No,7.4,8,In Relationship,1,Low
+66,Stephanie Fletcher,17,Other,Port Jonathanside,9th,3.9,8.0,80,3,1.5,4,5,10,0,0.3,41,11,2.6,0.0,1.1,Social Media,2,5.7,5.5,21,Female,Undergraduate,Croatia,4.8,Instagram,Yes,5.8,6,Single,3,High
+67,Zachary Parks,16,Female,Bradyton,10th,7.4,6.6,100,3,1.1,2,3,5,1,1.3,90,19,2.1,0.8,0.6,Other,9,9.3,10.0,20,Male,Undergraduate,Serbia,3.9,YouTube,No,6.5,7,Complicated,2,Medium
+68,Chelsey Dillon,18,Female,Franciston,11th,6.8,10.0,98,7,1.7,7,8,3,1,1.7,72,16,2.4,1.0,2.0,Social Media,10,7.6,9.8,19,Female,High School,Slovenia,5.7,TikTok,Yes,5.4,5,In Relationship,4,High
+69,Elijah Lewis,18,Female,Candacemouth,8th,7.0,8.0,70,5,1.9,8,5,7,1,0.7,133,9,1.6,0.6,0.4,Gaming,5,1.8,9.7,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8,Single,1,Medium
+70,Joseph Franklin,16,Male,West Lisaview,8th,5.8,7.2,88,5,1.0,9,9,2,0,0.7,30,15,2.6,0.7,0.5,Browsing,10,9.7,9.1,20,Female,Undergraduate,Estonia,4.5,Instagram,Yes,5.9,6,Complicated,3,High
+71,Christine Hansen,17,Other,Jamesbury,12th,4.1,5.5,67,2,0.2,1,7,4,1,0.5,120,16,4.3,2.1,2.0,Browsing,8,11.0,10.0,18,Male,High School,Latvia,5.4,Snapchat,Yes,5.5,5,Single,4,High
+72,Kristen Holmes,19,Other,Hickschester,12th,4.9,4.4,86,5,1.8,7,6,7,1,0.9,90,15,2.5,1.2,0.5,Other,2,4.2,10.0,21,Female,Graduate,Lithuania,3.2,Facebook,No,6.8,7,In Relationship,2,Medium
+73,Michelle Ellis,18,Male,West Erikashire,12th,4.4,6.6,95,3,1.1,8,1,3,1,0.6,91,15,2.2,1.6,0.8,Education,1,3.9,9.7,19,Male,Undergraduate,Ukraine,4.9,TikTok,Yes,5.7,6,Complicated,3,High
+74,Dr. David Howard,19,Male,South Taylortown,8th,6.3,3.0,58,8,1.1,5,2,8,0,0.6,48,6,3.9,1.1,0.1,Other,6,8.5,10.0,20,Female,Undergraduate,Moldova,5.8,Instagram,Yes,5.3,5,Single,4,High
+75,Michael Tucker,15,Male,New Gregstad,9th,5.8,6.9,84,8,2.3,3,9,3,1,0.5,106,7,3.1,1.2,1.5,Social Media,6,5.5,10.0,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8,In Relationship,1,Medium
+76,Brenda Lee,13,Female,Morganshire,8th,6.5,7.2,58,10,0.3,9,6,5,0,1.1,74,6,2.6,2.0,1.1,Gaming,9,8.7,10.0,21,Female,Undergraduate,Kazakhstan,4.6,Snapchat,Yes,5.8,6,Single,3,High
+77,Jennifer Levine,17,Female,West Michael,9th,5.8,7.0,76,8,1.7,5,5,5,1,1.7,116,19,3.0,2.2,2.2,Education,9,3.3,10.0,19,Male,High School,Uzbekistan,5.5,TikTok,Yes,5.4,5,Complicated,4,High
+78,Joshua Moore,19,Other,Gonzalezland,7th,5.1,7.0,64,4,1.5,10,6,7,0,1.7,140,5,0.5,1.7,0.9,Gaming,2,7.7,7.6,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7.0,7,In Relationship,2,Medium
+79,Marcus Gibson,13,Other,East Thomas,8th,5.2,6.0,87,0,0.8,1,5,8,1,1.6,79,11,4.2,0.0,1.2,Gaming,6,3.7,10.0,20,Male,Undergraduate,Tajikistan,4.7,YouTube,Yes,5.9,6,Single,3,High
+80,Mackenzie Wright,13,Male,Antoniohaven,11th,4.8,8.6,78,8,0.0,3,3,10,1,1.0,51,9,3.0,2.4,1.6,Social Media,7,7.1,8.7,18,Female,High School,Armenia,5.9,Instagram,Yes,5.2,5,Complicated,4,High
+81,Christopher Smith,19,Male,Lake Susanport,11th,4.3,4.3,91,6,0.0,9,8,5,0,0.9,98,7,2.2,0.6,0.3,Social Media,8,5.2,8.3,21,Male,Graduate,Georgia,3.0,LinkedIn,No,7.1,8,In Relationship,1,Medium
+82,Andrew Kim,19,Female,North Cristina,7th,7.6,6.4,88,4,0.0,6,4,8,0,1.8,77,15,4.6,0.0,0.0,Gaming,7,7.1,10.0,19,Female,Undergraduate,Azerbaijan,4.8,TikTok,Yes,5.7,6,Single,3,High
+83,Rebecca Reynolds,17,Female,Lake Adrianberg,7th,5.5,6.9,65,3,0.4,6,9,9,1,0.4,82,6,1.6,1.1,0.2,Browsing,4,6.2,7.6,20,Male,Undergraduate,Cyprus,3.8,Facebook,No,6.6,7,Complicated,2,Medium
+84,Catherine Bradshaw,15,Other,Sarahfurt,10th,4.8,6.3,76,8,1.6,2,6,7,1,1.1,136,11,4.8,1.3,1.2,Social Media,8,5.3,10.0,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8,In Relationship,1,Medium
+85,Tammy Carter,19,Other,Marktown,9th,7.4,6.3,75,6,1.5,9,7,2,1,0.3,85,9,2.9,2.9,0.0,Social Media,1,7.6,10.0,18,Male,High School,Luxembourg,5.6,Snapchat,Yes,5.3,5,Single,4,High
+86,Maria Ochoa,16,Male,South Tonyton,12th,3.8,5.1,85,1,0.0,8,7,8,0,0.6,104,10,1.8,0.5,1.3,Social Media,9,9.3,7.6,21,Female,Undergraduate,Monaco,4.5,Instagram,Yes,5.8,6,Complicated,3,High
+87,James Herrera,13,Other,Lake Nancy,10th,7.3,5.6,84,1,0.2,4,1,8,0,1.2,22,11,2.2,2.0,0.9,Other,1,4.1,10.0,19,Male,High School,Andorra,5.3,TikTok,Yes,5.5,5,In Relationship,4,High
+88,Brian Coleman,19,Female,Kevinport,8th,0.7,4.6,64,6,1.3,10,1,9,0,0.4,146,10,2.2,0.2,1.3,Other,3,5.3,5.7,23,Female,Graduate,San Marino,2.6,LinkedIn,No,7.3,8,Single,1,Medium
+89,Gregory Martinez,14,Male,South Adamside,11th,3.0,6.6,82,0,0.8,1,3,3,0,0.6,84,6,3.7,2.3,1.0,Other,9,6.7,8.6,20,Male,Undergraduate,Vatican City,4.4,YouTube,Yes,6.0,6,Complicated,3,High
+90,Richard Nichols,19,Other,East Andrewport,12th,4.0,7.4,83,3,0.3,10,4,4,0,0.6,55,18,4.1,0.8,0.0,Gaming,3,7.4,9.9,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,5,Single,4,High
+91,Steven Tanner,16,Other,Craigstad,12th,8.1,6.8,59,1,0.0,7,3,1,0,0.6,129,7,0.7,2.5,1.5,Other,1,5.1,10.0,22,Male,Graduate,Montenegro,2.9,Facebook,No,7.0,7,In Relationship,2,Medium
+92,Michael Farmer,17,Male,Guerrafort,12th,5.2,6.6,56,10,0.9,6,8,4,0,0.5,98,16,2.4,1.4,1.0,Other,5,8.1,10.0,19,Female,Undergraduate,Albania,4.7,TikTok,Yes,5.8,6,Complicated,3,High
+93,Keith Ward,18,Other,Parsonsfurt,7th,1.7,6.2,52,8,1.3,2,2,7,0,1.3,76,17,1.1,1.9,0.7,Social Media,7,6.5,6.5,21,Male,Undergraduate,North Macedonia,3.7,Snapchat,No,6.5,7,Single,2,Medium
+94,Aaron Parker,15,Male,Port Maryborough,8th,6.8,7.4,100,9,1.1,6,7,7,0,1.9,123,11,4.2,1.6,0.7,Social Media,5,6.8,10.0,20,Female,High School,Kosovo,5.5,Instagram,Yes,5.4,5,In Relationship,4,High
+95,Wesley Miller,18,Female,Sherryton,9th,6.4,10.0,89,0,1.2,9,9,8,0,0.5,128,9,4.1,3.2,1.4,Education,2,4.6,10.0,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,Medium
+96,Tiffany Santiago,17,Male,Wilsonton,9th,7.2,7.4,63,7,0.1,2,3,8,0,0.7,112,11,3.8,0.5,0.5,Social Media,4,2.3,10.0,19,Female,Undergraduate,Qatar,4.9,TikTok,Yes,5.7,6,Single,3,High
+97,Lindsey Sloan,18,Female,Lake Adamfort,10th,3.3,5.7,93,5,1.7,9,6,7,1,0.1,72,17,3.6,1.2,0.3,Other,10,6.6,10.0,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.3,5,In Relationship,4,High
+98,Kristin Martin,16,Male,East Patrickburgh,8th,4.7,8.5,98,3,0.2,4,5,8,0,0.1,20,16,2.8,1.3,0.3,Social Media,8,6.2,8.2,22,Female,Graduate,Bahrain,2.8,LinkedIn,No,7.1,8,Complicated,1,Medium
+99,Valerie Blevins,18,Female,East Lynn,9th,2.8,7.0,93,5,0.8,4,5,2,0,1.5,42,6,2.8,1.0,0.6,Social Media,10,8.2,5.1,20,Male,Undergraduate,Oman,4.6,Instagram,Yes,5.9,6,Single,3,High
+100,Morgan Mills,16,Female,East Derrick,8th,6.2,8.7,53,1,0.1,7,6,10,1,0.5,24,12,1.6,2.5,1.0,Other,7,6.7,8.8,21,Female,Undergraduate,Jordan,5.4,TikTok,Yes,5.5,5,In Relationship,4,High
+101,Christian Perkins,17,Male,East Wendymouth,9th,6.7,8.5,91,4,1.4,8,7,2,0,0.2,49,9,2.1,3.5,1.5,Browsing,8,5.7,10.0,19,Male,High School,Lebanon,5.8,YouTube,Yes,5.2,5,Complicated,4,High
+102,John Evans,14,Other,Port Pamelatown,8th,2.2,5.1,69,7,1.0,6,3,8,1,1.3,24,16,2.6,2.2,1.1,Other,9,7.6,8.1,23,Female,Graduate,Iraq,2.5,LinkedIn,No,7.3,8,Single,1,Medium
+103,Ashley Chang,13,Female,Harrisbury,11th,4.1,6.3,57,3,2.0,5,3,7,0,0.4,78,13,1.7,2.2,0.3,Gaming,3,5.8,9.0,20,Male,Undergraduate,Yemen,4.7,Facebook,Yes,5.8,6,In Relationship,3,High
+104,Julia Ross,13,Male,Taraland,11th,5.3,5.9,85,9,0.6,6,1,2,1,0.9,98,14,2.3,2.6,0.9,Education,8,8.9,10.0,18,Female,High School,Syria,5.6,Instagram,Yes,5.4,5,Single,4,High
+105,Ashley Foster,18,Female,South Shelleyfort,8th,4.7,3.4,71,1,1.8,7,4,7,1,1.5,87,9,0.1,0.0,0.0,Education,7,6.7,6.6,22,Male,Graduate,Afghanistan,2.9,LinkedIn,No,7.0,7,Complicated,2,Medium
+106,Katherine Hensley,19,Other,East Angelaland,10th,4.5,7.4,67,9,1.1,10,1,2,1,0.8,68,11,2.6,1.0,0.9,Gaming,4,7.4,8.0,19,Female,Undergraduate,Pakistan,4.8,TikTok,Yes,5.7,6,In Relationship,3,High
+107,Christopher Watts,13,Male,South Josephstad,7th,5.6,5.8,85,4,0.6,1,2,8,1,1.4,44,7,2.1,0.0,1.5,Gaming,7,6.6,7.1,21,Male,Undergraduate,Nepal,3.8,YouTube,No,6.6,7,Single,2,Medium
+108,Benjamin Bradley,15,Other,Rhondafurt,7th,7.3,5.0,67,2,0.5,8,5,5,0,1.4,77,18,1.2,1.1,0.8,Gaming,4,8.0,10.0,20,Female,High School,Bhutan,5.5,Snapchat,Yes,5.5,5,Complicated,4,High
+109,Rebecca Edwards,18,Female,Jaredmouth,11th,4.6,9.4,55,2,0.8,2,4,5,1,1.1,113,7,1.6,1.7,1.6,Education,4,8.6,6.9,23,Male,Graduate,Sri Lanka,2.6,LinkedIn,No,7.2,8,In Relationship,1,Medium
+110,Sarah Harrison,15,Other,North Cherylburgh,9th,2.0,5.9,74,5,0.9,2,9,6,0,1.1,47,12,2.0,1.3,1.4,Other,1,4.4,5.7,19,Female,Undergraduate,Maldives,4.9,Instagram,Yes,5.8,6,Single,3,High
+111,Kimberly Hooper,14,Male,Bentleytown,9th,1.6,6.1,70,7,0.0,9,5,1,0,1.6,42,5,4.8,0.8,1.5,Social Media,3,1.8,6.0,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,High
+112,Melissa Becker DDS,18,Other,East Pamelaside,9th,2.0,7.5,76,0,1.1,1,7,2,1,0.9,115,7,1.4,1.9,1.3,Gaming,10,5.6,5.2,21,Female,Undergraduate,India,5.8,TikTok,Yes,5.9,6,In Relationship,3,High
+113,John Griffin,16,Male,Loveberg,10th,3.0,4.7,51,10,3.0,1,8,1,1,0.3,42,18,1.7,3.3,0.0,Education,3,6.7,10.0,19,Male,Undergraduate,Nepal,4.9,Facebook,No,7.1,7,Single,2,Medium
+114,James Alvarez,15,Female,Port Veronicamouth,9th,6.9,3.9,73,9,2.2,1,6,4,0,0.8,58,16,3.3,2.8,1.8,Education,3,4.9,10.0,22,Female,Graduate,Pakistan,5.5,Instagram,Yes,6.0,5,Single,4,High
+115,Brad Sanchez,16,Other,Port Samanthaberg,8th,5.5,5.4,63,8,0.0,5,10,3,1,2.0,72,14,1.4,0.0,0.8,Other,1,8.3,8.4,20,Male,Undergraduate,Sri Lanka,5.2,TikTok,Yes,6.3,6,In Relationship,3,High
+116,Cory Santiago,15,Female,Robertshire,11th,6.6,9.5,53,5,1.0,8,4,1,0,0.8,121,13,4.5,1.7,2.8,Gaming,6,6.4,10.0,19,Female,Undergraduate,Maldives,4.8,Instagram,No,7.2,8,Single,2,Medium
+117,Shelley Curtis,19,Other,South Brittanychester,12th,8.3,5.7,58,9,1.6,3,1,3,0,0.1,21,9,1.7,0.8,1.2,Other,10,6.5,10.0,21,Male,Graduate,Bangladesh,6.0,Facebook,Yes,5.8,5,In Relationship,4,High
+118,Cheryl Thomas,18,Other,East Chadhaven,8th,3.6,3.1,56,0,2.4,5,9,4,1,0.9,80,16,3.2,0.3,1.5,Social Media,7,7.3,10.0,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,High
+119,Meagan Banks,17,Male,Glennshire,9th,5.4,3.1,88,0,0.0,7,10,10,0,0.7,29,11,2.9,0.3,0.5,Social Media,3,1.7,9.8,22,Male,Graduate,Nepal,4.7,TikTok,No,7.3,7,Single,2,Medium
+120,Dr. Elizabeth Porter,19,Other,Mirandaborough,9th,2.1,7.3,71,7,0.5,4,1,4,1,1.7,54,9,2.5,1.5,1.6,Education,5,2.1,5.3,19,Female,Undergraduate,Pakistan,5.4,Instagram,Yes,6.2,5,In Relationship,4,High
+121,Monica Shelton,16,Male,Brownchester,7th,7.8,7.4,81,0,1.9,5,6,10,0,1.1,135,14,3.6,1.1,1.3,Browsing,6,4.5,10.0,20,Male,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,6,Single,3,High
+122,Heather Wilson,14,Male,Chelseafurt,9th,4.3,3.9,64,2,2.9,10,10,6,1,0.6,119,9,1.1,1.4,1.8,Other,4,6.7,9.0,21,Female,Graduate,Maldives,4.6,Instagram,No,7.4,8,In Relationship,2,Medium
+123,Angie White,18,Other,West Maryport,12th,7.4,7.4,80,0,1.1,1,2,3,0,1.9,57,20,1.9,0.9,1.6,Gaming,10,4.6,10.0,19,Male,Undergraduate,Bangladesh,5.3,TikTok,Yes,6.3,5,Single,4,High
+124,Grace Mullen,18,Female,West Donna,7th,6.4,7.9,72,4,2.0,5,6,4,1,0.7,23,13,0.7,2.4,0.7,Other,3,7.4,8.6,22,Female,Graduate,India,5.8,Instagram,Yes,5.8,6,In Relationship,3,High
+125,Megan Colon,13,Other,West Jeremy,9th,2.0,8.4,78,10,1.6,5,1,10,0,0.4,140,17,2.0,0.8,2.4,Gaming,1,5.1,6.8,20,Male,Undergraduate,Nepal,4.5,Facebook,No,7.5,7,Single,2,Medium
+126,Christine Cunningham,15,Male,Lake Laurastad,8th,2.6,6.8,65,0,1.3,6,5,2,1,1.0,26,6,1.8,2.8,1.1,Other,6,9.5,5.5,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5,In Relationship,4,High
+127,Sonya Armstrong,13,Other,North Brian,7th,4.4,5.0,68,7,3.7,2,4,8,0,1.8,70,18,2.4,1.1,0.7,Browsing,2,5.1,10.0,19,Male,Undergraduate,Sri Lanka,5.7,TikTok,Yes,5.7,6,Single,3,High
+128,Heather Johnson,16,Other,Masonbury,8th,4.8,6.5,57,7,0.7,9,10,8,0,0.8,68,16,0.5,3.7,0.0,Education,3,7.9,10.0,20,Female,Undergraduate,Maldives,4.4,Instagram,No,7.6,8,In Relationship,2,Medium
+129,Jennifer Chen,15,Other,Port Anthony,10th,7.7,5.9,75,2,2.2,2,8,10,0,1.0,74,16,2.4,2.9,0.9,Browsing,2,4.2,10.0,22,Male,Graduate,Bangladesh,5.1,Facebook,Yes,6.5,5,Single,4,High
+130,Charles Williams,17,Other,Lisaport,12th,4.2,5.6,88,10,0.5,9,6,2,0,1.1,58,19,3.3,0.4,0.2,Gaming,5,7.1,10.0,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6,In Relationship,3,High
+131,Denise Peters,17,Other,Jonathonfort,12th,4.6,5.7,98,4,0.6,8,5,1,0,1.1,46,18,2.2,2.5,1.7,Browsing,3,7.4,10.0,19,Male,Undergraduate,Nepal,4.3,TikTok,No,7.7,7,Single,2,Medium
+132,Pamela Torres,19,Male,Swansonhaven,9th,2.9,6.5,94,5,0.0,8,7,5,0,1.3,126,15,3.3,1.1,0.0,Gaming,4,3.4,9.6,20,Female,Undergraduate,Pakistan,5.0,Instagram,Yes,6.6,5,In Relationship,4,High
+133,Sandra Hanson,14,Female,East Calebburgh,10th,6.8,5.5,55,1,0.6,9,10,10,0,1.1,129,10,3.2,2.6,0.7,Browsing,8,4.9,10.0,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6,Single,3,High
+134,Donna Shaffer,18,Male,Hugheschester,9th,4.7,5.9,61,10,0.1,10,4,2,0,2.0,95,12,3.3,2.4,0.6,Social Media,3,5.1,10.0,21,Female,Graduate,Maldives,4.2,Instagram,No,7.8,8,In Relationship,2,Medium
+135,Erin Garcia,19,Female,Nicholsburgh,10th,4.1,7.6,85,6,0.1,3,3,3,0,0.8,25,20,3.0,0.2,1.5,Other,3,7.7,8.0,19,Male,Undergraduate,Bangladesh,4.9,TikTok,Yes,6.7,5,Single,4,High
+136,Amy Smith,14,Female,Port Jordanmouth,8th,0.0,6.0,75,0,0.8,5,7,4,0,1.2,111,7,3.0,1.6,0.0,Education,1,3.6,5.2,20,Female,Undergraduate,India,5.4,Instagram,Yes,5.4,6,In Relationship,3,High
+137,Megan Knight,15,Female,Kimberlychester,7th,4.3,9.3,61,2,0.0,7,8,4,1,0.3,31,5,2.6,2.6,0.8,Other,5,6.4,6.5,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7,Single,2,Medium
+138,Valerie Henderson,13,Male,Melissashire,9th,3.3,8.0,60,7,0.4,6,6,2,0,1.6,70,20,3.0,1.5,0.8,Education,9,4.9,9.2,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,High
+139,Austin Nelson,14,Female,Wagnermouth,7th,8.0,5.8,79,7,1.1,1,1,4,1,0.7,130,17,1.8,2.4,1.4,Browsing,4,4.5,10.0,19,Male,Undergraduate,Sri Lanka,5.3,TikTok,Yes,5.3,6,Single,3,High
+140,Michael Evans,17,Other,Marioville,9th,5.0,5.1,90,3,1.0,6,8,9,1,0.7,68,18,2.6,2.4,1.3,Browsing,9,8.3,10.0,20,Female,Undergraduate,Maldives,4.0,Instagram,No,8.0,8,In Relationship,2,Medium
+141,Diane Day,18,Other,Lake Rachel,11th,2.5,4.8,51,10,1.3,6,10,1,1,0.5,83,6,2.0,0.0,3.0,Gaming,5,4.5,5.0,22,Male,Graduate,Bangladesh,4.7,Facebook,Yes,6.9,5,Single,4,High
+142,Brian Mcdonald,14,Female,Meghanfurt,12th,4.8,4.0,81,0,1.6,9,5,4,1,1.4,124,18,2.8,2.2,1.4,Browsing,6,4.7,10.0,21,Female,Graduate,India,5.2,Instagram,Yes,5.2,6,In Relationship,3,High
+143,Eric Hunter,18,Other,New Julie,11th,5.0,5.5,71,6,0.4,7,3,10,1,1.0,92,14,1.5,0.6,1.5,Browsing,7,9.0,9.0,19,Male,Undergraduate,Nepal,3.9,TikTok,No,8.1,7,Single,2,Medium
+144,Victoria Huff,16,Female,Donnaside,11th,7.1,3.0,56,6,0.0,1,4,1,1,1.4,116,18,2.2,2.3,2.1,Other,5,4.1,10.0,20,Female,Undergraduate,Pakistan,4.6,Instagram,Yes,7.0,5,In Relationship,4,High
+145,Ana Le,18,Female,Cameronbury,7th,7.9,6.5,55,4,0.0,8,9,5,1,2.0,97,11,1.8,0.8,0.3,Gaming,9,2.4,10.0,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,High
+146,Daniel Robinson,14,Male,Parksfurt,12th,7.4,6.4,81,9,0.4,4,10,4,1,1.4,116,6,1.2,0.0,1.0,Social Media,5,3.9,8.9,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8,In Relationship,2,Medium
+147,Justin Collins,15,Female,New Kellystad,11th,2.5,5.4,66,0,0.6,9,8,4,0,0.6,85,14,1.9,1.2,1.7,Social Media,9,5.0,7.4,19,Male,Undergraduate,Bangladesh,4.5,TikTok,Yes,7.1,5,Single,4,High
+148,Paula Jones,19,Male,Blackburnhaven,9th,6.4,7.8,62,3,0.0,6,3,7,1,0.6,41,11,2.6,3.6,2.2,Other,5,9.4,10.0,20,Female,Undergraduate,India,5.0,Instagram,Yes,5.0,6,In Relationship,3,High
+149,Kathryn Matthews,16,Other,Lake Luis,10th,7.0,7.9,89,1,0.7,3,10,8,0,1.0,56,11,2.4,0.8,0.0,Other,9,3.2,9.6,22,Male,Graduate,Nepal,3.7,Facebook,No,8.3,7,Single,2,Medium
+150,Michelle Jones,13,Female,Matthewland,9th,5.1,4.3,63,9,1.3,4,8,6,0,0.0,49,6,3.0,0.8,2.2,Browsing,1,7.9,8.9,21,Female,Graduate,Pakistan,4.4,Instagram,Yes,7.2,5,In Relationship,4,High
+151,Erica Brown,14,Male,Nancyfort,9th,6.9,7.1,98,8,0.2,8,4,8,0,1.2,54,7,1.3,0.8,0.3,Gaming,10,6.9,7.9,19,Male,Undergraduate,Sri Lanka,4.9,TikTok,Yes,4.9,6,Single,3,High
+152,Michelle Perez,13,Female,West Alanfort,10th,4.0,6.2,59,7,0.2,10,10,1,0,0.7,114,13,2.7,2.5,0.8,Social Media,5,6.9,10.0,20,Female,Undergraduate,Maldives,3.6,Instagram,No,8.4,8,In Relationship,2,Medium
+153,Steven Davis,16,Male,Sanchezport,8th,6.6,9.4,82,3,1.1,7,4,7,0,0.3,83,20,0.7,1.8,0.5,Gaming,5,3.5,10.0,22,Male,Graduate,Bangladesh,4.3,Facebook,Yes,7.3,5,Single,4,High
+154,Lynn Smith,18,Male,North Saraburgh,10th,5.7,6.2,77,3,1.6,4,1,8,0,2.0,115,12,2.3,1.0,1.9,Education,3,6.2,10.0,21,Female,Graduate,India,4.8,Instagram,Yes,4.8,6,In Relationship,3,High
+155,Maria Fuller DDS,13,Other,South Jamesborough,8th,2.9,5.8,67,9,0.0,7,3,1,0,1.1,86,13,2.6,1.7,0.9,Education,8,7.0,8.6,19,Male,Undergraduate,Nepal,3.5,TikTok,No,8.5,7,Single,2,Medium
+156,Sheila Bennett,17,Female,Boothside,9th,4.8,4.1,63,9,1.2,9,7,7,0,0.3,91,20,1.9,1.6,1.4,Gaming,4,8.0,10.0,20,Female,Undergraduate,Pakistan,4.2,Instagram,Yes,7.4,5,In Relationship,4,High
+157,Elizabeth Harding,16,Female,Wilsonside,8th,7.3,6.3,77,6,0.5,3,5,6,0,0.7,138,6,2.8,1.7,2.4,Browsing,4,8.6,10.0,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,High
+158,Bradley Jones,13,Female,West Kathleen,8th,4.9,5.6,98,8,0.4,4,2,3,1,0.5,121,10,4.1,0.7,1.3,Other,1,6.3,10.0,21,Female,Graduate,Maldives,3.4,Instagram,No,8.6,8,In Relationship,2,Medium
+159,Juan Carpenter,19,Male,Flowersshire,12th,6.7,5.9,79,7,0.0,2,9,7,1,0.2,130,17,2.2,2.1,0.2,Browsing,5,3.1,10.0,19,Male,Undergraduate,Bangladesh,4.1,TikTok,Yes,7.5,5,Single,4,High
+160,Michael Garcia,19,Other,Prestonfort,12th,2.2,8.2,60,5,2.0,10,7,3,1,0.5,70,10,3.4,1.1,2.3,Gaming,2,9.7,6.0,20,Female,Undergraduate,India,4.6,Instagram,Yes,4.6,6,In Relationship,3,High
+161,Michael Parker,13,Male,New Christianfort,8th,3.3,7.6,55,0,0.0,4,2,6,0,1.2,47,15,2.8,0.0,0.6,Browsing,1,7.2,6.2,19,Female,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,5,Single,3,High
+162,Alan Torres,14,Other,Port Melvinshire,9th,6.8,4.8,76,6,2.2,2,8,5,1,0.9,142,12,4.0,0.0,1.6,Other,5,7.9,10.0,21,Male,Graduate,India,4.8,Facebook,No,7.2,7,In Relationship,2,Medium
+163,Mary Roman,18,Other,Richardbury,11th,5.2,6.6,93,4,0.0,8,10,4,1,1.1,36,18,2.5,1.9,1.6,Education,10,7.5,10.0,20,Female,Undergraduate,Nepal,5.5,TikTok,Yes,5.9,6,Single,4,High
+164,Joshua Moore,19,Male,Jamieville,11th,6.0,3.1,78,1,1.0,4,4,2,0,0.6,130,6,2.7,1.8,1.6,Browsing,3,10.0,10.0,22,Male,Graduate,Pakistan,4.7,Instagram,Yes,6.3,5,In Relationship,3,High
+165,Douglas Mason,15,Other,New Darlene,12th,5.9,5.0,74,1,1.0,9,8,3,1,0.8,94,6,4.6,2.7,1.2,Gaming,2,4.0,10.0,19,Female,Undergraduate,Sri Lanka,5.1,Facebook,No,7.0,7,Single,2,Medium
+166,Donna Morgan,19,Female,Kellyton,10th,3.7,4.6,72,0,0.6,4,10,7,1,1.2,146,18,2.0,2.2,1.8,Gaming,10,4.6,10.0,21,Male,Graduate,Maldives,5.4,TikTok,Yes,6.0,6,In Relationship,4,High
+167,Russell Klein,17,Male,Port Waynehaven,10th,8.4,7.7,57,3,1.4,6,8,5,0,0.5,49,14,1.3,1.5,1.4,Education,10,4.6,10.0,20,Female,Undergraduate,Bangladesh,4.9,Instagram,Yes,6.4,5,Single,3,High
+168,Alexander Bailey,15,Other,Jasminville,10th,0.8,7.4,70,7,1.7,9,1,1,1,0.8,67,10,2.9,0.9,1.2,Browsing,6,8.9,4.2,22,Male,Graduate,India,5.2,Facebook,No,7.1,7,In Relationship,2,Medium
+169,Jordan Shelton,18,Other,Michelleside,7th,7.2,3.0,84,4,1.8,3,8,5,1,0.9,83,8,2.9,2.6,1.6,Education,4,6.4,10.0,19,Female,Undergraduate,Nepal,5.6,TikTok,Yes,5.8,6,Single,4,High
+170,Robert Decker,13,Male,Adammouth,11th,4.6,5.3,91,4,0.9,10,3,6,1,0.8,129,6,1.6,2.2,0.8,Social Media,6,3.4,9.5,21,Male,Graduate,Pakistan,4.6,Instagram,Yes,6.5,5,In Relationship,3,High
+171,Travis Ponce,19,Male,Port Natalie,11th,2.4,6.8,63,8,0.0,9,8,7,0,0.8,50,16,2.0,1.3,0.9,Other,1,8.0,6.5,20,Female,Undergraduate,Sri Lanka,5.0,Facebook,No,7.3,7,Single,2,Medium
+172,Jennifer Young,16,Female,East Christopher,8th,4.3,6.6,94,9,1.0,2,10,4,0,0.8,47,17,1.6,1.4,0.0,Social Media,5,0.7,8.3,22,Male,Graduate,Maldives,5.3,TikTok,Yes,5.7,6,In Relationship,4,High
+173,David Logan,14,Other,Duanebury,8th,6.8,6.1,92,8,2.0,9,1,5,1,1.0,46,6,2.1,1.7,1.7,Other,5,2.9,9.7,19,Female,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.6,5,Single,3,High
+174,Jonathan Roberts Jr.,13,Other,Lake Willieshire,11th,6.3,5.4,100,8,2.0,5,5,3,0,1.8,30,12,1.6,1.4,1.8,Browsing,5,5.5,9.6,21,Male,Graduate,India,5.1,Facebook,No,7.4,7,In Relationship,2,Medium
+175,William Wolfe,13,Female,Joneschester,10th,5.3,9.7,52,5,1.0,3,3,8,1,1.7,145,9,2.3,1.3,0.0,Education,6,7.3,8.8,20,Female,Undergraduate,Nepal,5.7,TikTok,Yes,5.6,6,Single,4,High
+176,Sharon Smith,17,Other,North Anne,9th,4.4,5.7,99,2,1.2,1,4,10,1,0.9,58,9,2.5,1.0,0.6,Other,2,4.3,8.0,22,Male,Graduate,Pakistan,4.5,Instagram,Yes,6.7,5,In Relationship,3,High
+177,Brittany Kirk,16,Other,New Alicia,10th,8.1,6.7,50,0,2.0,4,7,7,1,0.5,63,7,2.1,0.0,1.8,Other,7,7.2,9.5,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7,Single,2,Medium
+178,Michael Harris,13,Other,Lake Lori,9th,3.6,6.0,65,9,0.4,5,2,6,1,1.6,83,11,1.1,2.2,0.8,Education,4,4.5,7.8,21,Male,Graduate,Maldives,5.2,TikTok,Yes,5.5,6,In Relationship,4,High
+179,Michael Rodriguez,17,Other,Johnsmouth,7th,5.0,5.5,66,5,0.8,2,10,10,1,1.4,129,17,2.7,1.6,1.2,Social Media,1,7.1,10.0,20,Female,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,5,Single,3,High
+180,Anthony Andrews,17,Other,Banksshire,8th,4.1,7.2,57,10,0.9,3,10,1,0,1.4,145,10,1.5,1.7,0.7,Gaming,7,6.7,8.6,22,Male,Graduate,India,5.0,Facebook,No,7.6,7,In Relationship,2,Medium
+181,Dorothy Patel,19,Other,East Jakehaven,10th,4.3,9.2,53,8,0.5,10,3,10,1,1.6,47,14,2.7,1.2,0.0,Social Media,2,5.6,7.3,19,Female,Undergraduate,Nepal,5.8,TikTok,Yes,5.4,6,Single,4,High
+182,Diana Hess,18,Male,Mccannshire,10th,4.2,7.6,58,1,1.2,4,2,7,1,1.1,59,15,2.7,1.1,0.8,Education,9,4.3,8.4,21,Male,Graduate,Pakistan,4.4,Instagram,Yes,6.9,5,In Relationship,3,High
+183,Jeffrey Franklin,18,Male,Sharonside,8th,6.4,4.4,60,5,0.5,7,1,3,0,0.6,42,10,2.4,1.2,0.4,Browsing,5,5.9,10.0,20,Female,Undergraduate,Sri Lanka,4.8,Facebook,No,7.7,7,Single,2,Medium
+184,Christopher Juarez,16,Female,Peterfort,9th,3.3,7.2,74,4,1.3,2,7,4,1,1.0,111,6,2.7,1.8,1.6,Other,6,4.3,7.6,22,Male,Graduate,Maldives,5.1,TikTok,Yes,5.3,6,In Relationship,4,High
+185,Michael Crane,19,Female,Kerrchester,12th,5.7,8.0,96,1,0.9,3,4,2,1,1.5,65,20,3.3,2.7,1.9,Gaming,3,7.8,10.0,19,Female,Undergraduate,Bangladesh,4.6,Instagram,Yes,7.0,5,Single,3,High
+186,Michelle Scott,16,Other,Taylorbury,10th,5.7,6.2,97,4,1.4,7,2,4,0,0.8,134,14,2.3,1.5,0.0,Social Media,5,5.2,10.0,21,Male,Graduate,India,4.9,Facebook,No,7.8,7,In Relationship,2,Medium
+187,Brianna Clark,13,Other,Andrewview,9th,1.8,4.1,98,2,1.3,9,6,9,1,0.5,49,6,2.6,1.9,0.8,Other,5,7.8,6.4,20,Female,Undergraduate,Nepal,5.9,TikTok,Yes,5.2,6,Single,4,High
+188,Michael Morris,17,Female,North Michaelland,9th,0.2,5.4,60,5,1.5,6,3,2,1,2.4,102,17,1.7,1.2,0.1,Gaming,10,6.6,5.8,22,Male,Graduate,Pakistan,4.3,Instagram,Yes,7.1,5,In Relationship,3,High
+189,Alyssa Webb MD,16,Female,Jonesbury,8th,2.7,6.9,55,9,0.7,6,8,6,1,2.1,139,13,1.6,2.9,0.9,Education,8,7.6,9.1,19,Female,Undergraduate,Sri Lanka,4.7,Facebook,No,7.9,7,Single,2,Medium
+190,Holly Williams,17,Male,Lake Sabrinaburgh,9th,4.3,6.7,93,6,0.4,7,9,6,0,0.8,33,13,2.5,0.0,1.8,Social Media,8,4.0,6.7,21,Male,Graduate,Maldives,5.0,TikTok,Yes,5.1,6,In Relationship,4,High
+191,Audrey Hall,16,Other,Michaelside,7th,4.5,6.5,85,6,0.8,10,8,10,0,0.5,22,18,4.3,2.0,1.0,Education,8,5.7,10.0,20,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.2,5,Single,3,High
+192,Barbara Hancock,18,Male,Martinport,8th,4.6,5.6,91,6,1.6,3,7,9,0,0.7,128,14,2.9,0.9,1.6,Social Media,3,3.0,10.0,22,Male,Graduate,India,4.8,Facebook,No,8.0,7,In Relationship,2,Medium
+193,Luke Klein,16,Other,Parkerfurt,12th,7.5,5.9,84,6,1.5,7,9,6,0,1.6,76,13,2.1,2.1,0.8,Browsing,8,11.5,10.0,19,Female,Undergraduate,Nepal,6.0,TikTok,Yes,5.0,6,Single,4,High
+194,Christopher Newman,16,Other,Brandonbury,12th,5.3,6.1,98,2,1.7,9,4,2,1,1.1,51,7,3.2,0.0,0.9,Other,1,6.1,7.9,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5,In Relationship,3,High
+195,Eric Bryant,15,Other,Lake Crystalborough,12th,4.9,4.8,73,3,1.8,5,3,2,0,1.1,105,14,1.0,0.0,1.0,Education,8,4.2,8.4,20,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,7,Single,2,Medium
+196,Kendra Everett,15,Male,Jacksonborough,9th,5.4,6.9,57,10,0.6,9,3,9,0,1.2,45,5,0.2,1.2,1.2,Education,3,5.9,5.3,22,Male,Graduate,Maldives,4.9,TikTok,Yes,4.9,6,In Relationship,4,High
+197,Jasmine Lin,14,Other,Ericamouth,9th,0.5,6.2,57,7,1.0,6,6,1,0,0.9,73,7,4.0,2.3,1.2,Education,8,5.7,6.6,19,Female,Undergraduate,Bangladesh,4.4,Instagram,Yes,7.4,5,Single,3,High
+198,David Castaneda,17,Other,North Isaiahbury,9th,7.6,6.0,100,3,1.4,4,4,6,1,1.0,105,9,3.9,0.3,1.3,Gaming,8,9.4,10.0,21,Male,Graduate,India,4.7,Facebook,No,8.2,7,In Relationship,2,Medium
+199,Teresa Nelson,19,Male,Hollyton,7th,7.6,3.0,69,10,0.4,5,7,8,0,0.5,66,7,2.1,3.1,2.0,Social Media,5,5.8,10.0,20,Female,Undergraduate,Nepal,6.1,TikTok,Yes,4.8,6,Single,4,High
+200,Ronald Davis,19,Female,Kimberlybury,10th,2.5,5.6,87,9,0.7,8,5,3,0,1.6,90,12,3.4,1.4,1.2,Browsing,2,6.9,8.7,22,Male,Graduate,Pakistan,4.1,Instagram,Yes,7.5,5,In Relationship,3,High
+201,Brandon Green,19,Female,Debrafurt,7th,5.5,6.4,93,10,0.3,8,10,7,1,1.5,57,9,3.0,0.8,0.3,Education,4,9.9,9.0,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7,Single,2,Medium
+202,Megan Bowman,16,Female,Lake Brian,12th,2.7,4.6,51,6,0.6,4,7,8,0,1.3,100,12,3.8,1.0,2.6,Education,6,4.3,9.6,21,Male,Graduate,Maldives,4.8,TikTok,Yes,4.7,6,In Relationship,4,High
+203,Melissa Castro,19,Male,West Samantha,10th,7.0,5.4,96,0,0.5,5,9,9,0,1.2,100,18,2.8,1.8,0.4,Other,9,3.4,10.0,20,Female,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.6,5,Single,3,High
+204,Alex Valdez,16,Female,South Stephaniebury,9th,5.3,5.0,83,0,1.0,7,3,7,1,1.0,22,10,2.6,2.7,1.7,Education,9,1.7,10.0,22,Male,Graduate,India,4.6,Facebook,No,8.4,7,In Relationship,2,Medium
+205,Fernando Alexander,15,Female,West Melissabury,9th,4.7,5.3,94,1,1.5,9,6,4,0,0.5,104,12,2.5,1.9,0.9,Social Media,4,4.5,10.0,19,Female,Undergraduate,Nepal,6.2,TikTok,Yes,4.6,6,Single,4,High
+206,Alexandra Lin,19,Other,New Kristen,9th,5.4,4.9,68,10,1.2,1,2,6,1,0.6,127,12,3.4,1.1,2.4,Other,3,3.3,10.0,21,Male,Graduate,Pakistan,4.0,Instagram,Yes,7.7,5,In Relationship,3,High
+207,Amber Payne,17,Other,West Melissa,10th,8.5,5.2,63,6,1.0,9,10,9,1,1.1,59,17,2.3,2.7,3.0,Social Media,9,9.0,10.0,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7,Single,2,Medium
+208,Kimberly English,17,Other,East Deborahchester,8th,6.2,4.4,56,4,0.9,1,5,6,1,1.5,46,14,2.2,1.2,0.0,Browsing,5,2.9,10.0,22,Male,Graduate,Maldives,4.7,TikTok,Yes,4.5,6,In Relationship,4,High
+209,Sharon Schwartz,16,Female,Sabrinaton,11th,2.7,5.1,82,9,0.4,3,5,6,0,0.5,67,17,3.5,0.9,1.0,Education,2,1.8,9.3,19,Female,Undergraduate,Bangladesh,4.2,Instagram,Yes,7.8,5,Single,3,High
+210,Jeffrey Mendoza,17,Male,Angelaside,11th,3.5,5.1,77,6,1.7,1,1,2,1,1.2,91,9,2.0,0.9,1.1,Other,2,7.7,7.5,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,Medium
+211,Devin Hansen,18,Female,North Catherine,8th,3.5,7.2,94,0,0.5,1,6,7,0,2.0,84,11,2.7,2.9,0.8,Gaming,10,5.2,9.4,20,Female,Undergraduate,Nepal,6.3,TikTok,Yes,4.4,6,Single,4,High
+212,Brandy Miller,14,Male,Lake Raymond,7th,6.6,5.0,84,4,1.0,2,6,8,1,0.4,63,16,1.7,0.0,1.1,Gaming,5,6.7,10.0,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5,In Relationship,3,High
+213,Adam Turner,16,Other,New Vincent,11th,6.1,7.5,71,10,0.6,7,10,4,0,1.5,39,20,1.8,1.9,2.6,Education,9,5.8,10.0,19,Female,Undergraduate,Sri Lanka,4.3,Facebook,No,8.7,7,Single,2,Medium
+214,Kathleen Price,17,Other,Emmamouth,10th,3.3,5.6,59,6,0.6,7,4,10,1,1.2,140,5,2.6,1.7,0.2,Education,9,1.8,8.6,21,Male,Graduate,Maldives,4.6,TikTok,Yes,4.3,6,In Relationship,4,High
+215,Bryan Horton,13,Male,New Teresa,10th,6.3,7.2,81,7,0.0,3,4,3,0,1.9,77,15,2.5,0.4,1.8,Social Media,7,5.0,10.0,20,Female,Undergraduate,Bangladesh,4.1,Instagram,Yes,8.0,5,Single,3,High
+216,Tina White,14,Male,Cruzland,11th,6.5,7.9,93,10,1.7,9,4,1,1,0.6,113,8,4.3,2.5,0.7,Browsing,10,7.1,10.0,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,Medium
+217,Corey Howell,19,Other,West Colin,8th,4.6,8.4,84,4,1.8,3,4,1,0,0.5,51,18,4.4,2.2,0.7,Other,9,6.8,10.0,19,Female,Undergraduate,Nepal,6.4,TikTok,Yes,4.2,6,Single,4,High
+218,Matthew Gutierrez,13,Other,Schultzfurt,11th,1.6,6.0,75,9,1.0,8,4,4,0,0.3,62,17,1.7,1.2,0.9,Education,10,4.1,6.1,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,5,In Relationship,3,High
+219,Jennifer Gomez,18,Male,Jonesside,8th,8.1,7.7,71,5,0.1,9,3,5,1,1.4,143,6,2.8,0.7,0.0,Other,9,6.4,10.0,20,Female,Undergraduate,Sri Lanka,4.2,Facebook,No,8.9,7,Single,2,Medium
+220,Amy Ponce,16,Female,East Williamborough,11th,4.7,5.8,51,8,1.3,2,9,7,1,0.3,60,10,4.1,1.2,1.3,Browsing,6,5.0,10.0,22,Male,Graduate,Maldives,4.5,TikTok,Yes,4.1,6,In Relationship,4,High
+221,Kimberly Mcdowell,15,Other,Elliottton,9th,8.8,7.1,59,10,0.2,10,4,2,1,1.1,141,14,0.9,0.5,1.2,Browsing,8,5.5,10.0,19,Female,Undergraduate,USA,6.5,Instagram,Yes,6.0,5,Single,4,High
+222,Caitlin Cook,17,Female,Floresview,9th,8.9,7.0,93,9,1.4,9,8,3,0,0.0,70,5,1.8,1.8,0.5,Browsing,9,4.4,10.0,21,Male,Graduate,UK,5.8,TikTok,Yes,6.5,6,In Relationship,3,High
+223,Kyle Mercado,17,Male,Leonardfurt,12th,3.0,3.5,83,1,1.9,1,4,3,1,0.6,35,17,2.3,3.3,1.0,Social Media,1,9.6,10.0,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.5,8,Single,2,Medium
+224,Daniel Carlson,13,Male,West Tammy,12th,4.5,7.8,74,4,0.6,7,9,3,0,1.3,104,15,0.8,0.0,0.9,Browsing,4,4.1,6.5,22,Male,Graduate,Germany,4.2,Facebook,No,7.8,7,In Relationship,2,Medium
+225,Kathryn Cox,17,Female,Smithton,8th,5.4,7.5,57,10,0.0,4,2,2,1,0.4,80,20,2.5,0.4,1.6,Other,1,5.1,10.0,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,Low
+226,Brandon Soto,15,Other,New Jaimemouth,11th,6.3,3.0,74,10,0.7,6,2,4,1,0.7,95,8,2.5,0.9,0.2,Education,2,3.1,10.0,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.8,6,Single,3,High
+227,Scott Thompson,16,Female,Markport,10th,5.9,5.8,71,2,2.0,6,7,1,1,1.5,76,18,1.4,1.6,2.0,Other,4,7.7,10.0,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6,In Relationship,3,Medium
+228,Michael Hopkins,18,Female,North Austin,9th,10.6,9.1,93,8,2.8,10,6,8,1,1.4,36,7,3.7,1.2,2.5,Other,8,6.3,10.0,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7,Single,2,Medium
+229,Wyatt Mills,15,Female,Campbellland,12th,4.3,6.3,87,6,1.8,3,9,3,1,1.1,129,20,1.2,1.5,1.3,Gaming,7,6.1,10.0,19,Female,Undergraduate,USA,7.0,TikTok,Yes,5.8,4,In Relationship,4,High
+230,Daniel King,16,Female,Lake Roger,8th,7.9,6.5,61,9,2.1,1,3,7,1,1.1,49,5,2.6,1.5,2.3,Other,5,5.7,10.0,21,Male,Graduate,UK,5.5,Instagram,Yes,6.7,6,Single,3,High
+231,Abigail Mitchell,16,Male,Ortegafort,8th,2.8,5.9,57,2,1.0,6,6,1,0,1.0,81,16,1.7,1.7,1.0,Browsing,2,8.0,8.1,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7,In Relationship,2,Medium
+232,Russell Pittman,13,Male,Lake Brent,9th,3.8,6.7,60,4,2.8,4,4,3,1,1.1,24,19,1.3,1.8,0.4,Other,5,7.7,7.8,22,Male,Graduate,Germany,4.0,Instagram,No,7.9,8,Single,1,Medium
+233,Stephanie Simpson,13,Other,Alyssaton,7th,5.6,9.4,83,7,0.3,9,9,8,0,1.2,77,19,1.4,2.5,0.9,Browsing,8,4.3,10.0,19,Female,Undergraduate,Japan,3.5,LINE,No,8.0,8,Single,1,Low
+234,Bianca Williams,19,Female,North Reginahaven,8th,9.7,5.8,76,0,2.6,2,7,9,1,1.5,100,12,1.7,0.4,0.6,Gaming,7,7.6,10.0,21,Male,Graduate,Italy,5.7,TikTok,Yes,6.5,5,In Relationship,3,High
+235,Joshua Obrien,18,Male,Lawrencefort,11th,4.3,8.0,74,9,1.4,8,3,4,0,1.3,22,16,2.6,2.4,1.9,Browsing,1,5.1,8.9,20,Female,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.8,6,Single,3,Medium
+236,Justin Clark,16,Male,Port Royfurt,7th,5.0,3.3,98,8,1.5,5,6,7,1,0.0,48,18,3.0,2.2,2.5,Social Media,7,5.2,10.0,22,Male,Graduate,Russia,4.5,VKontakte,No,7.4,7,In Relationship,2,Medium
+237,Ryan Fletcher,17,Female,Ashleytown,9th,4.8,10.0,57,0,0.4,10,4,7,1,0.2,92,7,2.1,1.3,0.5,Other,7,1.5,6.4,19,Female,Undergraduate,USA,6.8,Instagram,Yes,5.9,4,Single,4,High
+238,Matthew Floyd,13,Male,Katherineport,7th,4.2,7.0,62,6,0.4,8,3,8,0,0.9,68,14,1.8,1.9,1.3,Other,6,4.3,8.6,21,Male,Graduate,UK,5.6,Facebook,Yes,6.6,6,In Relationship,3,High
+239,Kelly Vasquez,16,Male,South Dawn,11th,8.4,7.7,99,5,0.4,6,5,4,1,0.3,143,6,2.7,0.8,0.9,Gaming,1,8.1,10.0,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7,Single,2,Medium
+240,Amanda Jacobs,19,Other,Lake Janetborough,10th,6.2,7.9,79,5,2.6,1,4,2,0,0.7,71,17,0.9,0.6,0.2,Gaming,10,8.1,8.6,22,Male,Graduate,Germany,4.1,Facebook,No,7.7,8,In Relationship,2,Medium
+241,Angela Parrish,16,Female,East Kyle,8th,4.8,5.4,82,2,1.3,5,8,2,0,0.9,39,14,1.4,1.6,0.5,Gaming,7,7.9,8.7,19,Female,Undergraduate,Japan,3.7,LINE,No,7.8,8,Single,1,Low
+242,Lauren Flynn,17,Female,Port Marcus,8th,8.0,7.7,75,1,1.0,4,6,4,0,0.2,107,11,2.7,1.3,1.6,Social Media,3,5.3,10.0,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,High
+243,Tara Stevens,13,Female,West Carlos,12th,6.7,3.5,74,10,0.0,2,7,3,1,0.6,70,11,0.4,1.0,0.2,Social Media,7,7.1,10.0,20,Female,Undergraduate,South Korea,5.1,KakaoTalk,Yes,6.6,6,In Relationship,3,Medium
+244,Joseph Sellers,19,Other,East Paula,8th,7.2,4.4,52,5,0.1,6,2,9,0,0.5,50,13,1.5,0.3,0.0,Browsing,5,6.4,10.0,22,Male,Graduate,Russia,4.7,VKontakte,No,7.3,7,Single,2,Medium
+245,Daniel Mullen,17,Female,New Rebeccamouth,11th,6.0,5.6,89,5,0.9,1,7,8,0,1.6,112,19,2.7,1.8,1.1,Social Media,7,4.7,10.0,19,Female,Undergraduate,USA,6.9,TikTok,Yes,5.7,4,In Relationship,4,High
+246,Edward Bradley,17,Other,Port Lindseyberg,9th,7.4,4.6,86,6,0.0,8,3,9,1,1.6,90,20,2.3,1.3,0.0,Social Media,2,7.0,10.0,21,Male,Graduate,UK,5.7,Instagram,Yes,6.4,6,Single,3,High
+247,James Mcconnell,15,Female,South Steven,9th,7.5,8.5,82,7,1.2,3,9,8,0,2.2,45,15,2.2,0.7,1.1,Gaming,3,6.2,10.0,20,Female,Undergraduate,Australia,4.8,Facebook,No,7.2,7,In Relationship,2,Medium
+248,Emma Hendrix,16,Male,Aprilburgh,7th,7.0,6.8,77,9,0.0,10,6,9,0,0.6,140,10,3.4,1.4,1.1,Social Media,6,5.1,10.0,22,Male,Graduate,Germany,3.9,Instagram,No,7.8,8,Single,1,Medium
+249,Spencer Cook,15,Female,East Kelly,10th,5.8,7.3,77,10,0.4,10,3,7,1,1.2,74,8,2.0,1.5,2.1,Education,8,5.9,8.7,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,Low
+250,Robert Ramirez,13,Female,Lake Brandonburgh,7th,3.9,8.0,57,9,0.4,1,5,6,0,2.1,92,10,2.4,0.0,0.7,Other,1,7.3,6.1,21,Male,Graduate,Italy,5.6,TikTok,Yes,6.6,5,In Relationship,3,High
+251,Linda Cooley,17,Other,Lake Rebecca,11th,5.3,6.2,91,6,1.3,6,10,7,0,0.8,143,16,1.7,0.2,0.7,Social Media,2,7.3,10.0,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,6,Single,3,Medium
+252,Anne Gonzales,14,Male,Lisaland,9th,3.0,5.6,77,1,0.4,7,7,6,0,1.4,27,17,4.0,0.9,0.9,Education,1,5.3,9.0,22,Male,Graduate,Russia,4.6,VKontakte,No,7.5,7,In Relationship,2,Medium
+253,Travis Ellis,18,Male,Lake Tonyfort,11th,4.2,6.2,58,4,0.8,6,5,10,1,0.3,90,14,0.6,0.9,0.9,Browsing,2,7.0,7.2,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4,Single,4,High
+254,Nicole Reynolds,17,Male,West Ryan,11th,7.8,6.6,85,8,2.3,1,4,3,0,1.7,148,16,3.1,3.0,1.8,Other,2,6.9,10.0,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6,In Relationship,3,High
+255,Ivan Martinez,18,Other,Sophiachester,12th,5.0,6.6,82,1,1.3,7,5,5,0,0.4,25,14,0.5,1.0,0.0,Other,1,4.8,6.5,20,Female,Undergraduate,Australia,4.4,Instagram,No,7.4,7,Single,2,Medium
+256,Tara Carter,19,Male,West Michaelland,9th,6.4,5.1,89,10,1.0,4,8,1,0,1.5,139,6,2.9,3.2,1.0,Gaming,5,5.3,10.0,22,Male,Graduate,Germany,4.0,Facebook,No,7.6,8,In Relationship,2,Medium
+257,Alicia Hill,16,Other,Lake Davidfort,9th,4.7,3.0,83,10,0.9,8,2,9,0,1.0,102,5,2.1,1.2,1.4,Social Media,10,6.8,9.5,19,Female,Undergraduate,Japan,3.4,LINE,No,8.2,8,Single,1,Low
+258,Victoria Morgan,18,Female,Lake Ashley,12th,6.1,5.3,94,3,1.5,1,7,9,1,1.2,100,13,3.6,0.8,0.5,Education,6,7.8,10.0,21,Male,Graduate,Italy,5.3,Instagram,Yes,6.8,5,Single,3,High
+259,Joseph Sweeney,13,Other,Reyeston,11th,5.0,5.4,71,7,0.0,10,5,9,0,1.1,83,20,4.1,1.5,0.3,Social Media,2,4.6,10.0,20,Female,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.7,6,In Relationship,3,Medium
+260,Maria Mendez,14,Female,Shawnfurt,11th,3.4,8.4,72,10,1.5,6,10,1,0,1.0,32,15,2.6,1.4,2.2,Education,10,2.8,6.8,22,Male,Graduate,Russia,4.4,VKontakte,No,7.6,7,Single,2,Medium
+261,Ruben Adams,18,Female,Brandyview,7th,2.0,7.1,59,2,1.3,9,9,7,0,0.9,128,6,2.7,0.8,2.0,Other,7,9.7,5.7,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.6,4,In Relationship,4,High
+262,Robert Morrow,19,Female,Garymouth,11th,6.6,6.9,83,8,0.0,4,8,3,1,1.2,40,10,3.4,1.8,1.4,Browsing,8,1.6,10.0,21,Male,Graduate,UK,5.3,Instagram,Yes,6.3,6,Single,3,High
+263,Jeffrey Dunn,19,Male,Derrickmouth,12th,2.0,7.9,99,5,1.7,10,8,2,1,1.4,103,8,3.2,0.0,2.1,Browsing,8,7.4,4.9,20,Female,Undergraduate,Australia,4.3,Facebook,No,7.5,7,In Relationship,2,Medium
+264,Shane Jefferson,15,Male,Wagnershire,12th,3.5,6.5,100,9,2.0,8,4,5,1,0.9,150,12,0.2,2.3,1.6,Gaming,7,2.7,8.1,22,Male,Graduate,Germany,3.8,Instagram,No,7.7,8,Single,1,Medium
+265,Christine Webb,14,Male,Rachelside,8th,8.0,4.8,74,0,1.9,6,4,4,1,0.8,80,19,3.7,1.8,2.1,Gaming,6,1.5,10.0,19,Female,Undergraduate,Japan,3.3,LINE,No,8.3,8,Single,1,Low
+266,Christopher Walker,14,Other,South Kimberly,11th,7.5,6.2,65,5,0.9,1,9,5,0,0.5,77,20,1.8,0.6,0.2,Browsing,8,4.9,10.0,21,Male,Graduate,Italy,5.2,TikTok,Yes,6.9,5,In Relationship,3,High
+267,William Lee MD,19,Female,Martinshire,7th,5.0,7.6,77,1,0.3,6,9,2,1,1.4,106,18,3.8,2.1,0.8,Other,8,4.2,10.0,20,Female,Undergraduate,South Korea,4.8,KakaoTalk,Yes,7.0,6,Single,3,Medium
+268,Robin Smith,19,Female,Rebeccaborough,8th,1.6,4.8,83,7,1.4,10,6,10,0,0.7,20,7,3.3,1.1,0.7,Browsing,8,6.1,5.4,22,Male,Graduate,Russia,4.3,VKontakte,No,7.7,7,In Relationship,2,Medium
+269,Anthony Young,18,Male,Port Brandon,7th,8.2,5.1,79,8,2.8,9,3,3,1,0.8,90,19,3.1,1.3,2.3,Other,7,6.3,10.0,19,Female,Undergraduate,USA,6.4,Instagram,Yes,5.7,4,Single,4,High
+270,Michael Williams,17,Male,East Kevinville,11th,4.0,3.3,69,3,1.7,3,3,8,1,1.0,142,9,3.0,0.2,1.7,Gaming,6,10.8,10.0,21,Male,Graduate,UK,5.2,Facebook,Yes,6.4,6,In Relationship,3,High
+271,Aaron Thomas,17,Female,Markfurt,8th,3.5,10.0,50,5,0.0,7,10,7,0,1.0,50,11,1.9,0.8,0.6,Education,7,4.3,4.4,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.3,7,Single,2,Medium
+272,Michele Galvan,14,Male,North Robertstad,7th,2.6,7.0,94,3,2.2,4,4,5,0,0.9,150,5,1.9,2.5,0.4,Gaming,10,8.3,7.5,22,Male,Graduate,Germany,3.7,Facebook,No,7.8,8,In Relationship,1,Medium
+273,Christina Wilson,13,Male,Laurietown,7th,7.6,7.8,93,4,0.0,7,2,7,0,1.2,67,19,3.2,2.6,1.2,Other,2,6.8,10.0,19,Female,Undergraduate,Japan,3.2,LINE,No,8.4,8,Single,1,Low
+274,Sandra Bolton,15,Male,West Michael,9th,7.1,9.6,92,10,0.6,3,10,10,1,0.7,33,5,1.0,1.2,1.3,Social Media,6,6.6,6.2,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,High
+275,Patrick Li,14,Female,North Richard,10th,6.8,5.8,77,5,1.2,5,7,8,0,1.8,21,5,1.4,1.1,0.0,Social Media,2,9.7,7.8,20,Female,Undergraduate,South Korea,4.7,KakaoTalk,Yes,7.1,6,In Relationship,3,Medium
+276,Colleen Norris,15,Female,West Nathan,12th,3.7,5.5,57,8,0.0,2,9,3,0,1.0,33,17,3.0,0.2,0.7,Gaming,7,3.6,8.2,22,Male,Graduate,Russia,4.2,VKontakte,No,7.8,7,Single,2,Medium
+277,Valerie Munoz,15,Male,Tiffanyton,12th,5.2,5.2,68,9,1.3,5,1,3,1,0.7,20,13,2.4,1.4,0.5,Education,2,5.8,9.4,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.5,4,In Relationship,4,High
+278,Steven Atkinson,14,Female,North Johnstad,9th,6.2,6.2,80,3,0.9,4,9,10,1,0.2,35,10,2.4,1.4,1.1,Browsing,7,4.2,9.6,21,Male,Graduate,UK,5.1,Instagram,Yes,6.5,6,Single,3,High
+279,Marissa Smith,14,Male,Frankhaven,12th,3.4,7.1,54,3,0.9,10,9,5,1,1.5,102,15,2.5,0.9,1.5,Gaming,10,8.2,8.3,20,Female,Undergraduate,Australia,4.4,Facebook,No,7.4,7,In Relationship,2,Medium
+280,Jeffrey Coleman,18,Male,Lake Richardside,10th,3.2,5.4,78,3,1.4,4,10,9,0,0.4,145,17,2.4,1.1,0.5,Social Media,7,4.6,10.0,22,Male,Graduate,Germany,3.6,Instagram,No,7.9,8,Single,1,Medium
+281,Courtney Mcclure,14,Male,Lake Stevenland,8th,3.3,4.9,93,0,0.6,3,4,8,1,1.5,34,16,2.0,0.0,1.4,Gaming,1,2.4,6.7,19,Female,Undergraduate,Japan,3.1,LINE,No,8.5,8,Single,1,Low
+282,John Fitzgerald,13,Other,Port Billyshire,7th,4.0,4.4,58,10,1.0,9,6,1,0,0.8,92,14,2.0,2.8,1.2,Social Media,9,5.9,10.0,21,Male,Graduate,Italy,5.3,TikTok,Yes,6.8,5,In Relationship,3,High
+283,Matthew Schneider,18,Other,Lisamouth,10th,4.0,8.8,71,8,0.7,10,5,4,0,1.0,120,16,1.7,3.7,0.9,Other,3,5.6,10.0,20,Female,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.2,6,Single,3,Medium
+284,Bailey White,16,Other,Port Rebecca,7th,4.3,7.0,55,4,2.0,6,1,7,1,0.8,142,13,2.3,1.5,0.0,Social Media,6,8.2,10.0,22,Male,Graduate,Russia,4.1,VKontakte,No,7.9,7,In Relationship,2,Medium
+285,Neil Knight,16,Female,North Johnshire,8th,3.8,6.0,76,6,0.9,6,2,8,1,0.8,123,14,3.3,1.6,0.9,Other,10,8.2,10.0,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.4,4,Single,4,High
+286,Rebecca Short,15,Male,Port Christina,10th,2.6,6.7,59,1,1.0,2,8,1,0,1.5,50,19,1.2,2.7,2.0,Gaming,8,6.4,8.0,21,Male,Graduate,UK,5.0,Facebook,Yes,6.6,6,In Relationship,3,High
+287,Mary Barrett,16,Female,Brockchester,10th,6.3,5.9,88,1,0.0,9,10,9,0,0.5,141,11,3.5,1.1,0.0,Browsing,2,6.7,10.0,20,Female,Undergraduate,Australia,4.3,Instagram,No,7.5,7,Single,2,Medium
+288,Nicholas Ford,19,Female,Port Jeanfurt,11th,3.3,5.0,92,10,0.0,6,6,10,0,1.7,35,18,5.0,2.8,0.5,Gaming,6,7.1,10.0,22,Male,Graduate,Germany,3.5,Facebook,No,8.0,8,In Relationship,1,Medium
+289,Brandi Harrison,16,Female,West Elizabeth,11th,5.9,5.0,88,10,0.0,1,3,5,0,0.8,112,15,1.8,1.8,2.0,Browsing,5,1.8,10.0,19,Female,Undergraduate,Japan,3.0,LINE,No,8.6,8,Single,1,Low
+290,Taylor Sanchez,16,Other,Stephaniechester,8th,2.9,3.3,56,2,1.1,2,7,2,0,1.5,89,11,2.5,0.0,0.6,Browsing,5,6.2,7.7,21,Male,Graduate,Italy,5.2,Instagram,Yes,6.9,5,Single,3,High
+291,Robert Berry,18,Other,Melissatown,11th,5.5,7.5,97,7,2.1,8,8,10,1,1.2,118,17,3.4,1.9,0.4,Gaming,8,6.0,10.0,20,Female,Undergraduate,South Korea,4.5,KakaoTalk,Yes,7.3,6,In Relationship,3,Medium
+292,Michele Romero,18,Female,East Steven,11th,4.7,7.2,69,4,1.2,8,4,4,0,0.8,53,11,3.0,2.2,0.7,Browsing,1,6.2,9.6,22,Male,Graduate,Russia,4.0,VKontakte,No,8.0,7,Single,2,Medium
+293,Susan Hernandez,18,Female,East Juliaborough,9th,8.6,8.1,72,7,0.6,5,2,3,0,1.5,101,19,2.0,2.1,2.1,Social Media,5,2.9,10.0,19,Female,Undergraduate,USA,6.8,TikTok,Yes,5.3,4,In Relationship,4,High
+294,Diana Herrera,17,Female,West Tiffanystad,7th,5.0,4.3,66,9,1.0,4,7,2,0,0.5,28,15,5.0,2.4,0.8,Browsing,7,6.9,10.0,21,Male,Graduate,UK,4.9,Instagram,Yes,6.7,6,Single,3,High
+295,Kimberly Adams,13,Female,Port Charles,10th,7.0,5.7,57,3,0.9,2,4,10,1,1.1,57,12,4.8,1.2,1.0,Education,7,5.4,10.0,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7,In Relationship,2,Medium
+296,Steven Horne,16,Male,New Abigailborough,7th,3.4,5.5,61,1,1.0,2,8,9,1,1.3,27,12,1.8,0.6,1.4,Other,10,5.5,6.0,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,Medium
+297,Shawn Moreno,19,Male,Hugheshaven,10th,2.7,7.3,82,8,1.5,10,1,2,0,1.3,131,10,2.2,0.9,1.7,Browsing,5,6.7,6.8,19,Female,Undergraduate,Japan,2.9,LINE,No,8.7,8,Single,1,Low
+298,Claudia Kelly,17,Male,Contrerasburgh,12th,4.6,8.9,93,6,1.3,5,7,7,0,1.0,44,8,1.0,0.8,0.3,Other,4,6.2,4.4,21,Male,Graduate,Italy,5.1,TikTok,Yes,7.0,5,In Relationship,3,High
+299,Jason Shaw,19,Female,South Nicole,12th,4.2,7.5,87,5,0.3,9,1,8,0,0.9,75,8,1.5,3.8,1.6,Other,1,8.3,8.9,20,Female,Undergraduate,South Korea,4.4,KakaoTalk,Yes,7.4,6,Single,3,Medium
+300,Pedro Diaz,17,Other,Wendymouth,10th,4.0,7.1,98,6,1.9,6,1,8,1,0.3,79,16,1.8,3.4,1.0,Education,5,4.9,10.0,22,Male,Graduate,Russia,3.9,VKontakte,No,8.1,7,In Relationship,2,Medium
+301,Xavier Ruiz,13,Female,Annafurt,7th,5.3,4.4,68,10,0.2,2,7,6,0,0.4,136,9,2.7,1.9,1.0,Gaming,4,10.1,10.0,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.2,4,Single,4,High
+302,Mark Ellis,18,Other,Susanport,12th,3.3,6.7,69,2,0.5,6,4,7,0,1.6,20,10,1.0,0.0,0.2,Education,8,5.4,3.3,21,Male,Graduate,UK,4.8,Facebook,Yes,6.8,6,In Relationship,3,High
+303,Mrs. Jillian Pennington MD,17,Female,New Edwardfurt,9th,3.4,6.2,79,10,1.0,10,5,2,0,0.9,109,11,4.3,2.3,2.3,Gaming,7,6.2,10.0,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,Medium
+304,Joel Simmons,18,Female,Watersland,12th,3.7,6.5,99,1,0.3,5,3,9,1,0.5,93,6,1.0,3.3,1.3,Other,3,2.8,7.8,22,Male,Graduate,Germany,3.3,Facebook,No,8.2,8,In Relationship,1,Medium
+305,Michelle Williams,18,Female,South Dana,11th,5.2,6.3,76,10,0.8,10,10,5,0,1.0,125,20,3.0,0.0,0.7,Social Media,3,2.8,10.0,19,Female,Undergraduate,Japan,2.8,LINE,No,8.8,8,Single,1,Low
+306,Bill Lopez,17,Female,Hortonmouth,8th,8.2,7.6,62,10,1.5,2,6,2,0,0.8,61,10,2.2,0.0,1.2,Social Media,3,7.7,9.8,21,Male,Graduate,Italy,5.0,Instagram,Yes,7.1,5,Single,3,High
+307,David Williams,13,Other,Daughertyshire,10th,6.2,6.1,67,8,0.2,10,10,3,1,0.8,95,11,2.6,1.9,0.7,Social Media,3,4.2,10.0,20,Female,Undergraduate,South Korea,4.3,KakaoTalk,Yes,7.5,6,In Relationship,3,Medium
+308,Kimberly Vazquez,16,Female,Carlastad,10th,7.0,7.4,93,7,2.0,7,4,8,1,1.3,94,19,3.1,1.6,1.3,Social Media,2,3.5,10.0,22,Male,Graduate,Russia,3.8,VKontakte,No,8.2,7,Single,2,Medium
+309,Kim Christian,13,Male,Millsbury,7th,3.7,5.3,79,3,1.2,8,3,4,1,1.4,96,7,2.5,1.6,2.2,Browsing,7,5.3,8.5,19,Female,Undergraduate,USA,7.0,TikTok,Yes,5.1,4,In Relationship,4,High
+310,Michelle Krueger,15,Other,Hernandezbury,12th,8.2,5.1,76,4,1.1,6,1,4,1,0.9,29,12,2.3,1.4,1.5,Gaming,3,7.5,10.0,21,Male,Graduate,UK,4.7,Instagram,Yes,6.9,6,Single,3,High
+311,Jessica Herrera,15,Female,North Kellychester,9th,7.5,8.4,95,10,0.0,8,4,5,1,1.9,56,7,1.8,2.3,1.2,Browsing,8,5.0,9.9,20,Female,Undergraduate,Australia,4.0,Facebook,No,7.8,7,In Relationship,2,Medium
+312,John Kim,16,Male,Lake Pamelaberg,8th,2.5,6.7,81,1,1.6,7,1,8,1,0.6,85,6,1.2,2.1,0.7,Other,5,7.4,5.4,22,Male,Graduate,Germany,3.2,Instagram,No,8.3,8,Single,1,Medium
+313,Marcus Walker,16,Other,Brendastad,11th,6.0,6.7,80,7,1.1,7,1,10,0,1.7,133,7,2.9,2.2,0.0,Education,8,5.4,10.0,19,Female,Undergraduate,Japan,2.7,LINE,No,8.9,8,Single,1,Low
+314,Rhonda Hurley,19,Female,Hartmouth,7th,4.8,4.8,59,0,0.8,7,1,5,0,0.5,55,13,2.0,1.2,1.5,Other,7,3.3,9.3,21,Male,Graduate,Italy,4.9,TikTok,Yes,7.2,5,In Relationship,3,High
+315,Michele Green,16,Female,Williamsfurt,8th,4.5,8.7,57,9,0.3,9,8,1,0,0.4,147,10,1.0,0.9,0.3,Other,5,2.8,7.0,20,Female,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.6,6,Single,3,Medium
+316,Brandon Sanchez,18,Male,South Raymondmouth,9th,6.2,6.9,67,2,0.3,8,9,2,1,1.1,122,16,2.3,1.4,1.9,Education,6,4.7,10.0,22,Male,Graduate,Russia,3.7,VKontakte,No,8.3,7,In Relationship,2,Medium
+317,Latoya Thomas,18,Other,Angelaburgh,9th,7.8,5.4,91,8,0.9,9,6,4,0,1.0,147,11,2.8,1.3,0.9,Browsing,10,2.4,10.0,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.0,4,Single,4,High
+318,Renee Lee,16,Male,West Jenniferfort,8th,6.5,6.0,85,0,0.1,8,4,9,0,0.3,108,18,1.4,0.7,0.0,Gaming,6,5.3,10.0,21,Male,Graduate,UK,4.6,Facebook,Yes,7.0,6,In Relationship,3,High
+319,Nicole Shaw,17,Other,Robertsside,8th,4.1,10.0,56,2,0.5,6,2,1,1,0.8,128,6,1.0,1.6,0.0,Browsing,10,8.9,5.5,20,Female,Undergraduate,Australia,3.9,Instagram,No,7.9,7,Single,2,Medium
+320,Kelly Kelly,15,Female,New Charles,9th,4.0,6.5,87,8,0.2,2,10,9,1,1.7,59,6,4.1,0.4,0.3,Social Media,1,5.3,7.6,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8,In Relationship,1,Medium
+321,Timothy White,17,Other,Davidfort,10th,3.8,7.0,96,4,1.4,5,7,7,1,0.4,128,17,2.4,0.0,0.4,Social Media,3,5.0,8.7,19,Female,Undergraduate,Spain,5.2,Instagram,Yes,6.8,6,Single,3,High
+322,Robert Booth,13,Other,West Aaronchester,12th,5.3,5.7,76,0,0.8,9,3,9,1,0.2,71,19,1.5,2.0,0.3,Education,9,6.8,10.0,21,Male,Graduate,Denmark,4.1,Facebook,No,7.8,8,In Relationship,2,Medium
+323,Kevin Welch,18,Male,New Sherry,7th,2.4,7.2,85,7,0.0,9,6,8,1,0.4,40,18,3.3,1.9,0.0,Gaming,4,4.4,8.4,20,Female,Undergraduate,Ireland,5.0,Instagram,Yes,7.0,7,Single,3,Medium
+324,Rachel Garrett,16,Male,West Vanessaport,12th,3.3,5.7,83,10,0.8,7,5,8,1,1.6,120,7,2.8,2.9,2.2,Gaming,10,8.1,10.0,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5,In Relationship,4,High
+325,Jennifer Spencer,16,Other,East Claudiafort,12th,6.8,8.5,69,3,0.6,1,3,3,0,1.7,50,7,3.7,3.0,0.3,Other,1,5.3,10.0,19,Female,Undergraduate,Switzerland,4.0,Instagram,No,7.9,8,Single,2,Medium
+326,Ricardo Maynard,14,Male,Taraport,11th,6.2,5.8,53,2,0.0,3,6,5,0,1.7,109,19,2.1,1.9,1.1,Other,5,4.3,10.0,21,Male,Graduate,Turkey,5.5,Instagram,Yes,6.7,6,Single,3,High
+327,Victoria Cisneros,14,Female,South Vincentshire,10th,3.9,5.3,63,10,1.3,8,2,7,1,1.6,141,19,1.3,2.4,0.3,Other,8,3.0,10.0,20,Female,Undergraduate,USA,6.8,TikTok,Yes,5.5,5,In Relationship,4,High
+328,Anthony Sutton,16,Female,Fosterberg,8th,3.7,6.7,53,6,1.9,10,8,7,0,1.7,26,9,2.3,0.0,0.0,Education,7,8.2,5.0,22,Male,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,6,Single,3,High
+329,Jonathan Nash,15,Male,Christinafurt,9th,4.5,5.3,62,7,0.0,4,1,9,0,0.6,44,17,1.6,1.7,1.0,Gaming,7,7.7,9.4,19,Female,Undergraduate,France,4.5,Instagram,No,7.5,7,In Relationship,2,Medium
+330,Nicholas Pena,15,Female,Port Robinbury,11th,7.3,4.4,62,0,0.3,10,7,9,0,1.6,62,14,4.4,2.5,1.0,Other,8,9.1,10.0,21,Male,Graduate,Canada,5.3,Instagram,Yes,6.9,6,Single,3,High
+331,Thomas Huber,17,Male,New Williamchester,10th,6.9,8.3,83,6,2.4,3,1,1,1,0.7,107,16,1.4,1.4,1.4,Education,1,8.6,10.0,20,Female,Undergraduate,Spain,5.1,TikTok,Yes,6.7,6,Single,3,High
+332,Brandon Anthony,16,Male,New Joshua,10th,6.9,8.1,76,10,1.0,1,5,2,0,0.4,67,20,0.9,1.8,0.5,Browsing,10,6.5,10.0,22,Male,Graduate,Denmark,3.9,Facebook,No,7.9,8,In Relationship,2,Medium
+333,Daniel Reese,17,Other,Lake Danielleburgh,10th,6.8,5.4,75,3,1.0,9,9,6,0,0.8,25,20,1.7,0.3,1.6,Other,10,4.1,10.0,19,Female,Undergraduate,Ireland,4.8,Instagram,Yes,7.1,7,Single,3,Medium
+334,Rose Gordon,17,Male,Port Shaunhaven,11th,4.7,6.9,78,9,1.3,9,2,3,0,1.2,91,6,2.6,0.9,1.3,Education,8,4.6,7.8,21,Male,Graduate,India,5.9,WhatsApp,Yes,6.4,5,In Relationship,4,High
+335,Christina Williams,18,Female,West Tony,12th,4.3,3.8,93,6,0.6,1,7,5,1,0.6,89,9,2.0,1.0,0.7,Social Media,5,4.7,9.0,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8.0,8,Single,2,Medium
+336,Taylor Hernandez,15,Male,Port Andrea,9th,2.2,3.8,94,6,1.2,8,9,6,1,1.4,100,16,3.5,3.3,1.2,Other,4,6.3,10.0,22,Male,Graduate,Turkey,5.4,TikTok,Yes,6.8,6,Single,3,High
+337,Benjamin Taylor,19,Female,East Michaelside,11th,4.3,5.4,56,10,1.6,9,2,10,1,0.9,144,8,3.3,2.0,0.2,Education,4,7.7,10.0,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.4,5,In Relationship,4,High
+338,Megan Burke,13,Male,Ryanview,8th,4.0,6.7,89,9,0.6,5,8,7,0,1.6,26,20,2.9,1.1,1.4,Gaming,5,6.0,9.2,21,Male,Graduate,Mexico,5.7,WhatsApp,Yes,6.5,6,Single,3,High
+339,Robert Hays,14,Other,East Daniel,9th,9.2,8.3,96,2,1.3,10,3,9,1,2.0,95,14,1.6,1.0,1.9,Education,4,4.2,10.0,20,Female,Undergraduate,France,4.4,Instagram,No,7.6,7,In Relationship,2,Medium
+340,Alexandra Brown,19,Male,Butlertown,12th,6.7,5.8,95,6,0.0,4,8,10,1,0.9,53,11,2.4,1.4,1.7,Education,8,2.6,10.0,22,Male,Graduate,Canada,5.2,TikTok,Yes,7.0,6,Single,3,High
+341,Chloe Moore,16,Other,New Ashley,7th,5.3,8.5,99,5,0.5,5,3,9,0,0.7,85,15,2.6,0.7,1.1,Browsing,5,2.0,9.0,19,Female,Undergraduate,Spain,5.0,Instagram,Yes,6.9,6,Single,3,High
+342,Christopher Hamilton,19,Female,North Cindyberg,10th,2.9,8.1,82,0,1.2,1,2,7,1,1.4,129,5,2.1,2.3,0.8,Browsing,10,7.0,6.8,21,Male,Graduate,Denmark,3.8,Facebook,No,8.0,8,In Relationship,2,Medium
+343,Robert Pham,19,Male,Port Lisaville,10th,5.1,9.9,84,9,1.2,4,4,10,1,0.5,66,7,3.0,1.2,1.2,Other,7,6.9,7.1,20,Female,Undergraduate,Ireland,4.7,TikTok,Yes,7.2,7,Single,3,Medium
+344,William Watkins,15,Female,Williamsbury,10th,3.2,8.8,79,6,0.8,6,6,10,1,1.3,75,12,2.1,1.7,1.4,Other,9,5.7,6.5,22,Male,Graduate,India,6.0,WhatsApp,Yes,6.3,5,In Relationship,4,High
+345,Vanessa Knapp,18,Male,Colemanville,11th,6.1,7.4,73,6,0.1,2,7,7,0,1.5,59,5,2.6,2.0,1.1,Social Media,10,5.3,9.2,19,Female,Undergraduate,Switzerland,3.7,Instagram,No,8.1,8,Single,2,Medium
+346,Edgar Smith,13,Other,Beverlyfort,11th,3.4,5.4,92,4,2.2,6,1,7,0,0.7,25,16,2.3,0.8,1.1,Social Media,7,7.4,7.5,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6,Single,3,High
+347,Christopher Blevins,13,Male,Port Amandastad,9th,5.7,5.8,95,8,1.1,1,3,8,1,1.4,64,19,2.5,1.4,1.2,Education,6,9.7,10.0,20,Female,Undergraduate,USA,7.0,TikTok,Yes,5.3,5,In Relationship,4,High
+348,Katherine Williams,15,Female,West Dakotaview,8th,3.1,9.2,75,8,1.2,2,10,2,1,1.3,41,19,3.5,1.1,0.2,Social Media,8,7.5,7.7,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6,Single,3,High
+349,Michelle Neal,17,Female,West Danielland,10th,2.6,6.9,86,2,1.6,4,7,5,1,0.8,44,9,2.2,2.2,2.9,Other,10,5.1,6.2,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7,In Relationship,2,Medium
+350,Lisa Cardenas,13,Other,Jacksonmouth,10th,4.3,6.4,73,10,1.7,5,7,3,0,0.7,73,9,1.0,1.0,1.2,Gaming,4,3.3,6.4,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,High
+351,Tiffany Briggs,18,Other,North Jacob,11th,6.7,6.6,95,0,1.2,8,2,6,0,0.7,93,15,3.8,0.3,1.7,Browsing,2,4.1,10.0,20,Female,Undergraduate,Spain,4.9,TikTok,Yes,7.0,6,Single,3,High
+352,Christina Gallegos,17,Female,Port Dawn,12th,8.6,6.0,56,0,2.1,7,10,9,0,1.3,114,17,2.1,0.1,0.9,Education,10,5.4,10.0,22,Male,Graduate,Denmark,3.7,Facebook,No,8.1,8,In Relationship,2,Medium
+353,Lisa Adams,14,Female,North Danastad,11th,3.2,7.3,74,1,0.2,6,8,7,1,1.4,106,11,1.8,0.3,1.4,Social Media,9,5.3,6.0,19,Female,Undergraduate,Ireland,4.6,Instagram,Yes,7.3,7,Single,3,Medium
+354,Aaron Anderson,19,Female,Troyburgh,8th,7.1,8.7,100,1,0.7,8,7,5,0,1.0,82,14,2.9,1.6,1.1,Education,7,5.8,10.0,21,Male,Graduate,India,6.1,WhatsApp,Yes,6.2,5,In Relationship,4,High
+355,Martin Clark,14,Other,Howardbury,8th,6.8,7.5,84,1,2.7,7,8,10,0,1.7,116,9,1.3,1.2,1.3,Education,4,7.7,9.7,20,Female,Undergraduate,Switzerland,3.6,Instagram,No,8.2,8,Single,2,Medium
+356,Peter Nguyen,13,Other,North Michael,9th,8.8,6.8,83,9,0.3,2,2,1,1,1.4,149,5,3.0,1.0,2.0,Social Media,10,6.3,10.0,22,Male,Graduate,Turkey,5.2,TikTok,Yes,7.0,6,Single,3,High
+357,Joshua Williams,16,Female,Omarborough,10th,5.0,6.6,50,2,0.9,9,3,5,0,1.1,69,16,3.6,1.7,2.2,Other,7,4.8,10.0,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.2,5,In Relationship,4,High
+358,Terri Walter,17,Male,Bowmanport,7th,5.5,6.8,51,4,1.8,10,1,8,1,1.1,96,13,3.3,4.0,0.0,Other,9,6.5,10.0,21,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,6,Single,3,High
+359,Richard Wilson,18,Female,Markbury,7th,4.6,6.6,99,3,1.7,5,4,7,1,0.9,43,5,3.2,0.5,2.5,Browsing,10,2.5,6.9,20,Female,Undergraduate,France,4.2,Instagram,No,7.8,7,In Relationship,2,Medium
+360,Amy Phillips,15,Male,North Harold,12th,4.8,7.5,68,9,0.0,4,2,2,1,0.7,102,11,2.7,1.1,1.2,Browsing,1,5.9,9.1,22,Male,Graduate,Canada,5.0,TikTok,Yes,7.2,6,Single,3,High
+361,Drew Mitchell,16,Female,Schneiderbury,9th,4.3,7.1,63,3,1.5,6,5,10,1,0.9,65,5,0.6,3.1,0.8,Other,7,2.4,6.7,19,Female,Undergraduate,Spain,4.8,Instagram,Yes,7.1,6,Single,3,High
+362,Shane Davis,15,Female,East Alicia,8th,6.4,6.3,89,1,2.6,5,9,9,0,0.2,31,12,3.7,0.7,1.3,Other,7,4.4,10.0,21,Male,Graduate,Denmark,3.6,Facebook,No,8.2,8,In Relationship,2,Medium
+363,Denise Lin MD,17,Male,South Juliaton,11th,2.2,4.9,62,9,0.1,3,4,7,1,1.4,127,8,3.1,1.5,2.4,Browsing,4,6.1,8.5,20,Female,Undergraduate,Ireland,4.5,TikTok,Yes,7.4,7,Single,3,Medium
+364,Steven Andrade,14,Other,Robertburgh,9th,6.9,7.4,50,5,0.9,5,3,4,0,0.7,58,20,0.9,1.3,1.2,Social Media,3,6.9,10.0,22,Male,Graduate,India,6.2,WhatsApp,Yes,6.1,5,In Relationship,4,High
+365,Angela Brown,19,Female,Barbarastad,7th,3.8,6.5,91,4,1.6,7,2,8,0,1.9,134,11,4.3,1.2,1.0,Gaming,8,7.5,10.0,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8,Single,2,Medium
+366,Daniel Sherman,18,Male,East Brian,12th,4.1,7.5,93,9,0.9,3,5,6,0,0.4,25,9,2.7,1.6,1.4,Browsing,6,4.5,7.0,21,Male,Graduate,Turkey,5.1,Instagram,Yes,7.1,6,Single,3,High
+367,Makayla Smith,13,Other,Watkinsville,7th,5.1,7.9,51,0,0.5,1,5,4,1,1.7,115,5,2.9,1.2,0.7,Other,5,7.9,8.5,20,Female,Undergraduate,USA,7.2,TikTok,Yes,5.1,5,In Relationship,4,High
+368,Jeremy Carter,16,Female,Lake Marybury,10th,1.8,6.7,73,10,1.6,1,9,5,0,0.7,143,8,4.6,1.8,0.7,Social Media,9,1.7,9.3,22,Male,Graduate,Mexico,6.0,WhatsApp,Yes,6.2,6,Single,3,High
+369,Jennifer Rangel,16,Male,Morrisonville,11th,6.1,7.2,56,2,1.2,4,9,4,0,1.3,99,14,4.2,1.6,0.5,Social Media,2,6.0,10.0,19,Female,Undergraduate,France,4.1,Instagram,No,7.9,7,In Relationship,2,Medium
+370,Tina Thomas,16,Male,Thompsonport,10th,4.8,7.7,64,9,0.4,2,9,7,1,1.7,23,8,2.4,1.2,1.2,Other,3,4.8,6.6,21,Male,Graduate,Canada,4.9,Instagram,Yes,7.3,6,Single,3,High
+371,Mark Donovan,13,Female,South Keith,11th,8.4,6.6,92,7,1.7,7,10,1,1,1.7,87,14,0.5,2.5,0.2,Social Media,3,8.4,10.0,20,Female,Undergraduate,Spain,4.7,TikTok,Yes,7.2,6,Single,3,High
+372,Sarah Frye,13,Female,Port Jillianton,10th,6.5,5.6,58,2,0.0,5,1,8,1,0.5,79,9,2.9,3.1,1.2,Social Media,5,6.8,10.0,22,Male,Graduate,Denmark,3.5,Facebook,No,8.3,8,In Relationship,2,Medium
+373,Mr. Jaime Martinez,17,Other,Ryanhaven,9th,3.7,6.8,64,2,1.0,5,4,7,0,1.9,123,10,2.8,2.4,0.6,Browsing,8,8.5,10.0,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7,Single,3,Medium
+374,Kelly Briggs,18,Male,East Josephborough,10th,8.9,3.9,91,5,0.7,9,3,4,1,0.9,33,13,2.7,1.4,3.0,Gaming,3,5.0,10.0,21,Male,Graduate,India,6.3,WhatsApp,Yes,6.0,5,In Relationship,4,High
+375,Mrs. Karen Allen,16,Male,Perezfurt,10th,4.1,6.8,52,7,0.0,9,8,3,0,1.4,30,7,2.3,2.9,0.7,Other,5,10.3,7.9,20,Female,Undergraduate,Switzerland,3.4,Instagram,No,8.4,8,Single,2,Medium
+376,Richard White,18,Other,Goodmanton,7th,4.1,4.4,71,2,0.0,1,3,6,0,0.4,110,13,2.2,1.3,1.5,Education,7,6.7,10.0,22,Male,Graduate,Turkey,5.0,TikTok,Yes,7.2,6,Single,3,High
+377,Alex Schneider,19,Male,West Rachelshire,9th,4.0,7.2,69,4,1.5,5,7,10,1,0.9,102,7,3.0,1.6,2.0,Other,6,6.3,8.4,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5.0,5,In Relationship,4,High
+378,Michael Bell,18,Other,Abigailberg,7th,6.8,8.8,56,10,0.9,9,10,7,1,1.2,132,19,2.5,0.2,1.9,Gaming,8,5.5,10.0,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6,Single,3,High
+379,Angela Allen,15,Other,Lambury,7th,3.1,7.3,77,3,0.3,4,4,2,1,0.8,128,7,2.7,1.8,0.8,Gaming,10,6.3,7.9,20,Female,Undergraduate,France,4.0,Instagram,No,8.0,7,In Relationship,2,Medium
+380,Mrs. Kristina Watson,15,Female,North Janetview,11th,7.6,6.5,88,8,0.6,5,6,4,0,1.3,134,12,2.1,1.6,1.2,Education,4,12.0,10.0,22,Male,Graduate,Canada,4.8,TikTok,Yes,7.4,6,Single,3,High
+381,Virginia Brown,19,Male,Smithhaven,8th,5.5,5.2,78,5,1.8,1,3,4,1,1.1,136,11,2.3,1.4,0.5,Browsing,6,6.8,10.0,19,Female,Undergraduate,Spain,4.6,Instagram,Yes,7.3,6,Single,3,High
+382,Morgan Williams,16,Other,South William,7th,4.9,3.3,99,10,1.0,9,1,8,0,1.0,60,9,0.0,1.1,1.1,Other,8,10.6,7.4,21,Male,Graduate,Denmark,3.4,Facebook,No,8.4,8,In Relationship,2,Medium
+383,Robert Gomez,17,Male,Lisaburgh,8th,6.1,6.1,86,9,1.6,7,4,7,0,0.1,93,18,3.1,2.0,0.5,Social Media,4,5.9,10.0,20,Female,Undergraduate,Ireland,4.3,TikTok,Yes,7.6,7,Single,3,Medium
+384,Anthony Padilla,15,Other,South Cassandra,12th,2.2,3.0,58,4,0.0,6,3,10,1,2.0,44,14,2.2,0.6,0.8,Education,4,4.1,7.2,22,Male,Graduate,India,6.4,WhatsApp,Yes,5.9,5,In Relationship,4,High
+385,Dr. John Sullivan,16,Other,Loriview,12th,7.7,7.3,70,4,0.7,5,8,6,1,1.5,79,10,1.9,1.6,1.6,Other,4,6.4,10.0,19,Female,Undergraduate,Switzerland,3.3,Instagram,No,8.5,8,Single,2,Medium
+386,Holly Adams,14,Male,Samuelfort,11th,1.9,3.9,50,0,1.0,1,5,9,0,1.9,41,7,2.8,2.2,0.9,Social Media,6,5.5,7.2,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6,Single,3,High
+387,Matthew Lee,14,Male,Castillofurt,7th,5.6,4.1,80,3,1.5,9,9,9,0,1.7,42,19,2.6,3.6,0.9,Education,9,8.2,10.0,20,Female,Undergraduate,USA,7.4,TikTok,Yes,4.9,5,In Relationship,4,High
+388,Karen Smith MD,17,Other,South Johnview,12th,3.0,8.9,82,2,1.5,6,4,5,1,1.5,141,7,3.3,0.2,1.1,Social Media,6,6.5,6.3,22,Male,Graduate,Mexico,6.2,WhatsApp,Yes,6.0,6,Single,3,High
+389,Madison Jackson,18,Male,East Carlmouth,8th,1.8,5.7,85,7,1.0,2,10,2,0,1.5,120,18,2.9,2.8,0.0,Gaming,7,7.7,10.0,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,7,In Relationship,2,Medium
+390,Benjamin Vance,13,Male,North Gary,8th,4.5,5.2,95,6,0.4,3,6,1,0,1.4,146,8,3.3,1.5,0.7,Gaming,3,2.5,10.0,21,Male,Graduate,Canada,4.7,Instagram,Yes,7.5,6,Single,3,High
+391,Geoffrey Green,18,Other,New April,8th,3.1,8.1,70,3,0.0,5,8,1,1,0.4,55,17,2.3,2.3,1.6,Education,5,5.7,8.1,20,Female,Undergraduate,Spain,4.5,TikTok,Yes,7.4,6,Single,3,High
+392,Alex Cook,16,Male,Martinezberg,7th,5.8,5.7,55,4,1.8,4,6,9,1,1.3,143,12,1.4,1.2,0.6,Browsing,6,8.5,10.0,22,Male,Graduate,Denmark,3.3,Facebook,No,8.5,8,In Relationship,2,Medium
+393,Edward Kemp,15,Female,Johnsshire,8th,7.6,6.0,63,8,1.0,9,1,6,1,0.9,27,19,3.3,4.0,1.5,Other,6,7.3,10.0,19,Female,Undergraduate,Ireland,4.2,Instagram,Yes,7.7,7,Single,3,Medium
+394,Erika Brown,15,Female,Lake Alyssabury,9th,6.2,6.1,75,6,0.2,8,3,2,0,1.2,76,8,2.1,1.0,1.4,Social Media,6,6.5,9.4,21,Male,Graduate,India,6.5,WhatsApp,Yes,5.8,5,In Relationship,4,High
+395,Katherine Kelley,13,Male,Diazmouth,10th,1.4,5.2,77,6,0.0,8,8,8,0,0.4,86,11,2.6,2.2,1.4,Gaming,8,4.9,7.5,20,Female,Undergraduate,Switzerland,3.2,Instagram,No,8.6,8,Single,2,Medium
+396,Mr. Mark Higgins,18,Other,Peterchester,11th,4.4,6.2,56,1,1.0,1,9,9,0,0.7,57,17,1.3,2.8,0.9,Social Media,6,1.9,9.9,22,Male,Graduate,Turkey,4.8,TikTok,Yes,7.4,6,Single,3,High
+397,Charles Lewis,17,Female,Cooktown,11th,7.4,6.5,90,2,2.5,4,1,1,0,0.6,103,7,1.3,0.6,2.0,Other,5,3.3,9.5,19,Female,Undergraduate,USA,7.5,Instagram,Yes,4.8,5,In Relationship,4,High
+398,Matthew Watkins,18,Female,Bryanville,9th,6.5,3.4,84,2,1.2,7,6,10,0,0.5,26,10,1.8,1.8,0.8,Social Media,9,7.5,10.0,21,Male,Graduate,Mexico,6.3,WhatsApp,Yes,5.9,6,Single,3,High
+399,Michael Walters,17,Other,Mitchellhaven,12th,3.9,4.4,65,10,1.1,3,6,2,1,0.5,51,16,3.7,1.0,1.5,Other,6,5.9,10.0,20,Female,Undergraduate,France,3.8,Instagram,No,8.2,7,In Relationship,2,Medium
+400,Luis Nelson,18,Other,Ambermouth,10th,4.0,5.3,62,6,0.8,7,1,7,1,0.7,119,8,3.5,1.2,0.8,Social Media,4,4.9,10.0,22,Male,Graduate,Canada,4.6,TikTok,Yes,7.6,6,Single,3,High
+401,David Smith,14,Female,Hallfurt,9th,3.3,8.8,91,10,1.4,1,3,10,1,1.7,114,5,3.5,0.4,0.8,Gaming,1,8.0,6.1,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,High
+402,Ian Lawson,18,Female,North Charlesmouth,12th,6.5,6.9,53,2,0.9,3,7,5,1,0.9,64,15,1.8,0.9,1.7,Education,5,4.7,10.0,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8,In Relationship,2,Medium
+403,Dr. Jason Yates,16,Male,Buchananfort,9th,5.4,3.0,91,2,2.4,6,4,9,0,0.4,24,6,4.0,0.5,1.3,Browsing,5,3.9,10.0,20,Female,Undergraduate,Ireland,4.1,TikTok,Yes,7.8,7,Single,3,Medium
+404,Melanie Bowman,19,Other,New Timothy,10th,3.1,8.0,98,10,0.9,4,4,9,0,1.1,45,19,2.2,0.5,1.8,Education,9,4.5,6.5,22,Male,Graduate,India,6.6,WhatsApp,Yes,5.7,5,In Relationship,4,High
+405,Steve Graves,13,Other,Port Nicholasborough,11th,4.4,7.3,77,9,0.0,10,5,4,0,0.8,72,9,2.2,1.2,0.5,Education,2,4.9,7.4,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,Medium
+406,Tracy Lynn,15,Other,Marquezview,12th,4.9,5.2,60,9,2.0,7,9,10,0,0.1,125,19,2.0,1.1,2.3,Education,4,7.6,10.0,21,Male,Graduate,Turkey,4.7,Instagram,Yes,7.5,6,Single,3,High
+407,Ray Henderson,19,Male,Port Kimberly,11th,5.6,8.0,73,9,0.9,6,7,9,1,0.6,75,13,2.1,0.3,0.5,Gaming,1,6.8,8.1,20,Female,Undergraduate,USA,7.6,TikTok,Yes,4.7,5,In Relationship,4,High
+408,Kurt Gallagher,17,Male,Kathleenbury,11th,6.4,7.1,94,6,1.3,8,5,10,0,0.9,113,16,2.0,0.6,1.8,Other,3,3.8,10.0,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,5.8,6,Single,3,High
+409,Ian Riley,13,Other,Port Stephen,8th,8.7,8.6,97,9,1.0,10,3,2,0,0.5,59,5,3.4,2.2,1.9,Social Media,2,9.7,10.0,19,Female,Undergraduate,France,3.7,Instagram,No,8.3,7,In Relationship,2,Medium
+410,Steven Hendricks,18,Male,Rasmussenport,11th,6.7,3.9,90,6,0.0,10,1,3,1,1.4,31,14,2.1,1.6,0.3,Browsing,4,4.7,10.0,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6,Single,3,High
+411,Eric Cunningham,14,Other,West Amyfort,11th,8.7,6.0,87,9,1.0,1,8,8,1,0.0,137,5,1.6,1.3,1.0,Browsing,6,6.0,10.0,20,Female,Undergraduate,Spain,4.3,TikTok,Yes,7.6,6,Single,3,High
+412,Kevin Jensen,14,Male,East Melinda,7th,1.9,3.6,70,3,0.3,5,5,9,1,0.8,53,11,3.3,1.3,0.7,Browsing,4,1.7,8.0,22,Male,Graduate,Denmark,3.1,Facebook,No,8.7,8,In Relationship,2,Medium
+413,Jared Collier,19,Other,Lake Jamestown,7th,7.8,5.3,67,9,1.3,6,4,4,0,0.9,122,20,2.9,1.0,0.0,Education,8,7.3,10.0,19,Female,Undergraduate,Ireland,4.0,Instagram,Yes,7.9,7,Single,3,Medium
+414,Michelle Hicks,16,Female,Stewartport,11th,3.7,5.9,83,6,1.4,3,1,5,1,1.2,83,11,1.5,0.9,0.9,Browsing,1,5.9,7.0,21,Male,Graduate,India,6.7,WhatsApp,Yes,5.6,5,In Relationship,4,High
+415,Mr. Brian Garcia,15,Other,Cynthiaville,8th,8.4,5.2,95,2,0.4,9,6,6,0,0.6,108,14,2.6,2.9,0.1,Browsing,1,2.3,10.0,20,Female,Undergraduate,Switzerland,3.0,Instagram,No,8.8,8,Single,2,Medium
+416,Monica Hill,16,Male,North Stevenshire,12th,8.8,7.3,80,10,1.0,4,3,3,1,1.1,58,10,3.5,1.9,0.6,Other,3,4.7,10.0,22,Male,Graduate,Turkey,4.6,TikTok,Yes,7.6,6,Single,3,High
+417,Peggy Butler,17,Male,New Natalieside,11th,6.2,6.2,64,8,2.5,10,3,3,0,1.9,41,13,3.4,1.9,1.6,Social Media,8,8.5,10.0,19,Female,Undergraduate,USA,7.7,Instagram,Yes,4.6,5,In Relationship,4,High
+418,Ralph Allen,15,Other,New Jessica,8th,3.8,3.9,73,2,1.8,5,1,8,1,0.0,85,6,1.5,1.9,1.3,Other,7,6.5,8.2,21,Male,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,6,Single,3,High
+419,Robert Foster,15,Other,Smithburgh,12th,6.0,7.4,57,5,1.0,9,8,3,1,0.9,113,18,2.5,0.4,0.6,Education,8,5.0,10.0,20,Female,Undergraduate,France,3.6,Instagram,No,8.4,7,In Relationship,2,Medium
+420,Sabrina Hicks,15,Other,West Justin,12th,2.4,8.3,100,8,0.0,6,3,9,0,0.6,93,18,3.3,0.2,0.9,Social Media,7,3.3,7.2,22,Male,Graduate,Canada,4.4,TikTok,Yes,7.8,6,Single,3,High
+421,Tony Smith,14,Female,North Alexis,11th,5.7,5.5,77,6,1.1,10,1,9,1,1.0,114,10,3.0,1.4,2.2,Social Media,5,7.9,10.0,19,Female,Undergraduate,Spain,4.2,Instagram,Yes,7.7,6,Single,3,High
+422,David Hays,17,Other,South Susan,9th,6.3,6.5,94,8,1.7,7,9,10,0,0.5,85,5,1.9,0.2,0.8,Education,4,8.7,7.8,21,Male,Graduate,Denmark,3.0,Facebook,No,8.8,8,In Relationship,2,Medium
+423,Debbie Thompson,17,Other,Martinezborough,8th,6.3,5.0,74,10,0.1,8,8,9,0,0.4,24,9,1.8,0.7,0.6,Browsing,2,7.9,8.6,20,Female,Undergraduate,Ireland,3.9,TikTok,Yes,8.0,7,Single,3,Medium
+424,Beverly Carter MD,16,Male,Susanton,11th,0.0,6.6,66,10,0.5,2,3,6,0,0.9,136,15,2.1,0.8,1.3,Browsing,4,2.6,5.3,22,Male,Graduate,India,6.8,WhatsApp,Yes,5.5,5,In Relationship,4,High
+425,Jeremy Hayes,13,Other,South Lisaborough,9th,6.3,8.8,63,0,0.4,9,3,8,0,2.1,32,20,1.8,3.0,2.2,Social Media,3,8.4,10.0,19,Female,Undergraduate,Switzerland,2.9,Instagram,No,8.9,8,Single,2,Medium
+426,Curtis Jones,19,Other,Shaneburgh,7th,5.2,7.4,87,9,0.2,6,3,9,1,1.5,57,13,2.2,0.7,1.8,Browsing,9,6.9,8.1,21,Male,Graduate,Turkey,4.5,Instagram,Yes,7.7,6,Single,3,High
+427,Jill Wilson,13,Male,Stacychester,9th,3.5,5.0,97,4,1.1,9,2,5,0,1.6,34,5,1.1,1.6,1.5,Browsing,8,6.9,5.4,20,Female,Undergraduate,USA,7.8,TikTok,Yes,4.5,5,In Relationship,4,High
+428,John Elliott,15,Male,Jamesberg,11th,4.5,8.2,57,1,1.7,8,4,7,1,2.0,32,18,4.2,2.4,1.8,Social Media,1,3.5,10.0,22,Male,Graduate,Mexico,6.6,WhatsApp,Yes,5.6,6,Single,3,High
+429,Angela Davis,14,Female,West Traceymouth,10th,4.9,6.5,85,10,0.0,9,8,2,1,0.9,110,19,3.9,2.1,1.1,Gaming,2,5.4,10.0,19,Female,Undergraduate,France,3.5,Instagram,No,8.5,7,In Relationship,2,Medium
+430,Kevin Davis,13,Other,Juarezmouth,12th,4.0,4.8,82,8,0.0,10,10,1,1,0.7,23,18,2.4,1.0,0.3,Other,7,6.4,9.1,21,Male,Graduate,Canada,4.3,Instagram,Yes,7.9,6,Single,3,High
+431,Rachel Lopez,18,Male,South Davidstad,9th,4.2,5.1,75,5,0.9,7,8,8,1,0.7,128,11,3.0,1.7,1.3,Gaming,10,8.1,10.0,20,Female,Undergraduate,Spain,4.1,TikTok,Yes,7.8,6,Single,3,High
+432,Tyler Silva,14,Male,Robinsonfurt,8th,6.2,6.7,57,1,0.6,5,9,1,0,1.6,71,19,2.2,0.8,1.6,Gaming,6,6.9,10.0,22,Male,Graduate,Denmark,2.9,Facebook,No,8.9,8,In Relationship,2,Medium
+433,Stacey Walker,16,Male,Smithton,11th,3.8,8.8,55,10,0.8,9,1,7,1,0.5,83,15,3.4,1.8,0.0,Social Media,5,7.5,9.3,19,Female,Undergraduate,Ireland,3.8,Instagram,Yes,8.1,7,Single,3,Medium
+434,Leslie Price,16,Other,Lake Manuel,12th,4.1,3.6,77,9,2.3,9,2,3,0,0.8,140,14,2.0,2.0,0.5,Education,4,6.3,10.0,21,Male,Graduate,India,6.9,WhatsApp,Yes,5.4,5,In Relationship,4,High
+435,Manuel Moody,19,Other,South Christopher,11th,4.3,6.4,75,10,2.0,6,2,8,0,1.6,73,7,0.4,1.5,1.4,Browsing,9,4.8,5.9,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9.0,8,Single,2,Medium
+436,Parker Lopez,17,Male,Laurentown,11th,4.7,8.3,97,6,0.2,3,8,6,0,1.3,119,9,3.0,0.6,1.1,Gaming,9,5.5,8.3,22,Male,Graduate,Turkey,4.4,TikTok,Yes,7.8,6,Single,3,High
+437,Catherine Collins,19,Male,North Carlosstad,7th,4.5,5.3,82,9,0.0,3,3,2,1,0.7,37,18,0.8,1.7,1.9,Browsing,1,6.8,8.7,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5,In Relationship,4,High
+438,Danielle Bush,13,Male,North Christopher,9th,3.5,5.5,58,6,1.5,5,5,9,0,1.5,70,8,1.7,1.2,0.4,Gaming,10,8.1,6.6,21,Male,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,6,Single,3,High
+439,Ryan Haney,18,Other,Matthewmouth,12th,4.1,5.7,79,1,0.6,5,9,3,1,1.0,108,19,1.2,0.4,1.3,Social Media,9,4.6,8.8,20,Female,Undergraduate,France,3.4,Instagram,No,8.6,7,In Relationship,2,Medium
+440,Natalie Wood,13,Female,Lopezchester,9th,4.9,7.2,56,7,0.5,10,10,8,1,1.1,42,17,2.8,1.1,2.4,Social Media,1,6.7,9.4,22,Male,Graduate,Canada,4.2,TikTok,Yes,8.0,6,Single,3,High
+441,Louis Rodgers,18,Male,East Matthew,8th,7.3,5.4,87,2,2.0,7,6,7,0,1.5,134,7,1.9,0.3,1.8,Other,5,4.7,10.0,19,Female,Undergraduate,Spain,4.0,Instagram,Yes,7.9,6,Single,3,High
+442,Taylor Martin,18,Other,Elizabethport,7th,6.7,6.1,61,1,2.0,8,8,7,1,0.6,137,17,2.9,0.8,2.3,Browsing,1,6.1,10.0,21,Male,Graduate,Denmark,2.8,Facebook,No,9.0,8,In Relationship,2,Medium
+443,Douglas Fisher,19,Female,Bonnieland,7th,6.5,7.4,51,6,0.8,6,1,7,1,1.3,108,6,2.0,1.6,0.9,Other,6,2.9,9.8,20,Female,Undergraduate,Ireland,3.7,TikTok,Yes,8.2,7,Single,3,Medium
+444,Donald Sutton,16,Male,Meghanmouth,12th,7.3,10.0,94,4,0.5,1,10,4,0,1.7,122,19,2.1,2.2,0.0,Browsing,2,7.1,10.0,22,Male,Graduate,India,7.0,WhatsApp,Yes,5.3,5,In Relationship,4,High
+445,Laura Smith,14,Other,New Adamchester,8th,6.8,7.7,53,0,1.2,6,5,2,1,1.7,55,18,3.2,1.5,0.9,Other,8,7.0,10.0,19,Female,Undergraduate,Switzerland,2.7,Instagram,No,9.1,8,Single,2,Medium
+446,Erika Hill,14,Other,Joannmouth,11th,3.7,7.5,53,6,1.3,7,4,3,1,0.2,115,18,3.1,1.8,0.4,Other,2,4.5,10.0,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6,Single,3,High
+447,Diane Walters,19,Other,West Rodneyfurt,7th,5.0,6.9,50,0,0.4,9,9,2,1,0.7,108,19,1.8,2.3,0.0,Social Media,3,6.7,10.0,20,Female,Undergraduate,USA,8.0,TikTok,Yes,4.3,5,In Relationship,4,High
+448,Madison Thomas,19,Male,Williamschester,12th,6.8,9.4,67,6,0.8,8,1,2,1,1.3,57,20,1.1,1.1,1.0,Social Media,6,7.1,9.4,22,Male,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,6,Single,3,High
+449,Lindsey Sheppard,19,Male,Brownstad,9th,6.6,8.6,61,8,2.0,10,9,8,0,1.3,133,5,1.6,2.1,0.9,Other,7,7.8,9.7,19,Female,Undergraduate,France,3.3,Instagram,No,8.7,7,In Relationship,2,Medium
+450,David Williams,13,Male,Lake Amanda,10th,3.8,5.2,75,5,0.9,1,2,7,0,0.0,123,18,4.5,0.4,1.6,Gaming,4,3.9,10.0,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.1,6,Single,3,High
+451,Phillip Campbell,19,Male,Martinezberg,9th,3.9,8.4,61,8,1.1,5,7,1,1,0.4,76,5,1.1,0.6,1.7,Social Media,2,6.3,3.9,20,Female,Undergraduate,Spain,3.9,TikTok,Yes,8.0,6,Single,3,High
+452,Sarah Smith,15,Male,Anthonyland,10th,2.5,6.1,67,9,1.9,3,1,7,0,0.6,43,19,2.7,1.3,1.3,Education,8,7.9,8.1,22,Male,Graduate,Denmark,2.7,Facebook,No,9.1,8,In Relationship,2,Medium
+453,Becky Perkins,17,Female,Davidshire,11th,5.5,7.5,90,7,0.9,6,2,2,1,0.7,55,7,2.5,1.0,0.3,Other,9,4.4,7.8,19,Female,Undergraduate,Ireland,3.6,Instagram,Yes,8.3,7,Single,3,Medium
+454,Brenda Taylor,17,Other,West Deniseport,9th,3.4,9.0,56,3,2.1,7,8,7,1,1.0,74,12,1.6,1.3,1.0,Other,5,5.7,5.7,21,Male,Graduate,India,7.1,WhatsApp,Yes,5.2,5,In Relationship,4,High
+455,Henry Wilkerson,17,Female,Gilbertburgh,8th,5.9,7.7,81,6,1.6,1,10,3,0,0.5,136,6,1.3,1.6,0.7,Education,9,3.1,8.9,20,Female,Undergraduate,Switzerland,2.6,Instagram,No,9.2,8,Single,2,Medium
+456,Dr. Hannah Johnson,15,Male,Lake Anne,11th,6.7,5.1,75,3,0.8,6,7,1,0,0.5,59,8,3.1,1.5,0.5,Browsing,4,8.7,10.0,22,Male,Graduate,Turkey,4.2,TikTok,Yes,8.0,6,Single,3,High
+457,Melanie Villa,13,Male,Anthonyview,9th,5.4,6.2,50,1,1.8,5,7,10,1,0.8,79,13,2.2,0.6,2.3,Other,8,5.1,9.3,19,Female,Undergraduate,USA,8.1,Instagram,Yes,4.2,5,In Relationship,4,High
+458,Justin Edwards,18,Other,Cooktown,10th,5.1,7.1,85,8,0.9,1,1,2,0,0.0,39,7,2.4,1.3,0.5,Browsing,5,2.2,7.4,21,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.3,6,Single,3,High
+459,Lawrence Miles,16,Other,Taylorview,11th,4.0,7.1,96,8,1.6,7,2,3,0,0.3,32,15,3.4,0.4,1.6,Social Media,2,5.8,7.9,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7,In Relationship,2,Medium
+460,William Anderson,16,Male,Lauriestad,8th,2.1,5.2,66,9,1.2,4,9,1,0,0.7,97,13,3.7,2.6,1.0,Social Media,2,10.6,10.0,22,Male,Graduate,Canada,4.0,TikTok,Yes,8.2,6,Single,3,High
+461,Julie Watson,17,Other,Nathanielbury,9th,8.6,6.0,53,6,1.7,2,4,9,1,0.7,128,15,1.2,1.7,2.0,Browsing,1,6.4,10.0,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,8.1,6,Single,3,High
+462,John Potts,17,Male,West Maria,7th,6.2,6.5,58,6,0.9,5,3,3,0,0.7,109,18,3.2,2.3,2.0,Education,5,6.1,10.0,21,Male,Graduate,Denmark,2.6,Facebook,No,9.2,8,In Relationship,2,Medium
+463,Alexa Simmons,13,Male,Davishaven,10th,3.8,3.7,78,9,2.0,1,5,9,0,0.3,64,8,1.7,0.9,1.2,Education,6,9.6,7.4,20,Female,Undergraduate,Ireland,3.5,TikTok,Yes,8.4,7,Single,3,Medium
+464,Jennifer Anderson,14,Male,Ambermouth,11th,7.4,4.0,96,5,1.5,1,4,2,1,1.2,146,14,3.2,1.0,1.3,Other,9,8.6,10.0,22,Male,Graduate,India,7.2,WhatsApp,Yes,5.1,5,In Relationship,4,High
+465,Amber Rodriguez,13,Female,Stephaniestad,11th,5.4,4.3,93,2,1.2,8,10,4,1,1.0,38,20,3.5,3.4,0.9,Browsing,8,3.3,10.0,19,Female,Undergraduate,Switzerland,2.5,Instagram,No,9.3,8,Single,2,Medium
+466,David Harvey,19,Male,Port Carrietown,8th,5.2,8.6,76,1,1.8,10,3,6,0,1.1,33,8,2.0,1.0,1.6,Other,5,8.8,6.2,21,Male,Graduate,Turkey,4.1,Instagram,Yes,8.1,6,Single,3,High
+467,Kathleen Hansen,16,Female,East Reneestad,9th,7.2,3.9,60,2,1.7,4,5,10,1,1.7,26,17,4.4,0.3,2.0,Education,1,4.8,10.0,20,Female,Undergraduate,USA,8.2,TikTok,Yes,4.1,5,In Relationship,4,High
+468,Andrea James,16,Female,Lake Kevin,12th,2.8,6.1,96,7,1.5,8,1,4,1,1.7,33,13,1.8,1.9,2.2,Education,7,8.1,6.7,22,Male,Graduate,Mexico,7.0,WhatsApp,Yes,5.2,6,Single,3,High
+469,Emily Moore,15,Female,Sandrahaven,9th,7.8,7.9,79,4,2.2,2,5,9,1,1.3,30,15,1.7,0.2,0.5,Browsing,8,5.2,9.3,19,Female,Undergraduate,France,3.1,Instagram,No,8.9,7,In Relationship,2,Medium
+470,Logan Ortega,16,Male,Robertsfort,8th,4.7,7.6,58,9,0.4,10,6,9,0,0.2,98,16,3.5,1.1,0.2,Education,1,9.6,10.0,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6,Single,3,High
+471,Brian Sanchez,19,Male,Courtneyland,9th,5.6,6.1,91,9,1.5,9,7,9,0,0.2,111,12,2.7,0.4,3.0,Other,7,2.9,10.0,20,Female,Undergraduate,Spain,3.7,TikTok,Yes,8.2,6,Single,3,High
+472,Rebecca Williams,13,Male,Port Shawnland,10th,3.8,7.1,99,7,1.1,3,7,10,1,0.8,26,20,4.1,1.8,0.1,Other,6,6.2,10.0,22,Male,Graduate,Denmark,2.5,Facebook,No,9.3,8,In Relationship,2,Medium
+473,Lisa Baker,18,Female,North Brookebury,11th,5.0,8.5,99,4,0.0,5,2,6,0,0.0,134,15,4.1,1.3,1.2,Education,1,6.0,10.0,19,Female,Undergraduate,Ireland,3.4,Instagram,Yes,8.5,7,Single,3,Medium
+474,Jessica Stevens,19,Other,East Bailey,9th,5.2,8.7,51,1,1.5,3,10,8,1,0.9,81,18,2.6,0.1,0.3,Browsing,3,5.7,8.8,21,Male,Graduate,India,7.3,WhatsApp,Yes,5.0,5,In Relationship,4,High
+475,Christopher Juarez,17,Male,Butlerhaven,7th,10.2,10.0,64,6,2.0,2,1,1,0,0.2,73,17,1.6,1.0,1.6,Social Media,10,5.3,10.0,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.4,8,Single,2,Medium
+476,Kathryn Bowman,13,Female,Jamieview,12th,1.1,9.0,98,0,1.1,4,4,1,1,1.6,132,19,1.7,2.6,1.7,Education,6,5.0,7.3,22,Male,Graduate,Turkey,4.0,TikTok,Yes,8.2,6,Single,3,High
+477,Angela Morales,14,Other,South Louis,8th,2.4,6.0,84,3,0.0,9,7,5,1,0.3,65,20,2.1,1.5,1.4,Gaming,8,4.0,8.3,19,Female,Undergraduate,USA,8.3,Instagram,Yes,4.0,5,In Relationship,4,High
+478,Allison Lyons,17,Male,Reginafurt,8th,5.5,7.4,93,7,1.3,9,5,5,1,1.5,81,6,3.0,1.5,0.6,Gaming,5,5.7,9.1,21,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6,Single,3,High
+479,Tracy Werner,16,Male,East Michaelmouth,11th,5.0,7.9,100,0,0.3,4,9,8,1,0.9,26,15,1.6,0.0,0.8,Social Media,4,8.4,6.2,20,Female,Undergraduate,France,3.0,Instagram,No,9.0,7,In Relationship,2,Medium
+480,Erica Lowery,15,Other,South Sarahville,10th,2.2,7.2,79,0,1.5,8,1,3,0,0.1,56,9,2.5,0.7,0.7,Gaming,6,7.0,4.7,22,Male,Graduate,Canada,3.8,TikTok,Yes,8.4,6,Single,3,High
+481,Troy Flores,16,Male,Lake Erikabury,8th,5.2,7.6,76,9,0.8,9,1,6,1,1.3,147,14,3.2,0.9,1.4,Gaming,1,7.9,10.0,19,Female,Undergraduate,Spain,3.6,Instagram,Yes,8.3,6,Single,3,High
+482,Kara Simmons,19,Other,East Lindsey,8th,4.6,6.8,90,4,1.1,1,9,10,0,0.5,131,14,2.9,0.0,0.0,Other,4,3.0,9.5,21,Male,Graduate,Denmark,2.4,Facebook,No,9.4,8,In Relationship,2,Medium
+483,Kelly Collier,17,Male,South Rachelfurt,11th,7.6,6.6,76,4,0.0,7,3,9,1,1.3,79,12,1.5,2.9,2.1,Other,7,6.8,10.0,20,Female,Undergraduate,Ireland,3.3,TikTok,Yes,8.6,7,Single,3,Medium
+484,David Gonzalez,16,Other,East Erik,11th,5.0,6.8,86,6,1.4,3,2,1,1,0.7,76,13,0.3,0.0,2.5,Browsing,5,8.2,6.0,22,Male,Graduate,India,7.4,WhatsApp,Yes,4.9,5,In Relationship,4,High
+485,Ronald Mueller,15,Female,Beckfort,12th,4.9,4.7,66,8,1.5,7,4,1,0,0.9,92,20,1.3,1.1,0.4,Social Media,7,3.3,10.0,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8,Single,2,Medium
+486,Douglas Powers,14,Other,Douglasfurt,8th,7.1,7.9,84,10,0.5,5,6,6,0,1.1,110,6,0.0,3.2,0.5,Education,6,10.2,9.8,21,Male,Graduate,Turkey,3.9,Instagram,Yes,8.3,6,Single,3,High
+487,Vincent Fischer,17,Female,Thomasport,9th,3.6,4.8,70,6,1.8,6,7,6,0,1.1,145,10,1.3,0.9,0.3,Other,8,5.3,8.3,20,Female,Undergraduate,USA,8.4,TikTok,Yes,3.9,5,In Relationship,4,High
+488,David Steele,14,Other,Bestshire,11th,6.4,6.4,77,8,1.0,2,7,2,0,0.8,148,10,2.3,1.9,0.5,Education,9,6.4,10.0,22,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5.0,6,Single,3,High
+489,Vanessa Farrell,19,Other,Lake Brenda,9th,4.4,8.7,88,1,0.3,10,4,1,1,1.1,150,20,3.2,0.1,0.8,Other,4,5.4,10.0,19,Female,Undergraduate,France,2.9,Instagram,No,9.1,7,In Relationship,2,Medium
+490,Benjamin Young,19,Other,Carolineborough,12th,4.8,7.1,50,5,0.7,8,9,7,1,1.4,108,17,2.0,0.7,1.2,Education,2,6.0,9.5,21,Male,Graduate,Canada,3.7,Instagram,Yes,8.5,6,Single,3,High
+491,Micheal Barnes,15,Male,Turnerfurt,10th,10.2,4.7,83,0,1.3,2,8,4,1,1.1,53,16,2.7,2.2,1.3,Gaming,10,7.8,10.0,20,Female,Undergraduate,Spain,3.5,TikTok,Yes,8.4,6,Single,3,High
+492,Johnny Vargas,15,Female,North Marisaside,7th,5.0,7.7,70,6,2.6,3,3,7,0,1.0,110,20,2.7,0.9,0.0,Social Media,6,3.7,10.0,22,Male,Graduate,Denmark,2.3,Facebook,No,9.5,8,In Relationship,2,Medium
+493,Annette Rodriguez,14,Male,North Taylor,9th,6.8,6.2,87,7,0.0,1,4,10,0,0.6,72,5,1.0,1.1,0.4,Social Media,2,4.3,8.2,19,Female,Undergraduate,Ireland,3.2,Instagram,Yes,8.7,7,Single,3,Medium
+494,Joshua Butler,13,Male,South Taylor,8th,4.1,5.0,58,5,2.3,10,7,10,0,0.9,80,20,2.6,1.3,1.4,Other,3,6.4,10.0,21,Male,Graduate,India,7.5,WhatsApp,Yes,4.8,5,In Relationship,4,High
+495,Mr. Paul Chen,15,Male,West Davidfort,11th,7.0,4.3,53,0,1.6,9,6,5,0,1.4,133,13,1.7,2.2,0.7,Browsing,2,9.5,10.0,20,Female,Undergraduate,Switzerland,2.2,Instagram,No,9.6,8,Single,2,Medium
+496,Leslie Salazar,15,Female,Lake Mariafurt,7th,5.8,6.9,88,2,1.5,2,9,4,0,0.6,122,5,3.0,2.4,2.0,Other,7,6.6,10.0,22,Male,Graduate,Turkey,3.8,TikTok,Yes,8.4,6,Single,3,High
+497,Jamie Brown,14,Female,North Chase,7th,4.2,3.6,60,6,0.0,5,5,9,1,0.9,137,15,1.7,2.3,1.4,Gaming,4,4.5,10.0,19,Female,Undergraduate,USA,8.5,Instagram,Yes,3.8,5,In Relationship,4,High
+498,Andrew Hammond,13,Female,South Timothymouth,10th,4.0,10.0,56,2,1.9,5,5,9,1,0.2,83,6,2.3,0.7,1.3,Other,5,5.5,4.9,21,Male,Graduate,Mexico,7.3,WhatsApp,Yes,4.9,6,Single,3,High
+499,Timothy Barber,13,Female,Stewartburgh,9th,4.6,3.3,67,7,1.6,7,1,9,0,1.1,71,17,1.4,3.4,0.8,Browsing,5,5.9,10.0,20,Female,Undergraduate,France,2.8,Instagram,No,9.2,7,In Relationship,2,Medium
+500,Randall Foley,18,Other,Lake Jacobport,10th,5.4,8.7,91,8,1.7,1,7,6,1,1.2,58,9,1.8,0.2,0.7,Education,10,5.7,6.0,22,Male,Graduate,Canada,3.6,TikTok,Yes,8.6,6,Single,3,High
+501,Robert Wilcox,15,Male,West April,12th,3.9,6.5,77,4,1.2,8,4,1,0,0.9,20,7,4.0,1.3,0.0,Gaming,9,6.6,7.8,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,6,Single,3,High
+502,Troy Rodriguez,17,Other,East Christine,8th,4.3,3.8,50,10,0.0,8,9,6,0,0.4,73,7,3.4,1.1,0.4,Gaming,3,5.2,9.8,21,Male,Graduate,China,4.5,WeChat,No,7.8,7,In Relationship,2,Medium
+503,David Johnson,19,Male,East Marktown,10th,3.6,7.2,92,3,1.8,1,5,9,0,1.5,36,9,3.3,0.1,1.1,Other,1,4.5,5.9,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,Medium
+504,Elizabeth King,15,Male,Carolynland,9th,2.8,8.9,91,5,2.0,3,3,10,1,0.7,51,15,4.1,0.3,0.7,Browsing,1,4.0,6.8,22,Male,Graduate,New Zealand,4.7,Instagram,Yes,7.5,7,In Relationship,3,Medium
+505,Joe Riley,17,Female,Port Cynthialand,10th,4.3,7.4,91,6,0.7,2,4,1,0,0.8,24,20,2.9,1.6,2.0,Social Media,3,6.3,9.6,19,Female,Undergraduate,Singapore,5.1,TikTok,Yes,7.0,6,Single,3,High
+506,Christopher Padilla,19,Male,Leeside,8th,8.6,6.6,78,10,0.9,2,8,6,1,1.1,108,16,2.1,2.2,0.7,Browsing,6,4.6,10.0,21,Male,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,6,Single,3,High
+507,Sarah Butler,18,Male,Lake Stacey,8th,6.0,4.4,77,8,0.6,7,4,3,1,0.9,110,12,1.3,0.1,0.8,Education,5,6.6,9.8,20,Female,Undergraduate,UAE,6.5,Instagram,Yes,6.5,5,In Relationship,4,High
+508,Christopher Meyer,14,Male,Port Charles,11th,3.0,6.1,90,2,0.5,4,2,6,1,0.3,129,7,3.6,2.0,1.1,Browsing,5,7.5,9.5,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,Medium
+509,Amber Schneider,17,Other,New Mary,12th,2.7,6.6,82,10,2.7,1,2,7,1,0.2,94,11,2.4,2.4,0.3,Browsing,5,6.1,8.3,19,Female,Undergraduate,India,6.8,WhatsApp,Yes,6.0,5,In Relationship,4,High
+510,Charles Jackson,13,Other,Christopherberg,8th,7.2,7.5,93,8,0.3,1,3,6,1,0.4,55,6,1.9,3.1,1.1,Education,5,1.2,10.0,21,Male,Graduate,Canada,4.8,Instagram,Yes,7.4,7,Single,3,Medium
+511,Brandon Washington,13,Other,East Raymondhaven,9th,3.3,5.2,96,2,1.1,7,3,10,1,1.3,21,12,1.3,1.3,0.3,Gaming,9,5.4,6.1,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6,Single,3,High
+512,Kristin Lambert,15,Female,New Gilbertburgh,11th,5.7,5.8,88,3,0.5,2,5,2,1,1.0,81,15,3.2,2.9,0.8,Gaming,10,8.6,10.0,22,Male,Graduate,China,4.4,WeChat,No,7.9,7,In Relationship,2,Medium
+513,Lance Ortega,16,Female,Hurstville,9th,2.8,5.1,61,6,1.4,5,4,6,1,1.3,39,5,1.4,1.2,1.4,Social Media,6,4.6,4.6,19,Female,Undergraduate,Netherlands,3.7,TikTok,No,8.3,8,Single,2,Medium
+514,Jacob Beard,13,Other,Janicestad,10th,7.1,6.2,100,3,0.9,10,7,5,1,0.6,119,10,2.1,1.5,0.9,Social Media,7,6.5,10.0,21,Male,Graduate,New Zealand,4.6,Instagram,Yes,7.6,7,In Relationship,3,Medium
+515,Joseph Carpenter,13,Other,New Sandra,7th,3.4,7.9,77,10,0.0,3,6,7,0,1.4,83,20,1.9,2.0,0.8,Education,6,2.8,9.0,20,Female,Undergraduate,Singapore,5.2,TikTok,Yes,6.9,6,Single,3,High
+516,Devin Richardson,15,Other,South Kristi,12th,5.8,7.1,91,7,2.2,8,6,10,1,0.8,76,14,2.6,1.4,0.7,Education,5,4.8,10.0,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,6,Single,3,High
+517,James Hopkins,19,Female,Lake Lisaview,11th,3.9,8.9,50,5,0.8,1,5,10,1,1.0,50,17,1.3,1.0,0.6,Social Media,1,6.9,6.2,19,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5,In Relationship,4,High
+518,Whitney Reyes MD,14,Male,Payneport,8th,6.2,6.2,54,1,0.9,8,10,8,1,1.0,109,7,1.3,2.6,0.0,Other,7,6.3,10.0,21,Male,Graduate,Poland,4.1,Facebook,No,8.0,7,Single,2,Medium
+519,Rhonda Craig,13,Female,Rodriguezfurt,10th,0.0,6.7,66,8,1.9,2,6,5,1,0.7,122,7,3.6,1.7,1.3,Browsing,3,7.3,5.8,20,Female,Undergraduate,India,6.9,WhatsApp,Yes,5.9,5,In Relationship,4,High
+520,Katie Rodriguez,19,Other,New Kristenland,12th,5.6,8.8,87,2,0.5,4,5,5,1,1.1,44,18,3.3,2.7,0.7,Gaming,6,8.3,10.0,22,Male,Graduate,Canada,4.7,TikTok,Yes,7.5,7,Single,3,Medium
+521,Michael Duke,19,Female,Gordonton,9th,2.5,6.6,53,8,1.4,4,10,8,0,0.6,71,9,2.6,0.6,0.9,Education,1,6.3,5.6,19,Female,Undergraduate,Brazil,6.0,WhatsApp,Yes,6.5,6,Single,3,High
+522,Dennis Anderson,17,Male,Andrewview,10th,8.1,6.4,91,6,0.7,4,8,4,1,1.2,128,19,1.5,2.0,1.9,Other,2,5.2,10.0,21,Male,Graduate,China,4.3,WeChat,No,8.0,7,In Relationship,2,Medium
+523,Megan Sullivan,18,Male,Lake Sandraborough,9th,3.8,7.2,88,7,1.0,3,2,9,1,1.4,65,12,0.7,1.8,0.9,Education,4,6.2,6.4,20,Female,Undergraduate,Netherlands,3.6,Instagram,No,8.4,8,Single,2,Medium
+524,Michael Alvarez,14,Other,East Michaelchester,10th,9.3,6.3,55,4,1.2,3,1,2,1,1.3,27,17,2.8,2.5,0.0,Social Media,8,6.6,10.0,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7,In Relationship,3,Medium
+525,Carrie Maynard,16,Female,East David,10th,0.4,7.5,86,10,1.3,5,1,4,1,1.8,59,11,2.3,2.5,1.0,Social Media,10,9.3,4.8,19,Female,Undergraduate,Singapore,5.3,TikTok,Yes,6.8,6,Single,3,High
+526,April Wilkerson,19,Male,Perkinsfurt,11th,3.6,8.3,61,8,0.5,4,8,8,0,1.3,40,9,3.3,2.2,1.7,Social Media,6,5.6,7.5,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,High
+527,Emily Cooper,16,Female,South Garyport,7th,4.1,6.4,76,4,1.7,2,3,2,1,1.1,123,20,2.7,2.7,1.1,Education,10,7.3,10.0,20,Female,Undergraduate,UAE,6.7,Instagram,Yes,6.3,5,In Relationship,4,High
+528,Courtney Bennett,17,Female,South Sara,7th,2.3,7.2,71,8,1.0,8,9,10,0,0.6,131,15,3.7,1.2,1.0,Other,1,4.2,9.2,22,Male,Graduate,Poland,4.0,Facebook,No,8.1,7,Single,2,Medium
+529,Justin Weiss,19,Male,New Shannonmouth,12th,4.3,4.9,84,8,2.1,9,7,7,1,1.4,67,10,1.9,1.0,1.4,Education,9,7.1,8.1,19,Female,Undergraduate,India,7.0,WhatsApp,Yes,5.8,5,In Relationship,4,High
+530,Diane Riley,16,Female,North Grace,12th,4.6,7.3,58,4,0.7,1,10,10,1,0.7,143,20,3.9,2.1,0.4,Social Media,7,8.6,10.0,21,Male,Graduate,Canada,4.6,Instagram,Yes,7.6,7,Single,3,Medium
+531,Eric Brown,18,Male,New Thomasville,11th,6.1,4.8,66,0,1.1,1,3,6,0,1.3,24,20,1.7,2.3,0.0,Gaming,2,8.1,10.0,20,Female,Undergraduate,Brazil,5.9,TikTok,Yes,6.6,6,Single,3,High
+532,Robin Wilson,17,Female,North Kevin,8th,3.9,8.0,67,9,2.4,8,1,7,0,0.4,133,17,1.8,2.1,0.2,Gaming,6,5.8,9.9,22,Male,Graduate,China,4.2,WeChat,No,8.1,7,In Relationship,2,Medium
+533,Brooke Horn,17,Other,North Joseph,9th,3.9,6.6,72,7,0.1,5,1,7,1,1.0,78,8,2.1,0.5,0.0,Other,9,6.1,6.4,19,Female,Undergraduate,Netherlands,3.5,Instagram,No,8.5,8,Single,2,Medium
+534,Morgan Johnson,16,Male,Anthonybury,7th,3.8,4.8,53,6,1.9,6,1,7,0,0.8,29,7,1.9,1.4,0.0,Browsing,5,4.7,6.7,21,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,7,In Relationship,3,Medium
+535,Melissa Gordon,15,Male,Julieshire,11th,2.2,5.1,65,5,2.3,5,4,2,0,0.8,148,12,2.5,1.2,1.1,Social Media,4,7.7,8.7,20,Female,Undergraduate,Singapore,5.4,TikTok,Yes,6.7,6,Single,3,High
+536,Heather Gonzalez DDS,17,Female,East Samuelland,8th,3.2,3.0,76,7,1.4,10,4,10,1,1.7,39,17,2.8,1.7,0.2,Other,4,6.5,10.0,22,Male,Graduate,Malaysia,5.8,WhatsApp,Yes,6.5,6,Single,3,High
+537,Matthew Dillon,13,Male,Omarview,11th,6.1,8.0,50,5,0.8,7,2,2,0,1.1,22,14,1.0,1.6,1.4,Browsing,7,5.9,7.9,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5,In Relationship,4,High
+538,Megan Morales,13,Male,Ashleystad,9th,7.6,7.2,86,3,1.8,10,3,9,1,1.4,117,10,1.9,1.7,0.7,Education,5,7.5,10.0,21,Male,Graduate,Poland,3.9,Facebook,No,8.2,7,Single,2,Medium
+539,Lisa Gibson,17,Male,Lake Georgeton,10th,4.5,7.3,91,5,0.8,8,1,8,1,1.3,135,13,2.7,2.4,1.4,Other,4,6.7,10.0,20,Female,Undergraduate,India,7.1,WhatsApp,Yes,5.7,5,In Relationship,4,High
+540,Melanie Hughes,18,Other,South Jillmouth,8th,5.9,4.9,57,5,0.2,6,1,2,0,1.3,21,19,2.0,2.8,0.3,Gaming,9,7.9,10.0,22,Male,Graduate,Canada,4.5,TikTok,Yes,7.7,7,Single,3,Medium
+541,Seth Martinez,15,Other,Drakeland,12th,2.2,10.0,62,6,1.7,1,1,10,1,1.6,46,14,4.1,3.6,1.3,Education,5,5.2,8.6,19,Female,Undergraduate,Brazil,5.8,WhatsApp,Yes,6.7,6,Single,3,High
+542,Anne Chavez,15,Male,North Jeffreyhaven,12th,5.3,5.7,56,3,0.0,7,5,6,1,0.6,104,9,2.0,1.3,1.5,Gaming,10,6.9,9.6,21,Male,Graduate,China,4.1,WeChat,No,8.2,7,In Relationship,2,Medium
+543,Patrick Jenkins,18,Other,Lake Rachael,9th,3.4,5.6,93,2,1.7,9,3,7,0,1.0,56,15,3.0,2.1,1.2,Browsing,1,4.8,9.8,20,Female,Undergraduate,Netherlands,3.4,Instagram,No,8.6,8,Single,2,Medium
+544,Michael Davis,14,Female,East Ronald,8th,6.6,5.1,93,10,0.4,2,3,3,1,0.4,117,7,2.9,3.0,1.5,Social Media,10,6.5,10.0,22,Male,Graduate,New Zealand,4.3,Instagram,Yes,7.9,7,In Relationship,3,Medium
+545,Sharon Kelly,15,Other,North Michael,7th,6.0,3.0,88,7,0.3,9,10,2,1,0.7,27,8,3.0,1.2,1.1,Browsing,8,4.7,10.0,19,Female,Undergraduate,Singapore,5.5,TikTok,Yes,6.6,6,Single,3,High
+546,Mr. Brian Huber,18,Male,New Robert,10th,4.7,4.6,73,8,0.7,9,10,1,1,0.8,65,15,3.7,1.0,1.3,Social Media,4,7.0,10.0,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6,Single,3,High
+547,Rachel Diaz,15,Male,Stephenview,12th,5.7,5.4,93,8,0.9,9,10,6,0,0.9,71,12,2.9,0.0,0.0,Other,4,4.2,9.7,20,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.1,5,In Relationship,4,High
+548,Willie Silva,19,Other,East Stephaniehaven,7th,3.2,3.6,72,1,0.0,4,2,3,1,1.5,57,8,3.9,2.1,1.0,Gaming,1,6.2,10.0,22,Male,Graduate,Poland,3.8,Facebook,No,8.3,7,Single,2,Medium
+549,Melissa Anderson,19,Other,Pierceburgh,7th,2.4,5.6,80,7,1.9,8,7,4,1,1.9,102,11,3.1,1.7,1.1,Other,5,5.7,8.6,19,Female,Undergraduate,India,7.2,WhatsApp,Yes,5.6,5,In Relationship,4,High
+550,Jennifer Cantrell,13,Female,Wallaceville,10th,4.2,6.0,87,3,1.2,5,7,3,0,0.0,22,7,2.8,1.1,1.5,Other,7,10.6,6.9,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,Medium
+551,Daniel Stephenson,15,Other,Nicolefort,8th,7.2,8.4,56,8,0.2,1,8,9,1,1.5,72,14,2.2,3.0,0.1,Other,8,6.0,10.0,20,Female,Undergraduate,Brazil,5.7,TikTok,Yes,6.8,6,Single,3,High
+552,Joyce Johnson,15,Male,East Earl,12th,4.6,6.7,73,8,0.2,1,10,1,1,1.7,51,7,2.6,0.0,1.0,Browsing,4,11.8,6.3,22,Male,Graduate,China,4.0,WeChat,No,8.3,7,In Relationship,2,Medium
+553,Patrick Robinson,17,Male,Washingtonchester,12th,1.1,7.0,58,9,1.1,4,5,3,0,0.8,135,10,2.4,3.3,2.1,Gaming,6,6.6,8.0,19,Female,Undergraduate,Netherlands,3.3,Instagram,No,8.7,8,Single,2,Medium
+554,Debbie Alexander,17,Male,New Josephhaven,7th,4.5,4.4,86,9,1.6,9,10,4,0,1.8,46,13,3.6,0.6,1.5,Other,1,7.7,10.0,21,Male,Graduate,New Zealand,4.2,Facebook,Yes,8.0,7,In Relationship,3,Medium
+555,Nathaniel Fleming,16,Other,Port Julieburgh,12th,1.9,6.2,58,0,1.9,2,9,10,1,1.6,32,14,2.9,3.4,0.0,Education,7,3.6,8.5,20,Female,Undergraduate,Singapore,5.6,TikTok,Yes,6.5,6,Single,3,High
+556,Eddie Maynard,15,Male,West Tylerside,10th,4.1,8.5,91,9,0.8,6,2,5,0,0.0,49,15,2.2,1.3,1.9,Social Media,9,4.7,7.3,22,Male,Graduate,Malaysia,6.0,WhatsApp,Yes,6.3,6,Single,3,High
+557,Ashley Cowan,16,Other,New Barbara,12th,7.3,8.1,58,9,0.0,9,9,4,0,0.9,39,18,3.0,0.0,1.9,Education,1,6.3,10.0,19,Female,Undergraduate,UAE,7.0,Instagram,Yes,6.0,5,In Relationship,4,High
+558,Marcus Meyer,17,Other,North Laura,10th,9.1,4.7,59,3,1.7,1,10,6,0,0.9,135,19,2.2,2.8,0.6,Education,2,6.7,10.0,21,Male,Graduate,Poland,3.7,Facebook,No,8.4,7,Single,2,Medium
+559,Kathryn Miller,15,Female,Danielville,12th,4.8,7.8,62,10,2.4,7,6,6,1,0.6,52,12,2.3,2.0,1.5,Other,4,4.1,8.6,20,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.5,5,In Relationship,4,High
+560,Rachel Mills,13,Other,Melissaside,8th,5.9,7.5,98,5,1.7,1,4,2,0,1.8,108,18,1.1,0.3,0.3,Gaming,3,5.6,9.3,22,Male,Graduate,Canada,4.3,TikTok,Yes,7.9,7,Single,3,Medium
+561,Maurice Jones,19,Female,Jeffreyburgh,9th,4.1,4.2,83,2,0.2,9,7,3,0,0.7,101,6,2.3,0.6,0.1,Social Media,8,8.5,8.1,19,Female,Undergraduate,Brazil,5.6,WhatsApp,Yes,6.9,6,Single,3,High
+562,Jennifer Watson,18,Other,North Christie,9th,1.5,8.6,60,8,1.5,3,8,8,0,1.8,119,15,4.3,3.2,2.2,Browsing,8,3.2,10.0,21,Male,Graduate,China,3.9,WeChat,No,8.4,7,In Relationship,2,Medium
+563,Barbara Joseph,19,Male,West Martin,8th,5.4,4.7,91,2,1.9,4,10,1,1,1.1,126,13,5.0,1.4,2.6,Social Media,3,3.8,10.0,20,Female,Undergraduate,Netherlands,3.2,Instagram,No,8.8,8,Single,2,Medium
+564,Derek Boyd,17,Male,East Valerieberg,12th,2.3,7.1,64,5,0.7,4,5,8,1,1.5,140,18,2.7,0.4,0.6,Other,1,4.5,8.2,22,Male,Graduate,New Zealand,4.1,Instagram,Yes,8.1,7,In Relationship,3,Medium
+565,Terri Ruiz,19,Female,Bonillaborough,7th,5.0,6.5,55,7,1.2,8,9,7,1,1.1,32,9,1.8,3.3,0.0,Gaming,3,6.4,9.3,19,Female,Undergraduate,Singapore,5.7,TikTok,Yes,6.4,6,Single,3,High
+566,Mr. Zachary Randall,17,Male,East Colleenburgh,10th,4.2,7.9,67,3,0.7,9,7,1,1,0.8,56,19,2.4,1.0,0.7,Social Media,10,7.4,8.6,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,6,Single,3,High
+567,Mrs. Sarah Adams,15,Female,Donaldtown,12th,0.2,5.4,78,4,1.0,9,8,4,0,1.5,102,14,1.6,0.3,0.4,Social Media,2,7.7,4.2,20,Female,Undergraduate,UAE,7.1,Instagram,Yes,5.9,5,In Relationship,4,High
+568,Olivia Walker,15,Male,Christinestad,9th,8.6,7.4,68,1,1.3,5,5,9,0,0.5,31,5,3.9,2.7,1.5,Browsing,7,4.4,10.0,22,Male,Graduate,Poland,3.6,Facebook,No,8.5,7,Single,2,Medium
+569,Maurice Burns,18,Female,East Elizabethtown,10th,4.2,7.0,96,6,0.9,5,9,7,1,0.4,128,8,1.4,1.0,0.7,Social Media,9,8.1,7.3,19,Female,Undergraduate,India,7.4,WhatsApp,Yes,5.4,5,In Relationship,4,High
+570,Danny Griffin,19,Other,Jeffreytown,10th,4.3,6.0,59,8,0.0,10,2,8,1,0.6,20,19,3.4,2.3,1.6,Gaming,3,6.5,10.0,21,Male,Graduate,Canada,4.2,Instagram,Yes,8.0,7,Single,3,Medium
+571,Ivan Dillon,17,Female,Danieltown,7th,5.4,5.1,75,10,0.3,2,2,7,0,1.0,66,19,2.6,0.8,1.6,Social Media,3,2.8,10.0,20,Female,Undergraduate,Spain,6.1,Instagram,Yes,7.2,5,Single,4,High
+572,Charles Hendricks,13,Male,Danielfort,9th,6.3,5.3,82,7,0.5,3,6,8,1,0.4,45,19,2.5,3.0,0.2,Browsing,1,3.7,10.0,23,Male,Graduate,Denmark,3.8,Twitter,No,7.8,8,In Relationship,2,Medium
+573,Robert Bond,17,Male,Harttown,9th,7.2,8.4,97,4,1.7,9,4,5,1,1.2,33,11,2.4,4.0,1.6,Other,5,4.8,10.0,19,Female,Undergraduate,Ireland,5.5,TikTok,Yes,6.8,6,Single,4,High
+574,Michelle Sweeney,13,Female,West Caitlynview,7th,6.7,6.6,68,5,0.1,3,3,5,1,1.4,134,14,2.6,2.0,1.6,Other,8,4.8,10.0,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4,Single,5,High
+575,Timothy Williams,16,Female,West Christina,9th,7.3,7.1,84,1,0.5,4,2,10,1,1.5,92,13,2.9,2.3,1.0,Other,10,6.0,10.0,21,Female,Undergraduate,Switzerland,4.2,Instagram,No,7.5,7,In Relationship,2,Medium
+576,Karen Bailey,14,Female,West Karinafurt,7th,5.2,5.3,80,9,0.8,10,2,8,1,1.1,80,14,4.4,3.2,1.8,Gaming,8,8.8,10.0,24,Male,Graduate,Turkey,6.8,TikTok,Yes,6.2,5,Single,4,High
+577,Maxwell Garza,18,Female,Port Jennifer,8th,5.7,9.9,91,9,0.8,5,7,7,0,0.9,29,14,1.4,2.8,1.5,Education,3,9.2,8.3,20,Female,Undergraduate,USA,5.9,Instagram,Yes,6.7,6,In Relationship,3,High
+578,Kenneth Gray,16,Other,North Johnny,12th,4.6,8.8,96,1,1.5,3,8,9,1,1.0,25,14,1.3,2.3,1.2,Social Media,2,5.0,7.1,22,Male,Graduate,Mexico,6.5,Facebook,Yes,6.1,5,Single,4,High
+579,Grace Zimmerman,16,Male,East Larrychester,9th,3.0,7.8,62,4,0.0,2,7,6,1,0.6,36,14,1.7,2.0,0.6,Browsing,8,10.6,6.3,19,Female,Undergraduate,France,4.7,Twitter,No,7.4,7,Single,2,Medium
+580,Tara Berry,13,Female,New Ian,7th,3.1,6.8,53,10,1.4,2,7,9,1,0.4,33,15,2.6,1.4,1.1,Other,9,6.8,7.4,23,Male,Graduate,Canada,5.2,Instagram,Yes,7.0,6,In Relationship,3,Medium
+581,Steven Gardner,13,Female,Port Kimberly,10th,4.3,6.5,88,4,0.4,1,4,7,1,1.7,82,9,4.1,2.0,1.3,Other,7,2.8,10.0,21,Female,Undergraduate,UK,6.3,TikTok,Yes,6.4,5,Single,4,High
+582,Courtney Adams,18,Male,Manuelhaven,10th,4.4,7.0,76,8,0.7,2,7,5,0,1.4,111,20,4.8,1.4,1.0,Other,8,5.7,10.0,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7,In Relationship,2,Medium
+583,Julia Rogers,16,Female,Desireeland,8th,10.5,8.0,97,10,2.2,7,9,8,0,1.0,128,16,1.9,0.0,0.9,Social Media,10,3.7,10.0,20,Female,Undergraduate,Russia,6.7,Instagram,Yes,6.0,5,Single,4,High
+584,Margaret Williams,16,Male,Michelleton,9th,2.1,7.6,95,10,1.4,9,4,10,1,1.1,145,11,1.0,1.5,1.0,Education,4,0.9,5.9,22,Male,Graduate,China,5.8,WeChat,Yes,6.5,6,In Relationship,3,High
+585,Mariah Walsh,18,Other,East Matthew,10th,5.4,4.2,80,10,0.7,10,5,6,1,1.0,129,20,3.9,1.4,0.3,Education,3,5.3,10.0,19,Female,Undergraduate,Japan,4.5,Twitter,No,7.6,8,Single,2,Medium
+586,Eric Williams,13,Other,East Elizabeth,7th,4.4,5.2,72,10,1.4,1,9,10,1,0.0,145,13,2.6,0.8,1.8,Other,2,3.3,10.0,23,Male,Graduate,Poland,6.4,Facebook,Yes,6.3,5,Single,4,High
+587,Lauren Martinez,14,Male,Smithport,10th,1.9,4.6,56,1,2.6,6,6,1,0,1.0,101,15,2.1,2.4,1.8,Browsing,6,7.0,9.1,21,Female,Undergraduate,Finland,4.1,Instagram,No,7.7,7,In Relationship,2,Medium
+588,Deborah Goodman,15,Other,Eatonton,7th,6.4,5.8,86,9,0.4,5,6,1,0,0.7,101,14,2.7,1.3,1.7,Browsing,1,5.1,10.0,24,Male,Graduate,Spain,6.6,TikTok,Yes,6.2,5,Single,4,High
+589,Joseph Arnold,16,Other,Ernestburgh,8th,4.9,7.1,66,7,2.1,10,1,6,0,0.6,40,18,4.3,3.1,1.2,Browsing,4,5.2,10.0,20,Female,Undergraduate,Denmark,4.4,Instagram,No,7.4,7,In Relationship,2,Medium
+590,Kristina Morgan,16,Female,Annstad,12th,4.3,7.3,95,9,2.1,4,3,3,1,0.7,130,16,3.8,0.6,2.5,Browsing,7,6.2,10.0,22,Male,Graduate,Ireland,5.7,Twitter,Yes,6.8,6,Single,3,High
+591,Mckenzie Ball,17,Female,North Billyhaven,9th,6.1,6.6,52,10,0.9,7,4,1,0,0.9,39,18,3.6,1.1,1.0,Education,2,4.1,10.0,19,Female,Undergraduate,India,7.0,Instagram,Yes,5.8,4,Single,5,High
+592,Joseph Rodgers,19,Male,Lake Rachelville,7th,3.9,7.7,58,9,0.0,4,7,7,1,0.9,51,16,2.7,1.4,0.8,Education,9,3.4,8.4,23,Male,Graduate,Switzerland,4.3,Facebook,No,7.5,7,In Relationship,2,Medium
+593,Dustin Wood,17,Male,Andrewside,12th,6.2,8.3,59,2,1.0,3,1,9,0,0.8,123,16,2.7,2.1,0.8,Gaming,9,7.5,10.0,21,Female,Undergraduate,Turkey,6.9,TikTok,Yes,6.1,5,Single,4,High
+594,Katherine Estrada,19,Other,Mooreburgh,7th,3.2,4.2,67,5,0.1,7,2,3,1,1.5,89,9,3.1,1.1,0.9,Other,9,0.7,8.9,24,Male,Graduate,USA,5.6,Instagram,Yes,6.9,6,In Relationship,3,High
+595,Rachael Brown,16,Female,Port Tommyview,12th,3.9,6.3,59,2,0.7,5,2,2,1,1.2,120,18,5.0,4.0,2.5,Education,10,4.3,10.0,20,Female,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,High
+596,Brian Alvarez,16,Female,Hartland,11th,9.1,5.8,99,8,2.2,4,7,1,0,1.7,36,16,2.2,2.6,0.0,Social Media,9,7.6,10.0,21,Male,Undergraduate,France,5.8,Instagram,Yes,6.7,6,Single,3,High
+597,Brittney Myers,17,Male,Nicolechester,10th,2.8,6.4,68,10,0.0,1,7,5,0,1.3,108,17,1.9,0.9,0.6,Social Media,1,4.4,8.0,23,Female,Graduate,Canada,4.9,TikTok,No,7.3,7,In Relationship,2,Medium
+598,Kenneth Rios,18,Male,Sierraville,12th,8.0,7.5,76,5,0.0,2,4,3,1,0.6,83,9,3.4,1.3,0.7,Social Media,8,5.9,10.0,20,Male,Undergraduate,UK,6.4,Facebook,Yes,6.2,5,Single,4,High
+599,Steven Hill,19,Other,Patrickberg,8th,6.7,5.9,72,1,1.1,1,3,10,0,1.6,75,16,2.3,2.7,0.3,Education,5,9.3,10.0,22,Female,Graduate,Italy,5.1,Twitter,No,7.1,7,In Relationship,2,Medium
+600,Mitchell Kline,15,Other,Nicolehaven,10th,5.7,6.7,74,5,1.1,1,6,10,0,1.7,54,5,2.1,3.9,1.0,Gaming,8,4.9,10.0,19,Male,Undergraduate,Russia,6.7,Instagram,Yes,6.0,4,Single,4,High
+601,Shannon Ford,17,Male,Gonzalezport,11th,7.0,7.0,98,3,1.8,5,1,5,1,0.4,119,15,2.3,1.8,1.9,Social Media,5,5.6,10.0,24,Female,Graduate,China,5.5,WeChat,Yes,6.8,6,In Relationship,3,High
+602,Charlotte Hudson,16,Other,Jamestown,9th,7.4,5.4,80,10,0.6,3,9,2,1,0.8,148,19,4.0,0.6,0.5,Other,6,6.2,10.0,21,Male,Undergraduate,Japan,4.3,Twitter,No,7.6,8,Single,2,Medium
+603,Teresa Thompson,16,Male,Robertville,10th,6.8,4.6,87,3,0.0,2,4,6,1,1.1,55,6,4.9,2.2,0.8,Gaming,9,5.6,10.0,23,Female,Graduate,Poland,6.2,Instagram,Yes,6.4,5,Single,4,High
+604,Linda Matthews,19,Female,Millerport,7th,8.1,6.9,78,4,0.0,4,1,4,0,0.2,103,12,1.7,1.2,0.4,Other,2,6.8,10.0,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7,In Relationship,2,Medium
+605,Gregory Washington,15,Other,Hollymouth,10th,4.7,6.8,86,8,1.1,4,2,4,1,0.4,105,5,1.8,0.9,0.7,Browsing,7,4.6,7.1,22,Female,Graduate,Spain,6.3,TikTok,Yes,6.3,5,Single,4,High
+606,Matthew Miles,14,Male,West Andrewchester,8th,7.5,7.8,71,9,0.2,9,7,1,0,1.3,22,8,1.0,0.1,1.5,Browsing,8,9.0,6.7,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7,In Relationship,2,Medium
+607,Judith Snyder,13,Male,Kimberlyfurt,10th,3.7,5.8,67,8,1.5,8,1,5,0,1.0,60,20,2.7,1.0,1.5,Social Media,10,8.6,9.7,24,Female,Graduate,Ireland,5.9,Twitter,Yes,6.6,6,Single,3,High
+608,Scott Ramirez,14,Female,Williamsbury,7th,5.3,3.4,83,1,0.6,3,6,4,0,1.9,144,12,2.2,1.6,1.1,Browsing,7,4.9,10.0,21,Male,Undergraduate,India,7.1,Facebook,Yes,5.7,4,Single,5,High
+609,Alfred Crawford,17,Other,West Eric,11th,5.2,7.8,75,8,4.0,5,9,4,1,1.4,134,15,1.5,1.8,0.2,Other,6,5.7,10.0,23,Female,Graduate,Switzerland,4.4,Instagram,No,7.4,7,In Relationship,2,Medium
+610,Jose Williams,16,Female,North David,8th,2.4,4.2,53,10,1.1,4,7,4,0,0.8,108,10,1.9,1.6,1.1,Browsing,8,3.9,8.0,20,Male,Undergraduate,Turkey,6.6,TikTok,Yes,6.2,5,Single,4,High
+611,Jerry Acosta,18,Other,Allenborough,11th,0.5,5.3,89,8,1.3,10,9,4,0,0.4,43,5,1.7,1.0,1.1,Social Media,1,5.3,2.4,22,Female,Graduate,USA,5.4,Instagram,Yes,6.9,6,In Relationship,3,High
+612,Lori Henry,16,Male,East Janettown,8th,7.6,7.9,87,4,0.2,9,3,4,1,0.6,146,14,2.8,1.1,1.9,Education,2,6.4,10.0,19,Male,Undergraduate,Mexico,6.5,Facebook,Yes,6.1,5,Single,4,High
+613,Darin Macias,14,Female,Swansonbury,9th,7.0,7.1,52,2,0.8,9,4,5,1,1.3,148,6,3.4,0.1,1.2,Browsing,10,5.7,10.0,24,Female,Graduate,France,4.8,Twitter,No,7.3,7,In Relationship,2,Medium
+614,Dennis Mcneil,19,Female,Harrisport,8th,3.6,7.8,59,9,0.3,1,7,1,1,1.7,85,16,4.0,1.2,0.7,Other,5,8.1,9.8,21,Male,Undergraduate,Canada,5.7,Instagram,Yes,6.7,6,Single,3,High
+615,Susan Martinez,17,Other,Ronaldbury,10th,6.2,6.3,67,8,1.7,9,6,9,1,1.6,47,20,0.0,1.1,0.5,Education,6,6.2,9.1,23,Female,Graduate,UK,6.1,TikTok,Yes,6.4,5,Single,4,High
+616,Christopher Jackson,16,Male,South Nicoleside,11th,8.3,6.9,97,0,0.8,7,9,2,0,1.3,70,7,2.7,1.9,0.8,Gaming,4,3.7,10.0,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,Medium
+617,Grant Salinas,15,Female,East Jonathon,11th,6.6,5.9,65,2,1.1,2,7,4,0,0.9,113,16,2.4,2.0,0.7,Other,3,7.0,10.0,22,Female,Graduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,High
+618,Megan Williams,13,Female,Lake Johnfort,7th,6.7,5.2,75,6,2.0,8,4,7,0,0.1,122,16,2.6,1.7,0.5,Other,4,4.2,10.0,19,Male,Undergraduate,China,5.6,WeChat,Yes,6.8,6,In Relationship,3,High
+619,Margaret Martinez,14,Male,East Lisabury,7th,4.7,7.9,82,8,0.7,4,6,7,1,1.0,39,15,3.2,2.0,1.0,Education,5,5.5,9.7,24,Female,Graduate,Japan,4.2,Twitter,No,7.5,8,Single,2,Medium
+620,Monica Lara,16,Female,Jennybury,8th,5.5,5.3,93,1,0.9,5,10,8,1,0.6,44,18,2.0,0.6,1.1,Browsing,10,5.9,9.9,21,Male,Undergraduate,Poland,6.3,TikTok,Yes,6.3,5,Single,4,High
+621,Andrea Davis,19,Female,Port Eric,10th,4.9,5.9,88,8,0.9,4,8,1,0,1.3,21,20,3.6,0.7,0.5,Education,9,4.6,10.0,23,Female,Graduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,Medium
+622,Brian Garcia,15,Female,Port Jenna,7th,6.7,6.5,56,2,0.8,3,7,8,0,1.1,72,5,2.8,1.2,0.0,Social Media,3,5.1,9.9,20,Male,Undergraduate,Spain,6.5,Facebook,Yes,6.2,5,Single,4,High
+623,Mitchell York,18,Female,Audreyburgh,7th,7.3,6.6,50,4,2.5,9,10,7,1,1.0,35,15,2.7,0.8,1.0,Education,4,4.5,10.0,22,Female,Graduate,Denmark,4.6,Twitter,No,7.3,7,In Relationship,2,Medium
+624,Brandon Chandler,17,Other,New Michelleport,10th,4.7,5.0,89,9,0.2,9,2,10,1,0.9,39,8,2.5,1.6,0.7,Browsing,2,5.7,8.7,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,High
+625,Tyrone Perkins,14,Male,Bettyburgh,11th,5.3,6.8,84,3,1.0,6,4,1,1,1.5,106,11,1.9,1.7,1.4,Social Media,5,6.2,9.8,24,Female,Graduate,India,7.0,TikTok,Yes,5.8,4,Single,5,High
+626,David Frost,13,Other,West Josephborough,10th,7.3,8.1,76,0,2.4,1,1,5,1,1.5,51,8,1.9,1.5,1.6,Social Media,2,4.9,9.3,21,Male,Undergraduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,Medium
+627,Jessica Jones,15,Other,Smithberg,7th,5.5,5.3,69,0,0.0,1,7,1,1,0.0,45,12,1.9,1.3,0.9,Social Media,9,6.6,9.4,23,Female,Graduate,Turkey,6.7,Instagram,Yes,6.1,5,Single,4,High
+628,John Garcia,14,Male,North Thomasview,8th,2.6,7.2,73,3,0.6,8,9,1,0,0.0,107,9,4.6,1.5,1.4,Education,8,5.9,9.0,20,Male,Undergraduate,USA,5.5,Twitter,Yes,6.8,6,In Relationship,3,High
+629,Louis Robinson,13,Male,North Jerry,7th,2.4,7.1,52,1,2.3,5,4,7,0,0.5,81,18,2.4,0.7,0.7,Browsing,1,3.5,7.2,22,Female,Graduate,Mexico,6.4,Facebook,Yes,6.2,5,Single,4,High
+630,Makayla Parker,13,Male,North Christopher,12th,4.3,5.8,100,10,0.4,2,1,9,1,0.9,126,15,3.4,1.3,1.2,Other,8,5.0,10.0,19,Male,Undergraduate,France,4.7,Instagram,No,7.2,7,In Relationship,2,Medium
+631,Brooke Gay,13,Female,South Richard,12th,1.1,6.8,77,9,1.9,3,9,4,1,1.6,38,19,4.2,3.8,0.0,Education,2,3.7,10.0,24,Female,Graduate,Canada,5.6,TikTok,Yes,6.7,6,Single,3,High
+632,Jason Whitaker,16,Female,Shawntown,9th,5.7,8.6,55,0,0.3,5,6,5,1,1.3,121,6,2.0,2.1,1.7,Other,4,4.4,9.1,21,Male,Undergraduate,UK,6.2,Facebook,Yes,6.3,5,Single,4,High
+633,Mary Warner,14,Other,Huntland,12th,6.9,7.9,52,4,3.3,10,2,5,1,0.9,92,10,3.3,1.8,0.9,Social Media,4,7.9,10.0,23,Female,Graduate,Italy,4.8,Twitter,No,7.1,7,In Relationship,2,Medium
+634,James Garcia,15,Other,North Sydney,9th,2.9,5.9,92,4,1.2,5,9,6,1,0.8,45,6,2.1,0.1,1.3,Browsing,4,4.3,4.2,20,Male,Undergraduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,High
+635,Patrick Flowers,15,Female,New Michael,12th,4.6,7.4,60,2,0.0,3,9,4,1,0.3,150,6,3.6,2.5,1.9,Social Media,4,3.7,10.0,22,Female,Graduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,High
+636,Stephanie Diaz,15,Other,Mariahport,11th,5.3,5.9,96,2,0.9,8,3,8,0,0.9,51,15,4.4,1.3,0.2,Gaming,5,10.2,10.0,19,Male,Undergraduate,Japan,4.4,Twitter,No,7.4,8,Single,2,Medium
+637,Megan Hill,14,Male,West Maryland,9th,3.9,3.7,85,8,0.7,8,2,6,1,1.1,39,19,2.1,1.9,0.8,Browsing,2,6.2,10.0,24,Female,Graduate,Poland,6.1,TikTok,Yes,6.4,5,Single,4,High
+638,James Sullivan,13,Male,West Austinchester,7th,5.1,5.5,80,10,1.7,6,6,6,1,0.9,77,6,3.7,1.2,1.0,Browsing,2,4.8,10.0,21,Male,Undergraduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,Medium
+639,Robert Estes,16,Female,Hahnborough,7th,4.0,5.1,79,10,0.9,8,9,1,1,2.0,81,17,2.5,2.0,1.0,Gaming,2,6.0,10.0,23,Female,Graduate,Spain,6.4,Facebook,Yes,6.2,5,Single,4,High
+640,Debbie Small,13,Female,East Brian,11th,8.8,7.7,62,5,1.7,8,6,3,1,0.6,34,18,3.2,1.2,1.5,Gaming,6,5.6,10.0,20,Male,Undergraduate,Denmark,4.5,Twitter,No,7.3,7,In Relationship,2,Medium
+641,Angela Chandler,14,Other,Port Emilyside,10th,1.0,5.9,74,4,1.7,10,6,8,1,1.1,92,20,1.9,2.8,1.7,Social Media,2,5.0,8.6,22,Female,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,High
+642,Russell Booker,18,Female,West Jenniferchester,8th,5.7,6.2,52,9,1.3,2,8,10,1,1.9,82,5,2.3,1.8,0.7,Gaming,9,4.1,9.3,19,Male,Undergraduate,India,7.2,TikTok,Yes,5.7,4,Single,5,High
+643,Jeffery Thomas,18,Female,East Melissafurt,7th,5.4,7.0,90,9,0.2,10,10,1,1,1.3,47,17,4.7,1.0,0.8,Gaming,6,9.5,10.0,24,Female,Graduate,Switzerland,4.6,Facebook,No,7.2,7,In Relationship,2,Medium
+644,Christopher Miller,13,Female,North Ruben,10th,4.4,7.6,69,4,1.8,2,7,10,1,2.4,73,17,2.7,1.7,0.0,Browsing,2,3.3,9.9,21,Male,Undergraduate,Turkey,6.8,Instagram,Yes,6.0,5,Single,4,High
+645,Terry Walker,14,Male,New Michael,10th,6.3,4.4,52,6,0.6,2,1,5,1,0.7,74,7,2.8,1.0,1.5,Browsing,2,6.9,10.0,23,Female,Graduate,USA,5.3,Twitter,Yes,6.8,6,In Relationship,3,High
+646,Alex Martin,17,Female,Christopherton,12th,7.8,4.6,56,0,1.5,6,10,9,1,0.6,126,6,0.9,2.1,0.9,Other,4,8.2,10.0,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5,Single,4,High
+647,Caleb Garrett,18,Female,West Morgan,8th,2.9,4.9,84,5,0.3,5,1,7,0,1.6,74,9,1.9,1.4,0.8,Other,3,8.8,7.0,20,Female,Undergraduate,France,4.8,Instagram,No,7.1,7,In Relationship,2,Medium
+648,Donald Horne,16,Female,Lake Jonathan,11th,4.1,6.7,82,0,0.6,8,6,1,0,1.3,150,6,1.6,0.5,0.2,Social Media,6,3.4,7.0,23,Male,Graduate,Canada,5.7,TikTok,Yes,6.6,6,Single,3,High
+649,Sandra Barton,17,Female,Port Lisamouth,12th,5.5,5.5,62,8,0.8,9,4,7,0,0.7,67,18,3.8,2.9,0.0,Social Media,7,6.7,10.0,21,Female,Undergraduate,UK,6.2,Twitter,Yes,6.3,5,Single,4,High
+650,Daniel Jones,19,Male,Bateschester,12th,8.5,6.7,69,1,1.7,5,2,6,1,1.0,47,10,1.7,1.7,0.9,Education,7,10.4,10.0,24,Male,Graduate,Italy,4.7,Facebook,No,7.2,7,In Relationship,2,Medium
+651,Margaret Garcia,17,Other,Edwardborough,10th,3.3,8.0,69,4,1.2,9,9,1,1,0.6,112,6,0.8,2.1,0.9,Other,8,4.2,5.6,19,Female,Undergraduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,High
+652,William Vaughn,14,Other,East Kevinland,7th,3.9,5.8,95,6,1.7,1,6,8,1,0.4,83,19,2.0,1.2,0.0,Browsing,1,4.6,9.7,22,Male,Graduate,China,5.6,WeChat,Yes,6.7,6,In Relationship,3,High
+653,Maria Jackson,19,Other,South Jay,12th,5.6,5.2,73,2,3.0,2,1,1,1,0.5,98,11,2.2,0.8,0.3,Other,1,7.8,10.0,20,Female,Undergraduate,Japan,4.3,Twitter,No,7.5,8,Single,2,Medium
+654,Samuel Williams,14,Male,New Michaelhaven,12th,0.0,7.0,89,7,1.7,1,4,10,0,1.5,60,7,2.7,0.3,0.9,Education,8,4.4,2.1,23,Male,Graduate,Poland,6.2,TikTok,Yes,6.3,5,Single,4,High
+655,Laura Clements,13,Other,Port Andrew,12th,4.4,5.4,69,9,0.9,2,8,1,1,1.2,142,18,3.4,1.6,1.1,Browsing,9,6.6,10.0,21,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,Medium
+656,Daniel Schmitt,16,Male,Port Craigview,10th,5.9,5.0,54,3,0.5,7,10,5,0,1.0,53,10,2.8,0.8,0.0,Education,9,6.1,10.0,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,High
+657,Sandra Edwards,14,Female,South Daniel,10th,3.5,8.0,63,9,1.3,6,7,8,1,0.7,35,13,2.4,0.0,0.5,Browsing,3,4.7,5.2,19,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7,In Relationship,2,Medium
+658,Shawn Underwood,13,Female,Lake Virginia,11th,4.8,9.5,64,2,1.4,3,1,7,1,0.7,40,17,3.1,3.1,1.5,Education,5,6.6,10.0,22,Male,Graduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,High
+659,Meredith Norris,14,Male,North Margaret,11th,3.1,5.6,52,5,0.2,10,2,10,1,1.2,31,6,3.7,3.5,2.2,Education,9,4.2,9.3,20,Female,Undergraduate,India,7.1,TikTok,Yes,5.8,4,Single,5,High
+660,Julia Harris,19,Other,North Anthony,10th,3.0,6.1,77,8,0.4,9,5,7,1,0.6,141,13,1.9,2.6,0.6,Gaming,10,3.1,9.9,23,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,Medium
+661,Samantha Russell,16,Other,New Tarashire,8th,3.8,5.2,87,9,2.6,2,8,4,1,0.7,60,13,1.0,1.1,1.1,Education,6,8.7,7.1,21,Female,Undergraduate,Turkey,6.7,Instagram,Yes,6.0,5,Single,4,High
+662,Katherine Montgomery,17,Male,Masonburgh,8th,4.9,7.7,87,7,0.0,5,5,6,1,1.4,86,11,1.3,2.8,1.0,Browsing,7,7.4,9.1,24,Male,Graduate,USA,5.4,Twitter,Yes,6.8,6,In Relationship,3,High
+663,Edward Gilbert,17,Male,Diazberg,10th,8.4,9.3,84,7,1.0,8,3,2,1,1.6,28,7,2.0,1.2,1.0,Social Media,8,5.0,8.9,19,Female,Undergraduate,Mexico,6.4,TikTok,Yes,6.2,5,Single,4,High
+664,Francisco Sanchez,14,Other,South Jenna,10th,2.4,3.4,53,2,1.2,2,4,8,1,1.4,126,5,2.5,2.0,0.1,Browsing,1,6.0,8.7,22,Male,Graduate,France,4.7,Facebook,No,7.2,7,In Relationship,2,Medium
+665,Kelly Stanley,13,Female,Lake Joseph,7th,4.6,8.7,98,7,1.2,4,6,1,0,1.4,122,10,3.8,1.9,0.2,Browsing,5,9.5,10.0,20,Female,Undergraduate,Canada,5.6,Instagram,Yes,6.7,6,Single,3,High
+666,Lawrence Fuller,17,Male,East Willie,7th,5.3,8.4,67,10,0.7,9,4,8,1,0.5,70,18,3.4,0.9,0.7,Education,10,4.9,10.0,23,Male,Graduate,UK,6.3,Twitter,Yes,6.2,5,Single,4,High
+667,Veronica Evans,15,Male,East Amberberg,9th,5.6,5.3,73,5,0.6,5,4,9,1,2.0,100,9,2.7,0.0,1.1,Social Media,1,7.8,9.5,21,Female,Undergraduate,Italy,4.8,TikTok,No,7.1,7,In Relationship,2,Medium
+668,Joshua Young,13,Male,Bettyberg,8th,5.7,5.6,67,9,0.5,10,8,2,1,0.8,126,9,2.7,0.6,0.3,Education,1,8.5,10.0,24,Male,Graduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,High
+669,Christopher Garcia,16,Male,South Peter,10th,2.5,10.0,60,5,1.4,7,10,9,0,0.6,133,17,2.9,1.5,0.1,Gaming,6,6.1,8.0,19,Female,Undergraduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,High
+670,Charles Wolfe,19,Other,Malonetown,12th,3.2,8.5,58,3,1.9,1,3,3,1,0.7,71,11,2.5,0.0,1.5,Browsing,6,5.3,5.1,22,Male,Graduate,Japan,4.4,Twitter,No,7.4,8,Single,2,Medium
+671,Daniel Hines,17,Female,North James,12th,6.6,5.5,68,2,2.0,4,2,9,1,1.4,138,19,3.6,0.5,2.1,Browsing,3,6.7,10.0,20,Female,Undergraduate,Poland,6.1,Facebook,Yes,6.4,5,Single,4,High
+672,Joshua Howard,13,Other,Stephaniehaven,12th,2.8,6.0,79,8,0.7,1,8,4,1,0.6,78,5,2.2,1.3,0.4,Gaming,4,6.7,5.9,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,Medium
+673,Hector Mendez,15,Other,Camachoberg,7th,4.6,5.1,51,2,1.0,8,7,6,1,1.3,89,17,2.8,0.8,2.1,Gaming,7,6.8,10.0,21,Female,Undergraduate,Spain,6.4,TikTok,Yes,6.2,5,Single,4,High
+674,Zachary Perkins,18,Male,Marqueztown,9th,6.4,7.3,84,3,0.2,10,6,1,1,0.0,52,12,1.0,2.4,0.0,Gaming,6,9.2,9.6,24,Male,Graduate,Denmark,4.5,Twitter,No,7.3,7,In Relationship,2,Medium
+675,John Weber,13,Female,West Cliffordside,10th,3.7,5.7,90,6,0.8,3,6,7,0,0.6,117,20,3.2,1.3,1.6,Other,10,5.5,10.0,19,Female,Undergraduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,High
+676,Jacqueline Fisher,14,Other,Lake James,11th,6.0,7.5,63,0,0.8,8,10,6,1,0.7,66,16,2.4,1.5,0.7,Other,5,3.8,10.0,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4,Single,5,High
+677,Kristin Palmer,19,Male,Perrymouth,8th,6.5,6.9,88,7,1.2,7,5,2,1,1.2,93,19,2.3,2.3,1.7,Gaming,3,6.1,10.0,20,Female,Undergraduate,Switzerland,4.6,TikTok,No,7.2,7,In Relationship,2,Medium
+678,Joel Roy,17,Male,Dawsonville,12th,4.7,5.5,68,5,0.3,8,1,6,0,1.5,77,8,1.9,1.3,0.0,Social Media,1,5.5,8.3,23,Male,Graduate,Turkey,6.8,Instagram,Yes,6.0,5,Single,4,High
+679,Nathan Davis,17,Other,Georgemouth,8th,4.4,7.8,55,9,1.5,5,3,9,1,1.1,131,15,0.3,1.5,1.4,Social Media,5,7.5,7.9,21,Female,Undergraduate,USA,5.3,Twitter,Yes,6.8,6,In Relationship,3,High
+680,Marc Young,15,Male,Port Brandy,12th,3.8,4.3,89,2,0.0,5,6,1,1,0.9,56,19,2.7,1.9,1.9,Other,1,5.0,10.0,24,Male,Graduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,High
+681,Daniel Reyes,17,Other,North Kelly,12th,9.3,6.9,88,2,0.7,6,2,3,0,1.2,106,9,2.0,0.3,0.9,Gaming,8,8.6,10.0,19,Female,Undergraduate,France,4.7,Instagram,No,7.2,7,In Relationship,2,Medium
+682,Ryan Gonzalez,14,Female,North Johnmouth,8th,3.8,6.2,95,4,0.8,7,1,2,0,1.5,32,9,3.1,1.6,1.4,Gaming,5,2.1,7.8,22,Male,Graduate,Canada,5.8,TikTok,Yes,6.6,6,Single,3,High
+683,Caroline Bowers,14,Male,South Kayla,11th,4.8,6.4,77,5,0.2,7,3,2,0,1.0,62,18,2.9,1.1,0.1,Education,9,6.1,10.0,20,Female,Undergraduate,UK,6.1,Twitter,Yes,6.4,5,Single,4,High
+684,Shane Walker,18,Male,Cooperland,10th,4.9,7.0,94,3,1.3,6,9,8,0,0.6,109,13,2.3,0.0,0.0,Gaming,6,5.4,8.5,23,Male,Graduate,Italy,4.8,Facebook,No,7.1,7,In Relationship,2,Medium
+685,Emily Montgomery,13,Other,Virginiaside,11th,5.7,6.0,74,1,0.4,8,3,9,1,1.0,63,20,2.6,0.0,1.7,Browsing,8,3.3,10.0,21,Female,Undergraduate,Russia,6.7,Instagram,Yes,6.0,4,Single,5,High
+686,Jody Quinn,16,Female,Jacobhaven,12th,5.4,4.9,88,8,1.3,1,7,9,0,1.7,131,8,2.9,1.7,0.2,Gaming,2,5.4,10.0,24,Male,Graduate,China,5.5,WeChat,Yes,6.8,6,In Relationship,3,High
+687,William Johnson,14,Male,Ashleychester,11th,6.6,8.0,81,8,1.4,6,4,1,0,0.7,87,17,3.8,2.6,1.0,Browsing,4,7.1,10.0,19,Female,Undergraduate,Japan,4.2,Twitter,No,7.5,8,Single,2,Medium
+688,Samuel Fischer,17,Other,East Megan,11th,6.5,6.0,64,10,0.0,4,5,1,1,1.1,50,6,3.0,1.6,0.2,Education,2,6.2,10.0,22,Male,Graduate,Poland,6.3,TikTok,Yes,6.2,5,Single,4,High
+689,Dana Rodriguez,19,Female,North James,8th,7.0,5.3,59,5,0.4,10,8,9,0,0.8,134,11,2.4,1.5,0.4,Other,10,3.5,10.0,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,Medium
+690,Caitlyn Baker,17,Female,Lake Melissatown,9th,4.1,6.8,62,10,1.5,3,8,10,1,1.0,127,15,4.2,1.5,0.3,Education,10,5.3,10.0,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,High
+691,Krystal Gomez,19,Female,West Matthew,9th,3.2,4.3,82,6,0.6,10,3,4,1,1.0,23,11,2.6,2.5,0.9,Education,9,6.9,8.8,21,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7,In Relationship,2,Medium
+692,Jennifer White,17,Other,West Davidchester,10th,5.0,7.2,80,8,0.2,4,4,1,1,1.7,122,16,2.0,2.2,1.2,Social Media,7,7.4,10.0,24,Male,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,High
+693,Jessica Harris,18,Other,Lake Michaelport,9th,4.3,4.0,95,6,1.3,8,6,8,1,0.5,24,13,3.5,2.0,0.0,Gaming,8,6.9,10.0,19,Female,Undergraduate,India,7.0,TikTok,Yes,5.8,4,Single,5,High
+694,Nicholas Villa,17,Other,Haleyhaven,10th,5.4,7.8,77,7,0.0,5,4,7,1,1.4,120,12,4.3,0.0,0.4,Gaming,10,3.1,10.0,22,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,Medium
+695,Kurt Brown,13,Male,Russellton,9th,3.7,4.2,85,7,1.7,7,2,10,0,2.0,132,6,1.4,1.1,0.1,Browsing,9,2.0,7.9,20,Female,Undergraduate,Turkey,6.6,Instagram,Yes,6.1,5,Single,4,High
+696,Steven Peterson,16,Other,Lake Amandahaven,9th,5.2,6.1,93,6,0.6,8,8,5,1,0.9,93,11,4.2,2.4,0.3,Social Media,4,9.3,10.0,23,Male,Graduate,USA,5.5,Twitter,Yes,6.7,6,In Relationship,3,High
+697,Erika Jones,13,Male,New Jessemouth,8th,2.5,7.6,90,7,0.1,5,2,10,1,1.0,61,7,2.6,1.9,2.4,Browsing,3,2.1,5.8,21,Female,Undergraduate,Mexico,6.3,TikTok,Yes,6.2,5,Single,4,High
+698,Anthony Allen,18,Female,South Stephanieton,12th,4.0,5.7,55,0,1.4,4,5,2,1,1.3,48,18,2.7,3.0,0.7,Other,8,8.3,10.0,24,Male,Graduate,France,4.8,Facebook,No,7.1,7,In Relationship,2,Medium
+699,Brittany Klein,18,Male,Lake Julianborough,8th,7.6,7.0,61,7,2.7,10,3,7,0,1.6,121,5,3.1,1.7,1.9,Social Media,10,11.6,10.0,19,Female,Undergraduate,Canada,5.7,Instagram,Yes,6.6,6,Single,3,High
+700,Daniel Burgess,17,Female,Port Brittanyville,12th,4.9,4.7,79,8,1.0,3,4,2,1,1.3,122,12,2.3,1.2,0.6,Gaming,10,5.0,10.0,22,Male,Graduate,UK,6.2,Twitter,Yes,6.3,5,Single,4,High
+701,Paul Rodriguez,14,Male,Lake Holly,11th,2.8,4.4,60,8,0.0,2,4,7,1,1.2,95,9,2.8,0.4,0.5,Gaming,10,8.1,7.5,20,Female,Undergraduate,Italy,4.7,TikTok,No,7.2,7,In Relationship,2,Medium
+702,Philip Patel,13,Female,North Christopher,11th,0.0,4.5,63,5,0.4,5,10,9,1,0.8,141,18,3.3,0.0,1.0,Social Media,1,6.1,7.5,23,Male,Graduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,High
+703,Ronald Simmons,16,Female,Port Theodore,9th,2.9,6.7,64,8,0.0,5,7,9,0,1.5,115,14,3.4,1.2,0.4,Other,3,5.1,9.2,21,Female,Undergraduate,China,5.6,WeChat,Yes,6.7,6,In Relationship,3,High
+704,Gabriella Winters DDS,17,Other,West Phillipfort,11th,4.1,7.1,80,3,0.0,10,8,6,1,0.7,121,17,1.0,0.4,1.1,Browsing,6,6.2,7.8,24,Male,Graduate,Japan,4.3,Twitter,No,7.5,8,Single,2,Medium
+705,Dawn Solis,16,Male,West Beverlyton,10th,8.3,5.7,98,8,0.9,3,9,10,0,1.4,83,7,4.5,0.0,0.8,Other,3,6.1,10.0,19,Female,Undergraduate,Poland,6.2,Facebook,Yes,6.3,5,Single,4,High
